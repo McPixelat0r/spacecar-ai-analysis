@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/4050_Final_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/data_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/feature_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/perception_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generation/narrative_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generation/raw_feature_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/cost_optimization_model_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/danger_rating_model_with_angle_weighting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/fuel_usage_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/simulated_trip_evaluator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/trajectory_prediction_model_smarter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/batch_simulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/cleaned_data_simulation_runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation/main_simulation_runner.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2w5KgaJkxSCIlNEPqaddxfaTp2r" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.cleaned_data_simulation_runner.executor": "Run",
+    "Python.export_raw_data.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_simulation_runner.executor": "Run",
+    "Python.main_simulation_simple.executor": "Run",
+    "Python.perception_filter.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/juanc/PycharmProjects/4050_Final_Project",
+    "settings.editor.selected.configurable": "preferences.updates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\data" />
+      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\simulation" />
+      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\analysis" />
+      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\generation" />
+      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\models" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="" />
+      <created>1745326106641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745326106641</updated>
+    </task>
+    <servers />
+  </component>
+</project>
