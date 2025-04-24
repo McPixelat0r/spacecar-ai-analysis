@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/4050_Final_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/data_cleaning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/feature_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/perception_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generation/narrative_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generation/raw_feature_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/cost_optimization_model_simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/danger_rating_model_with_angle_weighting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/fuel_usage_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/simulated_trip_evaluator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/trajectory_prediction_model_smarter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/batch_simulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/cleaned_data_simulation_runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation/main_simulation_runner.py" afterDir="false" />
-    </list>
+    <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="Current project structure and first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/juanc/PycharmProjects/4050_Final_Project",
     "settings.editor.selected.configurable": "preferences.updates"
@@ -103,6 +76,27 @@
       <option name="presentableId" value="Default" />
       <updated>1745326106641</updated>
     </task>
+    <task id="LOCAL-00001" summary="Current project structure and first commit">
+      <option name="closed" value="true" />
+      <created>1745527932587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745527932587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Current project structure and first commit">
+      <option name="closed" value="true" />
+      <created>1745527986588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745527986588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Current project structure and first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Current project structure and first commit" />
   </component>
 </project>
