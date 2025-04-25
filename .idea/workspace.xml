@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="Current project structure and first commit">
-      <change afterPath="$PROJECT_DIR$/PROJECT_BACKLOG.md" afterDir="false" />
+    <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="Big changes and updates">
       <change afterPath="$PROJECT_DIR$/cleaned_data_simulation_runner_old.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/trajectory_prediction_model_physics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/data_cleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/data_cleaning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cleaned_features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/cleaned_features.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/raw_features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/raw_features.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generation/raw_feature_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generation/raw_feature_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/fuel_usage_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/fuel_usage_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulation/batch_simulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulation/batch_simulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulation/cleaned_data_simulation_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulation/cleaned_data_simulation_runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulation/main_simulation_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulation/main_simulation_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/trajectory_prediction_model_physics.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/trajectory_prediction_model_physics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,12 +56,13 @@
     "Python.main_simulation_runner.executor": "Run",
     "Python.main_simulation_simple.executor": "Run",
     "Python.perception_filter.executor": "Run",
+    "Python.test_physics_model.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/juanc/PycharmProjects/4050_Final_Project/simulation",
+    "last_opened_file_path": "C:/Users/juanc/PycharmProjects/4050_Final_Project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,16 +74,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\simulation" />
       <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project" />
+      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\simulation" />
       <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\models" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\tests" />
       <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\simulation" />
       <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\data" />
       <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\analysis" />
       <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\generation" />
-      <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project\models" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -110,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745326106641</updated>
-      <workItem from="1745534618586" duration="15223000" />
+      <workItem from="1745534618586" duration="16317000" />
     </task>
     <task id="LOCAL-00001" summary="Current project structure and first commit">
       <option name="closed" value="true" />
@@ -144,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745528775940</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Big changes and updates">
+      <option name="closed" value="true" />
+      <created>1745602604241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745602604241</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,9 +152,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Current project structure and first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Current project structure and first commit" />
+    <MESSAGE value="Big changes and updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Big changes and updates" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/4050_Final_Project$main_simulation_runner.coverage" NAME="main_simulation_runner Coverage Results" MODIFIED="1745601795450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simulation" />
+    <SUITE FILE_PATH="coverage/4050_Final_Project$test_physics_model.coverage" NAME="test_physics_model Coverage Results" MODIFIED="1745603668668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
