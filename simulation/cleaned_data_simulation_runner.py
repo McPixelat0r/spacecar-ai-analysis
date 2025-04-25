@@ -1,3 +1,4 @@
+from models.trajectory_prediction_model_physics import TrajectoryPredictionModelPhysics
 import pandas as pd
 
 from models.danger_rating_model_with_angle_weighting import DangerRatingModel

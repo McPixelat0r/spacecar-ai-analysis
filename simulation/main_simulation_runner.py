@@ -1,4 +1,4 @@
-
+from models.trajectory_prediction_model_physics import TrajectoryPredictionModelPhysics
 from generation.raw_feature_generator import RawFeatureGenerator
 from analysis.data_cleaning import clean_raw_data
 from simulation.cleaned_data_simulation_runner import run_simulation_from_cleaned_data

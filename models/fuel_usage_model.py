@@ -39,7 +39,7 @@ class FuelUsageModelEnhanced:
             return 1.2
         return 1.0
 
-    def estimate(self, car_specs, danger_score):
+    def estimate(self, car_specs, danger_score, turn_angle=0):
         weight = car_specs.get("space_weight_kg", 2000)
         thrust = car_specs.get("thrust_kN", 60.0)
         power = car_specs.get("power_capacity_kWh", 200)
@@ -58,5 +58,9 @@ class FuelUsageModelEnhanced:
                 * power_factor
                 * risk_factor
         )
+
+        moment_of_inertia = car_specs.get("moment_of_inertia", 1.0)
+        if abs(turn_angle) > 0:
+            fuel_usage *= 1 + 0.003 * abs(turn_angle) * moment_of_inertia
 
         return round(fuel_usage, 3)

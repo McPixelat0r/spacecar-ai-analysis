@@ -1,7 +1,8 @@
-
 import random
 import pandas as pd
 from faker import Faker
+from datetime import date
+
 
 class RawFeatureGenerator:
     def __init__(self, seed=42):
@@ -39,22 +40,58 @@ class RawFeatureGenerator:
         car_type = car_info["car_type"]
         chassis_weight = car_info["chassis_weight_kg"]
 
+        moi_values = {
+            "Micro": 0.8,
+            "Coupe": 1.0,
+            "Sedan": 1.2,
+            "SUV": 1.5,
+            "Transport": 2.0
+        }
+        moment_of_inertia = moi_values.get(car_type, 1.0)
+
         engine_weight = random.randint(*self.engine_weight_range[car_type])
         thruster_weight = random.randint(*self.thruster_weight_range[car_type])
         fuel_type = random.choice(list(self.fuel_types.keys()))
         fuel_data = self.fuel_types[fuel_type]
         fuel_weight = random.randint(100, 300)
         starting_fuel_kWh = round(random.uniform(100.0, 300.0), 1)
+
         total_thrust = round(random.uniform(40.0, 80.0), 1)
         thrust_rear = round(total_thrust * 0.6, 1)
         thrust_front = round(total_thrust * 0.3, 1)
         thrust_side = round(total_thrust * 0.1, 1)
+
+        sci_fi_station_names = [
+            "Lunaris Port", "Vega Spire", "Orryx Haven", "Cryon Reach",
+            "Zenthar Relay", "Helion Hub", "Cerebra Ring", "Thalos Crossing"
+        ]
+        sci_fi_admins = [
+            "Dr. Calix Renner", "Elia Vorn", "Marshal Keir", "Tamsin Ryx",
+            "Axel Orov", "Captain Kael", "Zara Strix", "Commander Yulo"
+        ]
+        telemetry_templates = [
+            "Power levels nominal. Adjusting trajectory.",
+            "Fuel low. Navigating around debris.",
+            "Re-routing due to unstable path.",
+            "Clear path confirmed. Continuing cruise.",
+            "Minor vibration detected. Monitoring systems."
+        ]
+
+        origin_station = random.choice(sci_fi_station_names)
+        destination_station = random.choice(sci_fi_station_names)
+        while destination_station == origin_station:
+            destination_station = random.choice(sci_fi_station_names)
+
+        assigned_by = random.choice(sci_fi_admins)
+        last_telemetry_message = random.choice(telemetry_templates)
+        test_date = date(4025, random.randint(1, 12), random.randint(1, 28))
 
         return {
             "car_type": car_type,
             "car_model": car_model,
             "engine_class": self.faker.random_element(elements=["Ion-A", "Fusion-B", "Plasma-A"]),
             "chassis_weight_kg": chassis_weight,
+            "moment_of_inertia": moment_of_inertia,
             "engine_weight_kg": engine_weight,
             "thruster_weight_kg": thruster_weight,
             "fuel_weight_kg": fuel_weight,
@@ -77,16 +114,16 @@ class RawFeatureGenerator:
             "heading_deg": random.randint(0, 359),
             "previous_heading_deg": random.randint(0, 359),
             "test_id": f"CASE-{self.faker.random_number(digits=4)}-{self.faker.random_uppercase_letter()}",
-            "test_date": self.faker.date_this_decade(),
-            "assigned_by": self.faker.name(),
+            "test_date": test_date.isoformat(),
+            "assigned_by": assigned_by,
             "mission_type": "commute",
             "crew_status": "automated",
             "navigation_mode": "auto",
-            "origin_station": self.faker.city(),
-            "destination_station": self.faker.city(),
-            "car_name": self.faker.word().capitalize() + " " + self.faker.color_name(),
-            "last_telemetry_message": self.faker.sentence(nb_words=4),
-            "ship_serial_number": f"SN-{self.faker.random_number(digits=6)}"
+            "origin_station": origin_station,
+            "destination_station": destination_station,
+            "car_color": self.faker.color_name(),
+            "last_telemetry_message": last_telemetry_message,
+            "ship_serial_number": f"CXS-{random.randint(1000, 9999)}-{self.faker.random_uppercase_letter()}{self.faker.random_uppercase_letter()}"
         }
 
     def generate_batch(self, n=1000):
