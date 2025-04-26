@@ -2,8 +2,8 @@
 Fuel Usage Model (Enhanced)
 
 This model estimates the space car's fuel usage based on its weight, thrust capacity, engine class efficiency,
-power capacity, environmental danger score, and turning behavior (moment of inertia). It incorporates multiple
-efficiency curves and penalties to reflect realistic energy demands.
+power capacity, environmental danger score, and turning behavior (moment of inertia).
+It incorporates multiple efficiency curves and penalties to reflect realistic energy demands.
 """
 
 from typing import Dict, Any
@@ -14,7 +14,7 @@ class FuelUsageModelEnhanced:
     Model for estimating the fuel consumption of a space car under various conditions.
 
     Attributes:
-        base_fuel_rate (float): Base rate multiplier for fuel usage.
+        base_fuel_rate (float): Base multiplier for fuel usage.
         engine_efficiency (Dict[str, float]): Engine-specific fuel efficiency multipliers.
     """
 
@@ -22,7 +22,7 @@ class FuelUsageModelEnhanced:
         """
         Initialize the FuelUsageModelEnhanced with base rates and engine efficiency parameters.
         """
-        self.base_fuel_rate: float = 0.04  # Base multiplier for all calculations.
+        self.base_fuel_rate: float = 0.04  # Base multiplier for all calculations
 
         self.engine_efficiency: Dict[str, float] = {
             "Ion-A": 0.7,
@@ -34,7 +34,7 @@ class FuelUsageModelEnhanced:
 
     def thrust_efficiency_curve(self, thrust: float) -> float:
         """
-        Model efficiency penalty based on thrust deviation from the optimal range.
+        Model efficiency penalty based on thrust deviation from the optimal thrust range (60 kN).
 
         Args:
             thrust (float): Thrust value in kilonewtons.
@@ -43,7 +43,7 @@ class FuelUsageModelEnhanced:
             float: Thrust efficiency multiplier.
         """
         if thrust <= 0:
-            return 2.0  # Severe inefficiency penalty for non-functional thrust.
+            return 2.0  # Severe inefficiency penalty for non-functional thrust
         return 1 + 0.0015 * (thrust - 60) ** 2
 
     def power_penalty(self, power_capacity: float) -> float:
@@ -57,7 +57,7 @@ class FuelUsageModelEnhanced:
             float: Power inefficiency multiplier.
         """
         if power_capacity >= 300:
-            return 1.1  # Mild inefficiency penalty.
+            return 1.1  # Mild inefficiency penalty
         return 1.0
 
     def danger_multiplier(self, danger_score: float) -> float:
@@ -65,7 +65,7 @@ class FuelUsageModelEnhanced:
         Increase fuel usage based on the perceived environmental danger.
 
         Args:
-            danger_score (float): Normalized danger score between 0 and 1.
+            danger_score (float): Normalized danger score between 0.0 and 1.0.
 
         Returns:
             float: Risk multiplier for fuel usage.
@@ -78,12 +78,12 @@ class FuelUsageModelEnhanced:
 
     def estimate(self, car_specs: Dict[str, Any], danger_score: float, turn_angle: float = 0.0) -> float:
         """
-        Estimate the amount of fuel used based on car specifications and environment conditions.
+        Estimate the amount of fuel used based on car specifications and environmental conditions.
 
         Args:
             car_specs (Dict[str, Any]): Dictionary containing car parameters (weight, thrust, engine, etc.).
             danger_score (float): Computed environmental danger score.
-            turn_angle (float, optional): Degree of turn maneuver, defaults to 0°.
+            turn_angle (float, optional): Degree of turn maneuver. Defaults to 0.0.
 
         Returns:
             float: Estimated fuel usage, rounded to 3 decimals.
@@ -106,12 +106,12 @@ class FuelUsageModelEnhanced:
 
         # Base fuel consumption estimate
         fuel_usage = (
-                self.base_fuel_rate
-                * (weight / thrust)
-                * thrust_efficiency
-                * engine_factor
-                * power_factor
-                * risk_factor
+            self.base_fuel_rate
+            * (weight / thrust)
+            * thrust_efficiency
+            * engine_factor
+            * power_factor
+            * risk_factor
         )
 
         # Additional fuel usage for turning based on moment of inertia
