@@ -1,17 +1,25 @@
+"""
+Test: Physics-Based Model Basic Behavior
+
+This test checks how the physics-based trajectory model handles a scenario with threats
+primarily on the left, and simulates 5 consecutive time steps.
+"""
+
 import pprint
-from models.trajectory_prediction_model_physics import TrajectoryPredictionModelPhysics
+from models_clean_polished.trajectory_prediction_model_physics import TrajectoryPredictionModelPhysics
 
 
-def run_test():
+def run_test() -> None:
+    """
+    Run the basic physics model behavior test.
+    """
     model = TrajectoryPredictionModelPhysics(moment_of_inertia=500.0, max_torque=100.0)
 
-    # Define initial car state
     car_state = {
         'heading': 0.0,
         'angular_velocity': 0.0
     }
 
-    # Define sample threat scenario
     perception_stats = {
         'Threats_Left_Sector': 3,
         'Threats_Right_Sector': 1,
@@ -25,5 +33,5 @@ def run_test():
         pprint.pprint(result)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     run_test()

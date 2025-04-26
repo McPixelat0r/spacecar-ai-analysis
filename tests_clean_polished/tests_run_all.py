@@ -1,14 +1,25 @@
+"""
+Custom Test Runner
+
+This script dynamically loads and runs individual test files for the physics and trajectory models.
+It provides colored output indicating success, warnings, or failure, along with timing information.
+"""
+
 import os
 import importlib.util
 import time
 
-# ANSI escape codes
+# ANSI escape codes for colored output
 GREEN = '\033[92m'
 RED = '\033[91m'
 YELLOW = '\033[93m'
 RESET = '\033[0m'
 
-def run_all_tests():
+
+def run_all_tests() -> None:
+    """
+    Run all predefined test scripts and print colored results.
+    """
     test_files = [
         "test_physics_model.py",
         "test_no_threats.py",
@@ -22,10 +33,10 @@ def run_all_tests():
 
     for filename in test_files:
         path = os.path.join(os.path.dirname(__file__), filename)
-        print(f"\n==============================")
+        print("\n==============================")
         print(f"▶️  {filename}")
-        print(f"==============================")
-        
+        print("==============================")
+
         start_time = time.time()
         try:
             spec = importlib.util.spec_from_file_location("test_module", path)
@@ -47,5 +58,6 @@ def run_all_tests():
     print(f"\n{GREEN}✅ All tests completed.{RESET}")
     print(f"🕒 Total time: {total_end_time - total_start_time:.2f} seconds")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     run_all_tests()
