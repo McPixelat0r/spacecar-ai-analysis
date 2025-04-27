@@ -1,0 +1,1001 @@
+assigned_by,origin_station,destination_station,mission_type,crew_status,navigation_mode,car_color,last_telemetry_message,ship_serial_number
+Axel Orov,Vega Spire,Lunaris Port,commute,automated,auto,DarkOliveGreen,Fuel low. Navigating around debris.,CXS-4657-AX
+Elia Vorn,Orryx Haven,Cerebra Ring,commute,automated,auto,LightSalmon,Minor vibration detected. Monitoring systems.,CXS-2424-HH
+Dr. Calix Renner,Cerebra Ring,Lunaris Port,commute,automated,auto,DarkSlateGray,Power levels nominal. Adjusting trajectory.,CXS-4582-XD
+Dr. Calix Renner,Cryon Reach,Helion Hub,commute,automated,auto,YellowGreen,Minor vibration detected. Monitoring systems.,CXS-4257-CS
+Commander Yulo,Cerebra Ring,Vega Spire,commute,automated,auto,Peru,Minor vibration detected. Monitoring systems.,CXS-5557-BA
+Marshal Keir,Lunaris Port,Thalos Crossing,commute,automated,auto,DarkGoldenRod,Clear path confirmed. Continuing cruise.,CXS-6574-GH
+Tamsin Ryx,Zenthar Relay,Vega Spire,commute,automated,auto,Tan,Re-routing due to unstable path.,CXS-2674-TA
+Elia Vorn,Vega Spire,Zenthar Relay,commute,automated,auto,Gray,Re-routing due to unstable path.,CXS-6635-WU
+Dr. Calix Renner,Zenthar Relay,Thalos Crossing,commute,automated,auto,YellowGreen,Clear path confirmed. Continuing cruise.,CXS-9785-NH
+Elia Vorn,Vega Spire,Zenthar Relay,commute,automated,auto,RosyBrown,Minor vibration detected. Monitoring systems.,CXS-5803-SI
+Tamsin Ryx,Helion Hub,Zenthar Relay,commute,automated,auto,AntiqueWhite,Power levels nominal. Adjusting trajectory.,CXS-1750-YZ
+Axel Orov,Cryon Reach,Thalos Crossing,commute,automated,auto,DimGray,Power levels nominal. Adjusting trajectory.,CXS-4814-WN
+Axel Orov,Vega Spire,Zenthar Relay,commute,automated,auto,MediumSpringGreen,Clear path confirmed. Continuing cruise.,CXS-6977-IE
+Captain Kael,Orryx Haven,Cryon Reach,commute,automated,auto,IndianRed,Fuel low. Navigating around debris.,CXS-5374-YK
+Marshal Keir,Vega Spire,Helion Hub,commute,automated,auto,DarkKhaki,Minor vibration detected. Monitoring systems.,CXS-5010-CM
+Zara Strix,Orryx Haven,Zenthar Relay,commute,automated,auto,DarkGray,Re-routing due to unstable path.,CXS-4598-LL
+Dr. Calix Renner,Helion Hub,Thalos Crossing,commute,automated,auto,LightGray,Fuel low. Navigating around debris.,CXS-1525-ZB
+Axel Orov,Helion Hub,Cryon Reach,commute,automated,auto,Salmon,Power levels nominal. Adjusting trajectory.,CXS-4456-RD
+Commander Yulo,Helion Hub,Vega Spire,commute,automated,auto,OldLace,Clear path confirmed. Continuing cruise.,CXS-8517-CR
+Marshal Keir,Orryx Haven,Cryon Reach,commute,automated,auto,LightYellow,Fuel low. Navigating around debris.,CXS-9830-UT
+Zara Strix,Zenthar Relay,Cerebra Ring,commute,automated,auto,MistyRose,Minor vibration detected. Monitoring systems.,CXS-7543-SG
+Marshal Keir,Helion Hub,Vega Spire,commute,automated,auto,CornflowerBlue,Minor vibration detected. Monitoring systems.,CXS-9085-BV
+Dr. Calix Renner,Vega Spire,Thalos Crossing,commute,automated,auto,Khaki,Power levels nominal. Adjusting trajectory.,CXS-3504-YJ
+Zara Strix,Orryx Haven,Thalos Crossing,commute,automated,auto,Cyan,Minor vibration detected. Monitoring systems.,CXS-2040-HD
+Commander Yulo,Cerebra Ring,Cryon Reach,commute,automated,auto,Olive,Minor vibration detected. Monitoring systems.,CXS-5119-IO
+Elia Vorn,Lunaris Port,Cerebra Ring,commute,automated,auto,Moccasin,Minor vibration detected. Monitoring systems.,CXS-5371-FL
+Axel Orov,Helion Hub,Lunaris Port,commute,automated,auto,MidnightBlue,Clear path confirmed. Continuing cruise.,CXS-3591-GV
+Axel Orov,Thalos Crossing,Lunaris Port,commute,automated,auto,LightGreen,Minor vibration detected. Monitoring systems.,CXS-3927-WV
+Axel Orov,Vega Spire,Thalos Crossing,commute,automated,auto,Cornsilk,Minor vibration detected. Monitoring systems.,CXS-4258-TU
+Marshal Keir,Orryx Haven,Cryon Reach,commute,automated,auto,FloralWhite,Minor vibration detected. Monitoring systems.,CXS-9689-RX
+Captain Kael,Lunaris Port,Helion Hub,commute,automated,auto,LemonChiffon,Clear path confirmed. Continuing cruise.,CXS-1319-FO
+Axel Orov,Vega Spire,Cryon Reach,commute,automated,auto,Olive,Fuel low. Navigating around debris.,CXS-1949-IU
+Elia Vorn,Cryon Reach,Helion Hub,commute,automated,auto,Indigo,Power levels nominal. Adjusting trajectory.,CXS-8962-VK
+Marshal Keir,Vega Spire,Thalos Crossing,commute,automated,auto,Chartreuse,Fuel low. Navigating around debris.,CXS-8787-HB
+Zara Strix,Orryx Haven,Cryon Reach,commute,automated,auto,Maroon,Fuel low. Navigating around debris.,CXS-9835-MI
+Axel Orov,Cryon Reach,Cerebra Ring,commute,automated,auto,Coral,Clear path confirmed. Continuing cruise.,CXS-7118-GS
+Commander Yulo,Thalos Crossing,Zenthar Relay,commute,automated,auto,Maroon,Power levels nominal. Adjusting trajectory.,CXS-5061-GU
+Captain Kael,Cryon Reach,Lunaris Port,commute,automated,auto,SpringGreen,Power levels nominal. Adjusting trajectory.,CXS-4770-MU
+Elia Vorn,Cryon Reach,Lunaris Port,commute,automated,auto,Salmon,Power levels nominal. Adjusting trajectory.,CXS-4750-EI
+Captain Kael,Vega Spire,Lunaris Port,commute,automated,auto,DarkSlateGray,Power levels nominal. Adjusting trajectory.,CXS-9423-HX
+Commander Yulo,Cryon Reach,Orryx Haven,commute,automated,auto,WhiteSmoke,Fuel low. Navigating around debris.,CXS-9834-IX
+Commander Yulo,Orryx Haven,Cerebra Ring,commute,automated,auto,Pink,Fuel low. Navigating around debris.,CXS-8749-SM
+Elia Vorn,Cerebra Ring,Vega Spire,commute,automated,auto,MistyRose,Power levels nominal. Adjusting trajectory.,CXS-8062-HE
+Zara Strix,Helion Hub,Cryon Reach,commute,automated,auto,Teal,Clear path confirmed. Continuing cruise.,CXS-1887-PC
+Zara Strix,Vega Spire,Lunaris Port,commute,automated,auto,BurlyWood,Re-routing due to unstable path.,CXS-2790-DE
+Tamsin Ryx,Cryon Reach,Vega Spire,commute,automated,auto,DimGray,Minor vibration detected. Monitoring systems.,CXS-8350-ZV
+Marshal Keir,Orryx Haven,Zenthar Relay,commute,automated,auto,Peru,Re-routing due to unstable path.,CXS-8579-TC
+Elia Vorn,Cryon Reach,Thalos Crossing,commute,automated,auto,OliveDrab,Clear path confirmed. Continuing cruise.,CXS-2604-MT
+Dr. Calix Renner,Lunaris Port,Cerebra Ring,commute,automated,auto,SeaGreen,Power levels nominal. Adjusting trajectory.,CXS-4872-QI
+Commander Yulo,Orryx Haven,Zenthar Relay,commute,automated,auto,Aqua,Clear path confirmed. Continuing cruise.,CXS-4502-VX
+Marshal Keir,Cerebra Ring,Lunaris Port,commute,automated,auto,DarkOrange,Clear path confirmed. Continuing cruise.,CXS-1035-VR
+Commander Yulo,Cerebra Ring,Orryx Haven,commute,automated,auto,LightGreen,Re-routing due to unstable path.,CXS-7930-YU
+Tamsin Ryx,Thalos Crossing,Vega Spire,commute,automated,auto,MediumSpringGreen,Re-routing due to unstable path.,CXS-4566-DJ
+Dr. Calix Renner,Lunaris Port,Helion Hub,commute,automated,auto,PowderBlue,Re-routing due to unstable path.,CXS-1936-FO
+Commander Yulo,Lunaris Port,Helion Hub,commute,automated,auto,AliceBlue,Minor vibration detected. Monitoring systems.,CXS-9701-XX
+Elia Vorn,Orryx Haven,Lunaris Port,commute,automated,auto,LightGray,Fuel low. Navigating around debris.,CXS-2122-QY
+Tamsin Ryx,Vega Spire,Cerebra Ring,commute,automated,auto,Fuchsia,Clear path confirmed. Continuing cruise.,CXS-2964-QD
+Dr. Calix Renner,Cryon Reach,Helion Hub,commute,automated,auto,Lime,Minor vibration detected. Monitoring systems.,CXS-2343-UQ
+Captain Kael,Cerebra Ring,Helion Hub,commute,automated,auto,Gray,Re-routing due to unstable path.,CXS-4346-EL
+Axel Orov,Helion Hub,Vega Spire,commute,automated,auto,DodgerBlue,Clear path confirmed. Continuing cruise.,CXS-3144-RY
+Captain Kael,Zenthar Relay,Cryon Reach,commute,automated,auto,Wheat,Power levels nominal. Adjusting trajectory.,CXS-1152-AT
+Elia Vorn,Thalos Crossing,Zenthar Relay,commute,automated,auto,MediumBlue,Power levels nominal. Adjusting trajectory.,CXS-9808-PA
+Axel Orov,Cryon Reach,Helion Hub,commute,automated,auto,DarkOliveGreen,Fuel low. Navigating around debris.,CXS-6718-LZ
+Captain Kael,Vega Spire,Orryx Haven,commute,automated,auto,Linen,Re-routing due to unstable path.,CXS-3584-HB
+Axel Orov,Thalos Crossing,Cerebra Ring,commute,automated,auto,LawnGreen,Minor vibration detected. Monitoring systems.,CXS-9666-SC
+Axel Orov,Lunaris Port,Cerebra Ring,commute,automated,auto,DarkBlue,Power levels nominal. Adjusting trajectory.,CXS-3200-XP
+Elia Vorn,Zenthar Relay,Lunaris Port,commute,automated,auto,CornflowerBlue,Minor vibration detected. Monitoring systems.,CXS-3546-YR
+Tamsin Ryx,Zenthar Relay,Orryx Haven,commute,automated,auto,DarkSalmon,Re-routing due to unstable path.,CXS-4335-EV
+Commander Yulo,Zenthar Relay,Helion Hub,commute,automated,auto,Sienna,Re-routing due to unstable path.,CXS-1832-RF
+Zara Strix,Vega Spire,Cerebra Ring,commute,automated,auto,LightGray,Re-routing due to unstable path.,CXS-1722-QT
+Marshal Keir,Lunaris Port,Cryon Reach,commute,automated,auto,Peru,Re-routing due to unstable path.,CXS-3647-GR
+Zara Strix,Thalos Crossing,Zenthar Relay,commute,automated,auto,Green,Minor vibration detected. Monitoring systems.,CXS-1158-WJ
+Marshal Keir,Vega Spire,Lunaris Port,commute,automated,auto,PaleGoldenRod,Minor vibration detected. Monitoring systems.,CXS-1590-VU
+Marshal Keir,Helion Hub,Zenthar Relay,commute,automated,auto,Navy,Clear path confirmed. Continuing cruise.,CXS-3088-OQ
+Captain Kael,Lunaris Port,Cryon Reach,commute,automated,auto,RoyalBlue,Power levels nominal. Adjusting trajectory.,CXS-6862-DH
+Tamsin Ryx,Cryon Reach,Cerebra Ring,commute,automated,auto,Ivory,Power levels nominal. Adjusting trajectory.,CXS-6794-CK
+Marshal Keir,Cerebra Ring,Zenthar Relay,commute,automated,auto,Beige,Fuel low. Navigating around debris.,CXS-3662-SR
+Dr. Calix Renner,Orryx Haven,Zenthar Relay,commute,automated,auto,Khaki,Fuel low. Navigating around debris.,CXS-6442-SH
+Tamsin Ryx,Cerebra Ring,Thalos Crossing,commute,automated,auto,AntiqueWhite,Re-routing due to unstable path.,CXS-3608-CW
+Dr. Calix Renner,Vega Spire,Zenthar Relay,commute,automated,auto,Chocolate,Clear path confirmed. Continuing cruise.,CXS-4644-HC
+Commander Yulo,Cryon Reach,Thalos Crossing,commute,automated,auto,BlanchedAlmond,Re-routing due to unstable path.,CXS-6000-KC
+Dr. Calix Renner,Cryon Reach,Vega Spire,commute,automated,auto,Thistle,Fuel low. Navigating around debris.,CXS-7528-HI
+Elia Vorn,Helion Hub,Orryx Haven,commute,automated,auto,SlateBlue,Re-routing due to unstable path.,CXS-6753-GR
+Captain Kael,Cerebra Ring,Helion Hub,commute,automated,auto,DarkSeaGreen,Power levels nominal. Adjusting trajectory.,CXS-2889-XS
+Axel Orov,Zenthar Relay,Vega Spire,commute,automated,auto,Sienna,Power levels nominal. Adjusting trajectory.,CXS-2776-HZ
+Captain Kael,Cerebra Ring,Orryx Haven,commute,automated,auto,Sienna,Clear path confirmed. Continuing cruise.,CXS-9379-ZN
+Tamsin Ryx,Vega Spire,Zenthar Relay,commute,automated,auto,Gold,Re-routing due to unstable path.,CXS-1727-DD
+Tamsin Ryx,Cerebra Ring,Lunaris Port,commute,automated,auto,Plum,Re-routing due to unstable path.,CXS-8066-LN
+Captain Kael,Vega Spire,Cerebra Ring,commute,automated,auto,PaleVioletRed,Minor vibration detected. Monitoring systems.,CXS-6143-OX
+Axel Orov,Vega Spire,Cerebra Ring,commute,automated,auto,CadetBlue,Minor vibration detected. Monitoring systems.,CXS-6067-VU
+Zara Strix,Cerebra Ring,Orryx Haven,commute,automated,auto,DarkGreen,Re-routing due to unstable path.,CXS-3085-BM
+Zara Strix,Cryon Reach,Zenthar Relay,commute,automated,auto,MediumSlateBlue,Fuel low. Navigating around debris.,CXS-5930-ZD
+Dr. Calix Renner,Cerebra Ring,Zenthar Relay,commute,automated,auto,LightBlue,Re-routing due to unstable path.,CXS-5700-GG
+Captain Kael,Cryon Reach,Zenthar Relay,commute,automated,auto,WhiteSmoke,Clear path confirmed. Continuing cruise.,CXS-8238-OE
+Tamsin Ryx,Thalos Crossing,Helion Hub,commute,automated,auto,Peru,Minor vibration detected. Monitoring systems.,CXS-8752-FI
+Elia Vorn,Orryx Haven,Cerebra Ring,commute,automated,auto,SandyBrown,Re-routing due to unstable path.,CXS-9445-HC
+Tamsin Ryx,Helion Hub,Lunaris Port,commute,automated,auto,Red,Re-routing due to unstable path.,CXS-4680-ZR
+Dr. Calix Renner,Cryon Reach,Vega Spire,commute,automated,auto,DarkGreen,Power levels nominal. Adjusting trajectory.,CXS-5011-BU
+Elia Vorn,Thalos Crossing,Zenthar Relay,commute,automated,auto,Yellow,Clear path confirmed. Continuing cruise.,CXS-7790-AC
+Zara Strix,Cryon Reach,Cerebra Ring,commute,automated,auto,LavenderBlush,Clear path confirmed. Continuing cruise.,CXS-7547-FN
+Dr. Calix Renner,Cryon Reach,Vega Spire,commute,automated,auto,SlateBlue,Power levels nominal. Adjusting trajectory.,CXS-7965-PG
+Commander Yulo,Cryon Reach,Vega Spire,commute,automated,auto,PaleGoldenRod,Power levels nominal. Adjusting trajectory.,CXS-5082-BF
+Marshal Keir,Vega Spire,Zenthar Relay,commute,automated,auto,Olive,Clear path confirmed. Continuing cruise.,CXS-9702-AM
+Commander Yulo,Helion Hub,Thalos Crossing,commute,automated,auto,LightGray,Minor vibration detected. Monitoring systems.,CXS-9270-ZZ
+Commander Yulo,Cerebra Ring,Thalos Crossing,commute,automated,auto,SaddleBrown,Fuel low. Navigating around debris.,CXS-8777-JN
+Tamsin Ryx,Thalos Crossing,Orryx Haven,commute,automated,auto,SlateBlue,Re-routing due to unstable path.,CXS-9540-EG
+Tamsin Ryx,Thalos Crossing,Helion Hub,commute,automated,auto,LightYellow,Re-routing due to unstable path.,CXS-8206-GB
+Axel Orov,Vega Spire,Cerebra Ring,commute,automated,auto,Yellow,Fuel low. Navigating around debris.,CXS-5451-BX
+Elia Vorn,Helion Hub,Orryx Haven,commute,automated,auto,Maroon,Fuel low. Navigating around debris.,CXS-3471-BB
+Marshal Keir,Cryon Reach,Zenthar Relay,commute,automated,auto,Silver,Fuel low. Navigating around debris.,CXS-2052-QQ
+Captain Kael,Cerebra Ring,Cryon Reach,commute,automated,auto,DimGray,Minor vibration detected. Monitoring systems.,CXS-8633-BQ
+Tamsin Ryx,Cerebra Ring,Lunaris Port,commute,automated,auto,Cyan,Clear path confirmed. Continuing cruise.,CXS-7381-FC
+Zara Strix,Lunaris Port,Thalos Crossing,commute,automated,auto,CornflowerBlue,Clear path confirmed. Continuing cruise.,CXS-1096-VH
+Zara Strix,Helion Hub,Orryx Haven,commute,automated,auto,PaleGreen,Clear path confirmed. Continuing cruise.,CXS-9818-DS
+Tamsin Ryx,Cryon Reach,Zenthar Relay,commute,automated,auto,LightBlue,Re-routing due to unstable path.,CXS-8140-ST
+Zara Strix,Thalos Crossing,Lunaris Port,commute,automated,auto,BlueViolet,Re-routing due to unstable path.,CXS-7624-TC
+Commander Yulo,Orryx Haven,Thalos Crossing,commute,automated,auto,PeachPuff,Fuel low. Navigating around debris.,CXS-9751-VS
+Dr. Calix Renner,Lunaris Port,Zenthar Relay,commute,automated,auto,Turquoise,Power levels nominal. Adjusting trajectory.,CXS-8022-KI
+Commander Yulo,Orryx Haven,Thalos Crossing,commute,automated,auto,GreenYellow,Fuel low. Navigating around debris.,CXS-1823-VW
+Captain Kael,Zenthar Relay,Cryon Reach,commute,automated,auto,Maroon,Fuel low. Navigating around debris.,CXS-8449-HI
+Zara Strix,Helion Hub,Orryx Haven,commute,automated,auto,Orchid,Re-routing due to unstable path.,CXS-7906-EV
+Elia Vorn,Zenthar Relay,Thalos Crossing,commute,automated,auto,Lime,Clear path confirmed. Continuing cruise.,CXS-1317-OK
+Tamsin Ryx,Lunaris Port,Cryon Reach,commute,automated,auto,Cornsilk,Power levels nominal. Adjusting trajectory.,CXS-1659-AO
+Tamsin Ryx,Lunaris Port,Orryx Haven,commute,automated,auto,DarkGreen,Power levels nominal. Adjusting trajectory.,CXS-3496-CR
+Commander Yulo,Cryon Reach,Vega Spire,commute,automated,auto,HotPink,Power levels nominal. Adjusting trajectory.,CXS-4571-QI
+Axel Orov,Thalos Crossing,Helion Hub,commute,automated,auto,DarkSeaGreen,Re-routing due to unstable path.,CXS-3749-LC
+Marshal Keir,Vega Spire,Thalos Crossing,commute,automated,auto,LemonChiffon,Re-routing due to unstable path.,CXS-2771-LJ
+Zara Strix,Lunaris Port,Cryon Reach,commute,automated,auto,DimGray,Clear path confirmed. Continuing cruise.,CXS-4249-OR
+Tamsin Ryx,Vega Spire,Helion Hub,commute,automated,auto,LimeGreen,Power levels nominal. Adjusting trajectory.,CXS-5941-TZ
+Dr. Calix Renner,Vega Spire,Thalos Crossing,commute,automated,auto,Wheat,Re-routing due to unstable path.,CXS-9728-AV
+Captain Kael,Cerebra Ring,Helion Hub,commute,automated,auto,Lime,Power levels nominal. Adjusting trajectory.,CXS-9289-VD
+Zara Strix,Helion Hub,Lunaris Port,commute,automated,auto,DarkSlateBlue,Clear path confirmed. Continuing cruise.,CXS-2729-ID
+Commander Yulo,Cerebra Ring,Orryx Haven,commute,automated,auto,DarkMagenta,Fuel low. Navigating around debris.,CXS-8135-XR
+Axel Orov,Orryx Haven,Cerebra Ring,commute,automated,auto,DeepSkyBlue,Minor vibration detected. Monitoring systems.,CXS-9817-IJ
+Zara Strix,Thalos Crossing,Cryon Reach,commute,automated,auto,HoneyDew,Minor vibration detected. Monitoring systems.,CXS-5397-WK
+Tamsin Ryx,Helion Hub,Thalos Crossing,commute,automated,auto,GreenYellow,Power levels nominal. Adjusting trajectory.,CXS-5569-VU
+Commander Yulo,Thalos Crossing,Vega Spire,commute,automated,auto,LightGray,Minor vibration detected. Monitoring systems.,CXS-7209-QP
+Commander Yulo,Helion Hub,Lunaris Port,commute,automated,auto,LightCoral,Re-routing due to unstable path.,CXS-3979-BC
+Captain Kael,Thalos Crossing,Vega Spire,commute,automated,auto,Peru,Re-routing due to unstable path.,CXS-6576-IB
+Axel Orov,Zenthar Relay,Helion Hub,commute,automated,auto,AliceBlue,Minor vibration detected. Monitoring systems.,CXS-1166-KY
+Tamsin Ryx,Cryon Reach,Lunaris Port,commute,automated,auto,DarkSeaGreen,Clear path confirmed. Continuing cruise.,CXS-9004-UI
+Commander Yulo,Cryon Reach,Cerebra Ring,commute,automated,auto,DodgerBlue,Clear path confirmed. Continuing cruise.,CXS-8342-XO
+Axel Orov,Lunaris Port,Vega Spire,commute,automated,auto,Pink,Fuel low. Navigating around debris.,CXS-7625-RA
+Captain Kael,Cryon Reach,Orryx Haven,commute,automated,auto,DarkOliveGreen,Clear path confirmed. Continuing cruise.,CXS-9698-CW
+Captain Kael,Helion Hub,Cryon Reach,commute,automated,auto,DeepPink,Re-routing due to unstable path.,CXS-8434-RB
+Axel Orov,Zenthar Relay,Orryx Haven,commute,automated,auto,NavajoWhite,Fuel low. Navigating around debris.,CXS-2976-SR
+Elia Vorn,Cryon Reach,Orryx Haven,commute,automated,auto,DarkViolet,Minor vibration detected. Monitoring systems.,CXS-4033-NE
+Commander Yulo,Cryon Reach,Vega Spire,commute,automated,auto,BlueViolet,Re-routing due to unstable path.,CXS-9595-JL
+Tamsin Ryx,Zenthar Relay,Lunaris Port,commute,automated,auto,BlueViolet,Re-routing due to unstable path.,CXS-4727-LG
+Axel Orov,Helion Hub,Vega Spire,commute,automated,auto,LightBlue,Power levels nominal. Adjusting trajectory.,CXS-9751-VD
+Dr. Calix Renner,Orryx Haven,Cryon Reach,commute,automated,auto,MidnightBlue,Power levels nominal. Adjusting trajectory.,CXS-5786-YR
+Commander Yulo,Orryx Haven,Cerebra Ring,commute,automated,auto,PaleTurquoise,Power levels nominal. Adjusting trajectory.,CXS-1200-TX
+Commander Yulo,Zenthar Relay,Cryon Reach,commute,automated,auto,DeepSkyBlue,Clear path confirmed. Continuing cruise.,CXS-6582-HF
+Axel Orov,Orryx Haven,Lunaris Port,commute,automated,auto,Fuchsia,Clear path confirmed. Continuing cruise.,CXS-2869-NA
+Commander Yulo,Vega Spire,Zenthar Relay,commute,automated,auto,Fuchsia,Power levels nominal. Adjusting trajectory.,CXS-1878-XK
+Axel Orov,Orryx Haven,Vega Spire,commute,automated,auto,PaleVioletRed,Power levels nominal. Adjusting trajectory.,CXS-5066-ZV
+Zara Strix,Vega Spire,Helion Hub,commute,automated,auto,LightBlue,Minor vibration detected. Monitoring systems.,CXS-4697-IF
+Commander Yulo,Cerebra Ring,Cryon Reach,commute,automated,auto,DarkMagenta,Re-routing due to unstable path.,CXS-8025-MB
+Dr. Calix Renner,Zenthar Relay,Helion Hub,commute,automated,auto,SeaShell,Minor vibration detected. Monitoring systems.,CXS-2625-HG
+Tamsin Ryx,Cryon Reach,Cerebra Ring,commute,automated,auto,Salmon,Re-routing due to unstable path.,CXS-2330-LJ
+Marshal Keir,Orryx Haven,Vega Spire,commute,automated,auto,Khaki,Minor vibration detected. Monitoring systems.,CXS-2229-HA
+Zara Strix,Orryx Haven,Lunaris Port,commute,automated,auto,GoldenRod,Clear path confirmed. Continuing cruise.,CXS-8699-MK
+Tamsin Ryx,Zenthar Relay,Lunaris Port,commute,automated,auto,LightSeaGreen,Re-routing due to unstable path.,CXS-5632-CY
+Tamsin Ryx,Thalos Crossing,Lunaris Port,commute,automated,auto,LightSeaGreen,Re-routing due to unstable path.,CXS-4241-LU
+Tamsin Ryx,Cerebra Ring,Lunaris Port,commute,automated,auto,Teal,Fuel low. Navigating around debris.,CXS-5352-MV
+Dr. Calix Renner,Orryx Haven,Lunaris Port,commute,automated,auto,WhiteSmoke,Fuel low. Navigating around debris.,CXS-6039-KA
+Elia Vorn,Zenthar Relay,Cryon Reach,commute,automated,auto,DarkOrange,Clear path confirmed. Continuing cruise.,CXS-5982-IF
+Commander Yulo,Cerebra Ring,Orryx Haven,commute,automated,auto,LightGray,Clear path confirmed. Continuing cruise.,CXS-2317-BD
+Captain Kael,Lunaris Port,Zenthar Relay,commute,automated,auto,PowderBlue,Minor vibration detected. Monitoring systems.,CXS-5102-LX
+Tamsin Ryx,Lunaris Port,Vega Spire,commute,automated,auto,Maroon,Minor vibration detected. Monitoring systems.,CXS-1339-NT
+Dr. Calix Renner,Zenthar Relay,Helion Hub,commute,automated,auto,Teal,Fuel low. Navigating around debris.,CXS-8708-DM
+Marshal Keir,Thalos Crossing,Orryx Haven,commute,automated,auto,Gold,Minor vibration detected. Monitoring systems.,CXS-8141-IB
+Commander Yulo,Thalos Crossing,Lunaris Port,commute,automated,auto,PowderBlue,Re-routing due to unstable path.,CXS-7690-AQ
+Elia Vorn,Helion Hub,Orryx Haven,commute,automated,auto,WhiteSmoke,Fuel low. Navigating around debris.,CXS-6403-VX
+Commander Yulo,Cerebra Ring,Helion Hub,commute,automated,auto,Gray,Re-routing due to unstable path.,CXS-7561-LN
+Elia Vorn,Lunaris Port,Zenthar Relay,commute,automated,auto,CornflowerBlue,Re-routing due to unstable path.,CXS-5135-VK
+Zara Strix,Helion Hub,Lunaris Port,commute,automated,auto,Maroon,Minor vibration detected. Monitoring systems.,CXS-1018-VD
+Dr. Calix Renner,Thalos Crossing,Cryon Reach,commute,automated,auto,Lime,Fuel low. Navigating around debris.,CXS-9494-QJ
+Commander Yulo,Helion Hub,Zenthar Relay,commute,automated,auto,PaleTurquoise,Clear path confirmed. Continuing cruise.,CXS-1845-KM
+Marshal Keir,Cryon Reach,Orryx Haven,commute,automated,auto,LightYellow,Re-routing due to unstable path.,CXS-8178-RE
+Dr. Calix Renner,Thalos Crossing,Lunaris Port,commute,automated,auto,GoldenRod,Minor vibration detected. Monitoring systems.,CXS-4920-NV
+Dr. Calix Renner,Orryx Haven,Cryon Reach,commute,automated,auto,Olive,Minor vibration detected. Monitoring systems.,CXS-7684-VX
+Elia Vorn,Vega Spire,Orryx Haven,commute,automated,auto,ForestGreen,Clear path confirmed. Continuing cruise.,CXS-2924-TS
+Axel Orov,Orryx Haven,Zenthar Relay,commute,automated,auto,LimeGreen,Minor vibration detected. Monitoring systems.,CXS-5479-MR
+Commander Yulo,Cerebra Ring,Thalos Crossing,commute,automated,auto,AliceBlue,Clear path confirmed. Continuing cruise.,CXS-4993-JJ
+Marshal Keir,Thalos Crossing,Zenthar Relay,commute,automated,auto,HoneyDew,Clear path confirmed. Continuing cruise.,CXS-4122-NZ
+Elia Vorn,Orryx Haven,Thalos Crossing,commute,automated,auto,MediumBlue,Re-routing due to unstable path.,CXS-7798-OO
+Axel Orov,Helion Hub,Thalos Crossing,commute,automated,auto,Red,Power levels nominal. Adjusting trajectory.,CXS-5634-VG
+Commander Yulo,Zenthar Relay,Thalos Crossing,commute,automated,auto,Teal,Fuel low. Navigating around debris.,CXS-8316-PZ
+Captain Kael,Thalos Crossing,Orryx Haven,commute,automated,auto,FloralWhite,Minor vibration detected. Monitoring systems.,CXS-9903-VC
+Captain Kael,Cerebra Ring,Cryon Reach,commute,automated,auto,LightSkyBlue,Fuel low. Navigating around debris.,CXS-4912-QV
+Zara Strix,Cerebra Ring,Vega Spire,commute,automated,auto,MediumSeaGreen,Power levels nominal. Adjusting trajectory.,CXS-6213-CY
+Zara Strix,Thalos Crossing,Helion Hub,commute,automated,auto,LavenderBlush,Clear path confirmed. Continuing cruise.,CXS-3492-VJ
+Marshal Keir,Thalos Crossing,Lunaris Port,commute,automated,auto,Ivory,Minor vibration detected. Monitoring systems.,CXS-6439-ZG
+Commander Yulo,Vega Spire,Thalos Crossing,commute,automated,auto,DarkViolet,Power levels nominal. Adjusting trajectory.,CXS-9617-AB
+Marshal Keir,Thalos Crossing,Lunaris Port,commute,automated,auto,LemonChiffon,Clear path confirmed. Continuing cruise.,CXS-3529-PT
+Axel Orov,Vega Spire,Zenthar Relay,commute,automated,auto,Cornsilk,Re-routing due to unstable path.,CXS-7512-ON
+Captain Kael,Vega Spire,Thalos Crossing,commute,automated,auto,GoldenRod,Minor vibration detected. Monitoring systems.,CXS-7226-WW
+Commander Yulo,Helion Hub,Cerebra Ring,commute,automated,auto,OliveDrab,Minor vibration detected. Monitoring systems.,CXS-1588-PM
+Axel Orov,Vega Spire,Orryx Haven,commute,automated,auto,LemonChiffon,Fuel low. Navigating around debris.,CXS-2480-EU
+Elia Vorn,Cerebra Ring,Lunaris Port,commute,automated,auto,AntiqueWhite,Clear path confirmed. Continuing cruise.,CXS-3725-YY
+Dr. Calix Renner,Zenthar Relay,Lunaris Port,commute,automated,auto,DarkMagenta,Re-routing due to unstable path.,CXS-1919-YN
+Captain Kael,Zenthar Relay,Orryx Haven,commute,automated,auto,Indigo,Clear path confirmed. Continuing cruise.,CXS-3385-FZ
+Zara Strix,Cryon Reach,Helion Hub,commute,automated,auto,Tomato,Minor vibration detected. Monitoring systems.,CXS-3950-OB
+Elia Vorn,Orryx Haven,Vega Spire,commute,automated,auto,LightBlue,Minor vibration detected. Monitoring systems.,CXS-7267-DO
+Marshal Keir,Cryon Reach,Zenthar Relay,commute,automated,auto,DarkSlateBlue,Fuel low. Navigating around debris.,CXS-8555-ZO
+Axel Orov,Zenthar Relay,Cryon Reach,commute,automated,auto,Wheat,Power levels nominal. Adjusting trajectory.,CXS-8622-RT
+Marshal Keir,Zenthar Relay,Cerebra Ring,commute,automated,auto,MediumAquaMarine,Power levels nominal. Adjusting trajectory.,CXS-8237-YO
+Axel Orov,Helion Hub,Zenthar Relay,commute,automated,auto,Tan,Clear path confirmed. Continuing cruise.,CXS-5097-NR
+Axel Orov,Thalos Crossing,Cerebra Ring,commute,automated,auto,RosyBrown,Fuel low. Navigating around debris.,CXS-7302-FX
+Tamsin Ryx,Thalos Crossing,Lunaris Port,commute,automated,auto,Sienna,Clear path confirmed. Continuing cruise.,CXS-6881-OI
+Axel Orov,Zenthar Relay,Cerebra Ring,commute,automated,auto,LightBlue,Power levels nominal. Adjusting trajectory.,CXS-7484-UI
+Dr. Calix Renner,Zenthar Relay,Lunaris Port,commute,automated,auto,Turquoise,Minor vibration detected. Monitoring systems.,CXS-9138-PU
+Tamsin Ryx,Zenthar Relay,Thalos Crossing,commute,automated,auto,LawnGreen,Minor vibration detected. Monitoring systems.,CXS-6772-IO
+Tamsin Ryx,Cryon Reach,Cerebra Ring,commute,automated,auto,Crimson,Minor vibration detected. Monitoring systems.,CXS-5106-WJ
+Elia Vorn,Orryx Haven,Cerebra Ring,commute,automated,auto,LavenderBlush,Power levels nominal. Adjusting trajectory.,CXS-6061-IK
+Captain Kael,Thalos Crossing,Lunaris Port,commute,automated,auto,MediumAquaMarine,Fuel low. Navigating around debris.,CXS-2476-RC
+Zara Strix,Zenthar Relay,Orryx Haven,commute,automated,auto,DarkSlateGray,Fuel low. Navigating around debris.,CXS-4289-EH
+Captain Kael,Orryx Haven,Thalos Crossing,commute,automated,auto,OliveDrab,Minor vibration detected. Monitoring systems.,CXS-9221-WE
+Marshal Keir,Zenthar Relay,Thalos Crossing,commute,automated,auto,HotPink,Re-routing due to unstable path.,CXS-8894-CN
+Captain Kael,Zenthar Relay,Cerebra Ring,commute,automated,auto,PaleTurquoise,Power levels nominal. Adjusting trajectory.,CXS-8673-KR
+Tamsin Ryx,Vega Spire,Orryx Haven,commute,automated,auto,SeaGreen,Clear path confirmed. Continuing cruise.,CXS-6992-NB
+Zara Strix,Vega Spire,Thalos Crossing,commute,automated,auto,GreenYellow,Power levels nominal. Adjusting trajectory.,CXS-5332-NM
+Captain Kael,Vega Spire,Zenthar Relay,commute,automated,auto,Beige,Re-routing due to unstable path.,CXS-7242-YS
+Tamsin Ryx,Helion Hub,Lunaris Port,commute,automated,auto,Olive,Clear path confirmed. Continuing cruise.,CXS-1410-PA
+Tamsin Ryx,Helion Hub,Zenthar Relay,commute,automated,auto,MidnightBlue,Power levels nominal. Adjusting trajectory.,CXS-8606-JY
+Zara Strix,Zenthar Relay,Cerebra Ring,commute,automated,auto,Orange,Power levels nominal. Adjusting trajectory.,CXS-3290-NR
+Axel Orov,Lunaris Port,Vega Spire,commute,automated,auto,YellowGreen,Clear path confirmed. Continuing cruise.,CXS-2902-ZT
+Marshal Keir,Vega Spire,Orryx Haven,commute,automated,auto,Indigo,Clear path confirmed. Continuing cruise.,CXS-8432-PH
+Zara Strix,Helion Hub,Cerebra Ring,commute,automated,auto,LightPink,Minor vibration detected. Monitoring systems.,CXS-3531-NP
+Elia Vorn,Cerebra Ring,Helion Hub,commute,automated,auto,Black,Clear path confirmed. Continuing cruise.,CXS-7686-MK
+Captain Kael,Zenthar Relay,Lunaris Port,commute,automated,auto,PaleGreen,Fuel low. Navigating around debris.,CXS-8264-XF
+Captain Kael,Thalos Crossing,Vega Spire,commute,automated,auto,SeaGreen,Power levels nominal. Adjusting trajectory.,CXS-7018-ET
+Zara Strix,Helion Hub,Lunaris Port,commute,automated,auto,White,Re-routing due to unstable path.,CXS-4109-AM
+Commander Yulo,Vega Spire,Thalos Crossing,commute,automated,auto,Bisque,Power levels nominal. Adjusting trajectory.,CXS-4475-CU
+Captain Kael,Lunaris Port,Vega Spire,commute,automated,auto,Pink,Fuel low. Navigating around debris.,CXS-3063-EO
+Tamsin Ryx,Cryon Reach,Lunaris Port,commute,automated,auto,Gainsboro,Minor vibration detected. Monitoring systems.,CXS-4538-BI
+Marshal Keir,Cryon Reach,Orryx Haven,commute,automated,auto,Olive,Minor vibration detected. Monitoring systems.,CXS-1046-KG
+Marshal Keir,Zenthar Relay,Thalos Crossing,commute,automated,auto,SaddleBrown,Fuel low. Navigating around debris.,CXS-9850-KK
+Marshal Keir,Zenthar Relay,Thalos Crossing,commute,automated,auto,Olive,Power levels nominal. Adjusting trajectory.,CXS-1422-IY
+Captain Kael,Orryx Haven,Lunaris Port,commute,automated,auto,PeachPuff,Fuel low. Navigating around debris.,CXS-6304-IC
+Axel Orov,Lunaris Port,Orryx Haven,commute,automated,auto,SeaShell,Power levels nominal. Adjusting trajectory.,CXS-3076-AX
+Elia Vorn,Cerebra Ring,Zenthar Relay,commute,automated,auto,Yellow,Power levels nominal. Adjusting trajectory.,CXS-8802-BL
+Captain Kael,Thalos Crossing,Cerebra Ring,commute,automated,auto,Ivory,Minor vibration detected. Monitoring systems.,CXS-2786-UC
+Tamsin Ryx,Thalos Crossing,Zenthar Relay,commute,automated,auto,BlueViolet,Minor vibration detected. Monitoring systems.,CXS-1710-YA
+Dr. Calix Renner,Zenthar Relay,Cryon Reach,commute,automated,auto,LightBlue,Power levels nominal. Adjusting trajectory.,CXS-8847-GA
+Elia Vorn,Cerebra Ring,Cryon Reach,commute,automated,auto,DeepSkyBlue,Clear path confirmed. Continuing cruise.,CXS-8267-HE
+Captain Kael,Vega Spire,Lunaris Port,commute,automated,auto,Sienna,Minor vibration detected. Monitoring systems.,CXS-3430-VD
+Axel Orov,Vega Spire,Orryx Haven,commute,automated,auto,IndianRed,Minor vibration detected. Monitoring systems.,CXS-9984-OW
+Axel Orov,Helion Hub,Cryon Reach,commute,automated,auto,LightCyan,Clear path confirmed. Continuing cruise.,CXS-9282-YL
+Elia Vorn,Cerebra Ring,Lunaris Port,commute,automated,auto,FireBrick,Minor vibration detected. Monitoring systems.,CXS-4522-TT
+Tamsin Ryx,Cerebra Ring,Cryon Reach,commute,automated,auto,DarkOrange,Clear path confirmed. Continuing cruise.,CXS-6553-YF
+Zara Strix,Thalos Crossing,Cryon Reach,commute,automated,auto,Magenta,Power levels nominal. Adjusting trajectory.,CXS-6120-DS
+Axel Orov,Cerebra Ring,Orryx Haven,commute,automated,auto,Bisque,Re-routing due to unstable path.,CXS-3500-JS
+Elia Vorn,Thalos Crossing,Lunaris Port,commute,automated,auto,OldLace,Power levels nominal. Adjusting trajectory.,CXS-2527-MW
+Captain Kael,Cerebra Ring,Lunaris Port,commute,automated,auto,Gray,Fuel low. Navigating around debris.,CXS-1982-CS
+Elia Vorn,Helion Hub,Cerebra Ring,commute,automated,auto,LemonChiffon,Clear path confirmed. Continuing cruise.,CXS-6793-DW
+Dr. Calix Renner,Cerebra Ring,Thalos Crossing,commute,automated,auto,LimeGreen,Re-routing due to unstable path.,CXS-6119-VT
+Tamsin Ryx,Helion Hub,Lunaris Port,commute,automated,auto,DarkOrchid,Fuel low. Navigating around debris.,CXS-8900-ZS
+Elia Vorn,Cryon Reach,Thalos Crossing,commute,automated,auto,BlueViolet,Re-routing due to unstable path.,CXS-7022-LR
+Axel Orov,Vega Spire,Thalos Crossing,commute,automated,auto,Pink,Minor vibration detected. Monitoring systems.,CXS-4705-VL
+Dr. Calix Renner,Cerebra Ring,Thalos Crossing,commute,automated,auto,CornflowerBlue,Minor vibration detected. Monitoring systems.,CXS-5381-QU
+Axel Orov,Lunaris Port,Orryx Haven,commute,automated,auto,MediumSpringGreen,Re-routing due to unstable path.,CXS-6567-AN
+Marshal Keir,Helion Hub,Lunaris Port,commute,automated,auto,SlateGray,Fuel low. Navigating around debris.,CXS-7566-DN
+Dr. Calix Renner,Vega Spire,Orryx Haven,commute,automated,auto,MistyRose,Power levels nominal. Adjusting trajectory.,CXS-9691-UO
+Zara Strix,Cryon Reach,Zenthar Relay,commute,automated,auto,DeepSkyBlue,Clear path confirmed. Continuing cruise.,CXS-6585-NF
+Axel Orov,Orryx Haven,Cryon Reach,commute,automated,auto,Turquoise,Re-routing due to unstable path.,CXS-2391-UI
+Marshal Keir,Lunaris Port,Orryx Haven,commute,automated,auto,WhiteSmoke,Minor vibration detected. Monitoring systems.,CXS-1815-YP
+Commander Yulo,Vega Spire,Cryon Reach,commute,automated,auto,SeaGreen,Clear path confirmed. Continuing cruise.,CXS-8957-NX
+Axel Orov,Thalos Crossing,Cryon Reach,commute,automated,auto,LightGreen,Fuel low. Navigating around debris.,CXS-9394-KH
+Zara Strix,Vega Spire,Cryon Reach,commute,automated,auto,DarkCyan,Power levels nominal. Adjusting trajectory.,CXS-5640-IO
+Axel Orov,Thalos Crossing,Zenthar Relay,commute,automated,auto,LemonChiffon,Power levels nominal. Adjusting trajectory.,CXS-4612-YO
+Dr. Calix Renner,Cerebra Ring,Zenthar Relay,commute,automated,auto,Olive,Power levels nominal. Adjusting trajectory.,CXS-4349-KA
+Marshal Keir,Zenthar Relay,Vega Spire,commute,automated,auto,Snow,Re-routing due to unstable path.,CXS-5742-KF
+Dr. Calix Renner,Helion Hub,Lunaris Port,commute,automated,auto,SlateBlue,Clear path confirmed. Continuing cruise.,CXS-8055-GL
+Zara Strix,Orryx Haven,Vega Spire,commute,automated,auto,LightGoldenRodYellow,Minor vibration detected. Monitoring systems.,CXS-4770-KI
+Zara Strix,Helion Hub,Lunaris Port,commute,automated,auto,LightSalmon,Power levels nominal. Adjusting trajectory.,CXS-8147-RA
+Elia Vorn,Lunaris Port,Zenthar Relay,commute,automated,auto,Tomato,Re-routing due to unstable path.,CXS-8033-GC
+Zara Strix,Cerebra Ring,Helion Hub,commute,automated,auto,LawnGreen,Re-routing due to unstable path.,CXS-2887-XN
+Captain Kael,Cerebra Ring,Lunaris Port,commute,automated,auto,SlateGray,Fuel low. Navigating around debris.,CXS-8538-RY
+Zara Strix,Helion Hub,Lunaris Port,commute,automated,auto,LawnGreen,Power levels nominal. Adjusting trajectory.,CXS-4986-WP
+Zara Strix,Cerebra Ring,Zenthar Relay,commute,automated,auto,SlateGray,Minor vibration detected. Monitoring systems.,CXS-2288-OZ
+Axel Orov,Cerebra Ring,Thalos Crossing,commute,automated,auto,Azure,Re-routing due to unstable path.,CXS-4630-CJ
+Marshal Keir,Helion Hub,Thalos Crossing,commute,automated,auto,Indigo,Power levels nominal. Adjusting trajectory.,CXS-9363-MW
+Tamsin Ryx,Vega Spire,Helion Hub,commute,automated,auto,LemonChiffon,Re-routing due to unstable path.,CXS-6752-JV
+Elia Vorn,Orryx Haven,Vega Spire,commute,automated,auto,NavajoWhite,Fuel low. Navigating around debris.,CXS-5193-PR
+Marshal Keir,Cryon Reach,Vega Spire,commute,automated,auto,Wheat,Power levels nominal. Adjusting trajectory.,CXS-3902-LN
+Commander Yulo,Thalos Crossing,Cryon Reach,commute,automated,auto,MediumPurple,Minor vibration detected. Monitoring systems.,CXS-6295-LW
+Commander Yulo,Helion Hub,Vega Spire,commute,automated,auto,SaddleBrown,Power levels nominal. Adjusting trajectory.,CXS-8682-IJ
+Axel Orov,Thalos Crossing,Helion Hub,commute,automated,auto,LightCoral,Re-routing due to unstable path.,CXS-1920-HD
+Elia Vorn,Helion Hub,Zenthar Relay,commute,automated,auto,GoldenRod,Re-routing due to unstable path.,CXS-8565-KD
+Dr. Calix Renner,Thalos Crossing,Lunaris Port,commute,automated,auto,WhiteSmoke,Re-routing due to unstable path.,CXS-5703-YW
+Elia Vorn,Vega Spire,Cerebra Ring,commute,automated,auto,GhostWhite,Minor vibration detected. Monitoring systems.,CXS-9307-GG
+Dr. Calix Renner,Cerebra Ring,Cryon Reach,commute,automated,auto,SkyBlue,Clear path confirmed. Continuing cruise.,CXS-4084-IX
+Commander Yulo,Helion Hub,Zenthar Relay,commute,automated,auto,Violet,Minor vibration detected. Monitoring systems.,CXS-3471-TJ
+Elia Vorn,Lunaris Port,Zenthar Relay,commute,automated,auto,DarkGreen,Re-routing due to unstable path.,CXS-2381-GJ
+Tamsin Ryx,Orryx Haven,Lunaris Port,commute,automated,auto,Khaki,Clear path confirmed. Continuing cruise.,CXS-8199-LF
+Captain Kael,Orryx Haven,Cryon Reach,commute,automated,auto,LimeGreen,Re-routing due to unstable path.,CXS-7347-AW
+Captain Kael,Cerebra Ring,Thalos Crossing,commute,automated,auto,White,Minor vibration detected. Monitoring systems.,CXS-1857-EI
+Captain Kael,Helion Hub,Lunaris Port,commute,automated,auto,Brown,Power levels nominal. Adjusting trajectory.,CXS-7333-BR
+Marshal Keir,Zenthar Relay,Orryx Haven,commute,automated,auto,LightSteelBlue,Re-routing due to unstable path.,CXS-2335-WE
+Axel Orov,Orryx Haven,Cryon Reach,commute,automated,auto,SlateGray,Clear path confirmed. Continuing cruise.,CXS-3112-DA
+Zara Strix,Vega Spire,Cryon Reach,commute,automated,auto,LightSkyBlue,Re-routing due to unstable path.,CXS-3093-PP
+Zara Strix,Vega Spire,Cerebra Ring,commute,automated,auto,Purple,Minor vibration detected. Monitoring systems.,CXS-6928-KF
+Axel Orov,Lunaris Port,Cryon Reach,commute,automated,auto,CadetBlue,Fuel low. Navigating around debris.,CXS-4509-IP
+Commander Yulo,Helion Hub,Thalos Crossing,commute,automated,auto,DarkOrange,Fuel low. Navigating around debris.,CXS-4711-CM
+Elia Vorn,Orryx Haven,Vega Spire,commute,automated,auto,SlateGray,Re-routing due to unstable path.,CXS-2657-CS
+Captain Kael,Lunaris Port,Cerebra Ring,commute,automated,auto,CadetBlue,Minor vibration detected. Monitoring systems.,CXS-3147-EE
+Marshal Keir,Cerebra Ring,Vega Spire,commute,automated,auto,LimeGreen,Fuel low. Navigating around debris.,CXS-3712-CH
+Zara Strix,Thalos Crossing,Lunaris Port,commute,automated,auto,DarkOrchid,Re-routing due to unstable path.,CXS-4891-RY
+Axel Orov,Thalos Crossing,Zenthar Relay,commute,automated,auto,PapayaWhip,Clear path confirmed. Continuing cruise.,CXS-4833-TT
+Commander Yulo,Cryon Reach,Orryx Haven,commute,automated,auto,Ivory,Fuel low. Navigating around debris.,CXS-7026-YQ
+Axel Orov,Thalos Crossing,Cryon Reach,commute,automated,auto,Olive,Clear path confirmed. Continuing cruise.,CXS-9239-OO
+Tamsin Ryx,Cerebra Ring,Vega Spire,commute,automated,auto,Lime,Minor vibration detected. Monitoring systems.,CXS-3267-SN
+Commander Yulo,Zenthar Relay,Lunaris Port,commute,automated,auto,Linen,Re-routing due to unstable path.,CXS-2680-ST
+Elia Vorn,Vega Spire,Cryon Reach,commute,automated,auto,Chocolate,Fuel low. Navigating around debris.,CXS-5469-TX
+Marshal Keir,Thalos Crossing,Zenthar Relay,commute,automated,auto,DarkGreen,Clear path confirmed. Continuing cruise.,CXS-2502-YG
+Commander Yulo,Cryon Reach,Thalos Crossing,commute,automated,auto,HotPink,Re-routing due to unstable path.,CXS-1436-IV
+Zara Strix,Cerebra Ring,Lunaris Port,commute,automated,auto,Cyan,Minor vibration detected. Monitoring systems.,CXS-7126-FH
+Elia Vorn,Cryon Reach,Zenthar Relay,commute,automated,auto,ForestGreen,Re-routing due to unstable path.,CXS-4678-RC
+Elia Vorn,Lunaris Port,Cryon Reach,commute,automated,auto,DimGray,Re-routing due to unstable path.,CXS-3392-AN
+Axel Orov,Orryx Haven,Lunaris Port,commute,automated,auto,RoyalBlue,Clear path confirmed. Continuing cruise.,CXS-3273-WT
+Dr. Calix Renner,Thalos Crossing,Cryon Reach,commute,automated,auto,SeaShell,Power levels nominal. Adjusting trajectory.,CXS-1311-JB
+Marshal Keir,Zenthar Relay,Vega Spire,commute,automated,auto,Lavender,Minor vibration detected. Monitoring systems.,CXS-9647-JW
+Axel Orov,Cerebra Ring,Lunaris Port,commute,automated,auto,LightSkyBlue,Fuel low. Navigating around debris.,CXS-5934-WO
+Tamsin Ryx,Vega Spire,Lunaris Port,commute,automated,auto,Cornsilk,Clear path confirmed. Continuing cruise.,CXS-8489-VH
+Commander Yulo,Vega Spire,Lunaris Port,commute,automated,auto,LightGray,Minor vibration detected. Monitoring systems.,CXS-9782-ZZ
+Tamsin Ryx,Lunaris Port,Cerebra Ring,commute,automated,auto,Gray,Fuel low. Navigating around debris.,CXS-5772-ND
+Captain Kael,Cerebra Ring,Lunaris Port,commute,automated,auto,YellowGreen,Fuel low. Navigating around debris.,CXS-7825-HU
+Elia Vorn,Orryx Haven,Cerebra Ring,commute,automated,auto,DeepPink,Minor vibration detected. Monitoring systems.,CXS-6908-IE
+Dr. Calix Renner,Vega Spire,Helion Hub,commute,automated,auto,Cornsilk,Clear path confirmed. Continuing cruise.,CXS-8702-BF
+Zara Strix,Lunaris Port,Cerebra Ring,commute,automated,auto,Linen,Re-routing due to unstable path.,CXS-5155-TX
+Elia Vorn,Lunaris Port,Cryon Reach,commute,automated,auto,LightSlateGray,Re-routing due to unstable path.,CXS-4950-OD
+Captain Kael,Vega Spire,Thalos Crossing,commute,automated,auto,SeaGreen,Fuel low. Navigating around debris.,CXS-1726-WJ
+Captain Kael,Helion Hub,Zenthar Relay,commute,automated,auto,PaleGreen,Fuel low. Navigating around debris.,CXS-8612-IQ
+Marshal Keir,Thalos Crossing,Helion Hub,commute,automated,auto,Yellow,Fuel low. Navigating around debris.,CXS-2033-PO
+Axel Orov,Thalos Crossing,Lunaris Port,commute,automated,auto,Cyan,Fuel low. Navigating around debris.,CXS-1717-TB
+Captain Kael,Cryon Reach,Lunaris Port,commute,automated,auto,Plum,Re-routing due to unstable path.,CXS-9444-XK
+Commander Yulo,Cerebra Ring,Thalos Crossing,commute,automated,auto,LightCoral,Re-routing due to unstable path.,CXS-1599-AC
+Captain Kael,Cryon Reach,Orryx Haven,commute,automated,auto,Khaki,Power levels nominal. Adjusting trajectory.,CXS-6438-VS
+Captain Kael,Zenthar Relay,Lunaris Port,commute,automated,auto,Beige,Clear path confirmed. Continuing cruise.,CXS-7553-YV
+Captain Kael,Thalos Crossing,Cryon Reach,commute,automated,auto,LightGreen,Fuel low. Navigating around debris.,CXS-9129-SB
+Axel Orov,Thalos Crossing,Orryx Haven,commute,automated,auto,ForestGreen,Power levels nominal. Adjusting trajectory.,CXS-7955-PQ
+Marshal Keir,Vega Spire,Zenthar Relay,commute,automated,auto,Red,Minor vibration detected. Monitoring systems.,CXS-5813-IF
+Elia Vorn,Helion Hub,Lunaris Port,commute,automated,auto,PowderBlue,Re-routing due to unstable path.,CXS-5843-UP
+Zara Strix,Zenthar Relay,Cryon Reach,commute,automated,auto,DarkGoldenRod,Fuel low. Navigating around debris.,CXS-8272-PL
+Dr. Calix Renner,Helion Hub,Cryon Reach,commute,automated,auto,PaleTurquoise,Re-routing due to unstable path.,CXS-8126-KK
+Dr. Calix Renner,Zenthar Relay,Cerebra Ring,commute,automated,auto,DarkKhaki,Power levels nominal. Adjusting trajectory.,CXS-7655-FK
+Marshal Keir,Helion Hub,Zenthar Relay,commute,automated,auto,PaleVioletRed,Power levels nominal. Adjusting trajectory.,CXS-3339-WP
+Marshal Keir,Thalos Crossing,Lunaris Port,commute,automated,auto,LightSlateGray,Power levels nominal. Adjusting trajectory.,CXS-4866-VM
+Zara Strix,Helion Hub,Orryx Haven,commute,automated,auto,Blue,Minor vibration detected. Monitoring systems.,CXS-1530-OC
+Commander Yulo,Orryx Haven,Cerebra Ring,commute,automated,auto,Maroon,Re-routing due to unstable path.,CXS-7095-IK
+Elia Vorn,Thalos Crossing,Cerebra Ring,commute,automated,auto,DarkOrange,Minor vibration detected. Monitoring systems.,CXS-3255-YM
+Captain Kael,Helion Hub,Cryon Reach,commute,automated,auto,Thistle,Re-routing due to unstable path.,CXS-5089-AV
+Marshal Keir,Vega Spire,Lunaris Port,commute,automated,auto,Yellow,Clear path confirmed. Continuing cruise.,CXS-9482-ON
+Elia Vorn,Cerebra Ring,Zenthar Relay,commute,automated,auto,CadetBlue,Re-routing due to unstable path.,CXS-5264-GQ
+Axel Orov,Thalos Crossing,Vega Spire,commute,automated,auto,MistyRose,Clear path confirmed. Continuing cruise.,CXS-4279-TY
+Elia Vorn,Vega Spire,Orryx Haven,commute,automated,auto,SpringGreen,Clear path confirmed. Continuing cruise.,CXS-3828-UO
+Captain Kael,Thalos Crossing,Lunaris Port,commute,automated,auto,CadetBlue,Re-routing due to unstable path.,CXS-2063-GI
+Marshal Keir,Zenthar Relay,Orryx Haven,commute,automated,auto,DarkSeaGreen,Fuel low. Navigating around debris.,CXS-6922-JO
+Tamsin Ryx,Cryon Reach,Lunaris Port,commute,automated,auto,SlateBlue,Fuel low. Navigating around debris.,CXS-4878-DA
+Captain Kael,Thalos Crossing,Lunaris Port,commute,automated,auto,LawnGreen,Minor vibration detected. Monitoring systems.,CXS-7044-WF
+Marshal Keir,Thalos Crossing,Cerebra Ring,commute,automated,auto,Magenta,Minor vibration detected. Monitoring systems.,CXS-2412-RA
+Zara Strix,Vega Spire,Cryon Reach,commute,automated,auto,PaleTurquoise,Clear path confirmed. Continuing cruise.,CXS-9612-CH
+Zara Strix,Cerebra Ring,Thalos Crossing,commute,automated,auto,DarkOrange,Minor vibration detected. Monitoring systems.,CXS-2208-OD
+Elia Vorn,Orryx Haven,Cryon Reach,commute,automated,auto,DeepSkyBlue,Clear path confirmed. Continuing cruise.,CXS-8632-PW
+Marshal Keir,Helion Hub,Vega Spire,commute,automated,auto,LightSteelBlue,Fuel low. Navigating around debris.,CXS-8088-QW
+Elia Vorn,Lunaris Port,Thalos Crossing,commute,automated,auto,LightPink,Minor vibration detected. Monitoring systems.,CXS-3507-NP
+Marshal Keir,Zenthar Relay,Vega Spire,commute,automated,auto,SeaShell,Re-routing due to unstable path.,CXS-4694-HO
+Axel Orov,Helion Hub,Zenthar Relay,commute,automated,auto,DarkViolet,Power levels nominal. Adjusting trajectory.,CXS-5105-MG
+Axel Orov,Cryon Reach,Cerebra Ring,commute,automated,auto,Teal,Fuel low. Navigating around debris.,CXS-5961-XE
+Marshal Keir,Vega Spire,Helion Hub,commute,automated,auto,CornflowerBlue,Minor vibration detected. Monitoring systems.,CXS-3526-IY
+Captain Kael,Orryx Haven,Cerebra Ring,commute,automated,auto,PapayaWhip,Minor vibration detected. Monitoring systems.,CXS-1674-KZ
+Dr. Calix Renner,Lunaris Port,Vega Spire,commute,automated,auto,Tan,Minor vibration detected. Monitoring systems.,CXS-5336-IA
+Zara Strix,Cryon Reach,Thalos Crossing,commute,automated,auto,LightSkyBlue,Minor vibration detected. Monitoring systems.,CXS-1496-XJ
+Axel Orov,Thalos Crossing,Helion Hub,commute,automated,auto,SlateGray,Re-routing due to unstable path.,CXS-8912-EO
+Zara Strix,Cryon Reach,Thalos Crossing,commute,automated,auto,WhiteSmoke,Re-routing due to unstable path.,CXS-8430-PL
+Dr. Calix Renner,Vega Spire,Cerebra Ring,commute,automated,auto,MediumSeaGreen,Fuel low. Navigating around debris.,CXS-8202-RY
+Commander Yulo,Cerebra Ring,Cryon Reach,commute,automated,auto,YellowGreen,Fuel low. Navigating around debris.,CXS-6573-MO
+Captain Kael,Orryx Haven,Cryon Reach,commute,automated,auto,MediumBlue,Re-routing due to unstable path.,CXS-7532-GW
+Captain Kael,Orryx Haven,Thalos Crossing,commute,automated,auto,LawnGreen,Minor vibration detected. Monitoring systems.,CXS-2739-SM
+Commander Yulo,Helion Hub,Vega Spire,commute,automated,auto,Lavender,Power levels nominal. Adjusting trajectory.,CXS-5382-YN
+Marshal Keir,Thalos Crossing,Vega Spire,commute,automated,auto,Brown,Power levels nominal. Adjusting trajectory.,CXS-1829-KX
+Zara Strix,Zenthar Relay,Cryon Reach,commute,automated,auto,Sienna,Fuel low. Navigating around debris.,CXS-3616-WZ
+Captain Kael,Helion Hub,Zenthar Relay,commute,automated,auto,Olive,Fuel low. Navigating around debris.,CXS-3610-MV
+Commander Yulo,Thalos Crossing,Zenthar Relay,commute,automated,auto,DeepPink,Clear path confirmed. Continuing cruise.,CXS-6055-PB
+Elia Vorn,Thalos Crossing,Lunaris Port,commute,automated,auto,DarkSalmon,Clear path confirmed. Continuing cruise.,CXS-9281-QS
+Tamsin Ryx,Thalos Crossing,Vega Spire,commute,automated,auto,MediumPurple,Minor vibration detected. Monitoring systems.,CXS-6781-DO
+Axel Orov,Lunaris Port,Vega Spire,commute,automated,auto,DarkGreen,Clear path confirmed. Continuing cruise.,CXS-8710-QO
+Dr. Calix Renner,Zenthar Relay,Helion Hub,commute,automated,auto,Aquamarine,Power levels nominal. Adjusting trajectory.,CXS-8060-XE
+Captain Kael,Orryx Haven,Cryon Reach,commute,automated,auto,PaleTurquoise,Clear path confirmed. Continuing cruise.,CXS-6995-UE
+Dr. Calix Renner,Lunaris Port,Zenthar Relay,commute,automated,auto,Crimson,Minor vibration detected. Monitoring systems.,CXS-4189-PZ
+Axel Orov,Helion Hub,Zenthar Relay,commute,automated,auto,LightGray,Power levels nominal. Adjusting trajectory.,CXS-7329-KT
+Axel Orov,Thalos Crossing,Cerebra Ring,commute,automated,auto,Orchid,Minor vibration detected. Monitoring systems.,CXS-2946-UC
+Zara Strix,Orryx Haven,Lunaris Port,commute,automated,auto,MediumPurple,Re-routing due to unstable path.,CXS-6555-VR
+Marshal Keir,Helion Hub,Thalos Crossing,commute,automated,auto,Olive,Fuel low. Navigating around debris.,CXS-9341-KU
+Dr. Calix Renner,Cerebra Ring,Zenthar Relay,commute,automated,auto,SlateBlue,Power levels nominal. Adjusting trajectory.,CXS-1637-RB
+Captain Kael,Orryx Haven,Cerebra Ring,commute,automated,auto,CornflowerBlue,Clear path confirmed. Continuing cruise.,CXS-9508-HU
+Marshal Keir,Thalos Crossing,Vega Spire,commute,automated,auto,LightSlateGray,Re-routing due to unstable path.,CXS-6218-HX
+Axel Orov,Orryx Haven,Zenthar Relay,commute,automated,auto,DarkGoldenRod,Minor vibration detected. Monitoring systems.,CXS-6511-ND
+Axel Orov,Thalos Crossing,Helion Hub,commute,automated,auto,DarkGreen,Clear path confirmed. Continuing cruise.,CXS-1272-OF
+Elia Vorn,Helion Hub,Orryx Haven,commute,automated,auto,Lime,Clear path confirmed. Continuing cruise.,CXS-6040-AB
+Commander Yulo,Lunaris Port,Helion Hub,commute,automated,auto,MediumOrchid,Re-routing due to unstable path.,CXS-4728-ZB
+Commander Yulo,Lunaris Port,Helion Hub,commute,automated,auto,LightYellow,Fuel low. Navigating around debris.,CXS-9589-LL
+Tamsin Ryx,Cerebra Ring,Vega Spire,commute,automated,auto,Plum,Power levels nominal. Adjusting trajectory.,CXS-2800-EH
+Commander Yulo,Cryon Reach,Lunaris Port,commute,automated,auto,Wheat,Re-routing due to unstable path.,CXS-7861-NS
+Tamsin Ryx,Orryx Haven,Zenthar Relay,commute,automated,auto,Gainsboro,Clear path confirmed. Continuing cruise.,CXS-9221-FF
+Dr. Calix Renner,Thalos Crossing,Cerebra Ring,commute,automated,auto,Cyan,Fuel low. Navigating around debris.,CXS-9498-TM
+Captain Kael,Cryon Reach,Helion Hub,commute,automated,auto,LawnGreen,Clear path confirmed. Continuing cruise.,CXS-9609-PS
+Marshal Keir,Cerebra Ring,Orryx Haven,commute,automated,auto,DarkTurquoise,Clear path confirmed. Continuing cruise.,CXS-9734-HO
+Captain Kael,Helion Hub,Zenthar Relay,commute,automated,auto,LightCyan,Re-routing due to unstable path.,CXS-8932-OI
+Axel Orov,Cryon Reach,Vega Spire,commute,automated,auto,Aqua,Minor vibration detected. Monitoring systems.,CXS-5890-ZO
+Axel Orov,Cryon Reach,Orryx Haven,commute,automated,auto,LightSlateGray,Fuel low. Navigating around debris.,CXS-9011-VR
+Captain Kael,Helion Hub,Cryon Reach,commute,automated,auto,DimGray,Minor vibration detected. Monitoring systems.,CXS-5480-CO
+Zara Strix,Zenthar Relay,Lunaris Port,commute,automated,auto,MediumTurquoise,Clear path confirmed. Continuing cruise.,CXS-6654-SJ
+Dr. Calix Renner,Orryx Haven,Cryon Reach,commute,automated,auto,Peru,Re-routing due to unstable path.,CXS-2294-WI
+Axel Orov,Helion Hub,Cryon Reach,commute,automated,auto,SaddleBrown,Clear path confirmed. Continuing cruise.,CXS-4505-JG
+Axel Orov,Cryon Reach,Thalos Crossing,commute,automated,auto,OliveDrab,Minor vibration detected. Monitoring systems.,CXS-5450-PD
+Tamsin Ryx,Orryx Haven,Lunaris Port,commute,automated,auto,LavenderBlush,Fuel low. Navigating around debris.,CXS-1831-MS
+Tamsin Ryx,Cryon Reach,Cerebra Ring,commute,automated,auto,MintCream,Power levels nominal. Adjusting trajectory.,CXS-2641-SJ
+Commander Yulo,Cerebra Ring,Orryx Haven,commute,automated,auto,LightYellow,Power levels nominal. Adjusting trajectory.,CXS-3252-AV
+Marshal Keir,Lunaris Port,Helion Hub,commute,automated,auto,Orchid,Clear path confirmed. Continuing cruise.,CXS-8793-IA
+Tamsin Ryx,Thalos Crossing,Helion Hub,commute,automated,auto,BurlyWood,Re-routing due to unstable path.,CXS-6262-TX
+Dr. Calix Renner,Zenthar Relay,Cerebra Ring,commute,automated,auto,SpringGreen,Power levels nominal. Adjusting trajectory.,CXS-4804-JY
+Zara Strix,Lunaris Port,Orryx Haven,commute,automated,auto,Khaki,Fuel low. Navigating around debris.,CXS-1595-TZ
+Commander Yulo,Cerebra Ring,Thalos Crossing,commute,automated,auto,MidnightBlue,Fuel low. Navigating around debris.,CXS-5742-HU
+Axel Orov,Lunaris Port,Vega Spire,commute,automated,auto,Gold,Minor vibration detected. Monitoring systems.,CXS-2758-TI
+Commander Yulo,Helion Hub,Orryx Haven,commute,automated,auto,DarkSlateGray,Minor vibration detected. Monitoring systems.,CXS-9590-UD
+Commander Yulo,Thalos Crossing,Vega Spire,commute,automated,auto,BlueViolet,Re-routing due to unstable path.,CXS-4159-JZ
+Marshal Keir,Vega Spire,Cryon Reach,commute,automated,auto,Purple,Clear path confirmed. Continuing cruise.,CXS-5215-BS
+Captain Kael,Orryx Haven,Lunaris Port,commute,automated,auto,Moccasin,Re-routing due to unstable path.,CXS-4164-XE
+Zara Strix,Orryx Haven,Helion Hub,commute,automated,auto,DarkGoldenRod,Clear path confirmed. Continuing cruise.,CXS-9442-JK
+Zara Strix,Helion Hub,Lunaris Port,commute,automated,auto,PapayaWhip,Power levels nominal. Adjusting trajectory.,CXS-4027-FG
+Captain Kael,Orryx Haven,Zenthar Relay,commute,automated,auto,DarkSeaGreen,Fuel low. Navigating around debris.,CXS-1111-ZR
+Tamsin Ryx,Zenthar Relay,Cryon Reach,commute,automated,auto,Moccasin,Clear path confirmed. Continuing cruise.,CXS-5374-QQ
+Dr. Calix Renner,Helion Hub,Orryx Haven,commute,automated,auto,LightPink,Re-routing due to unstable path.,CXS-6890-FI
+Elia Vorn,Cryon Reach,Lunaris Port,commute,automated,auto,SkyBlue,Clear path confirmed. Continuing cruise.,CXS-6026-ZJ
+Axel Orov,Orryx Haven,Zenthar Relay,commute,automated,auto,MediumSlateBlue,Power levels nominal. Adjusting trajectory.,CXS-5833-ZD
+Tamsin Ryx,Helion Hub,Zenthar Relay,commute,automated,auto,SeaGreen,Fuel low. Navigating around debris.,CXS-3188-CE
+Commander Yulo,Thalos Crossing,Vega Spire,commute,automated,auto,Ivory,Minor vibration detected. Monitoring systems.,CXS-7121-VX
+Commander Yulo,Cerebra Ring,Helion Hub,commute,automated,auto,Orchid,Minor vibration detected. Monitoring systems.,CXS-4578-ZR
+Elia Vorn,Cryon Reach,Cerebra Ring,commute,automated,auto,Moccasin,Minor vibration detected. Monitoring systems.,CXS-8319-CZ
+Elia Vorn,Helion Hub,Lunaris Port,commute,automated,auto,Orchid,Power levels nominal. Adjusting trajectory.,CXS-9972-AI
+Marshal Keir,Cryon Reach,Helion Hub,commute,automated,auto,WhiteSmoke,Fuel low. Navigating around debris.,CXS-6375-DO
+Tamsin Ryx,Thalos Crossing,Lunaris Port,commute,automated,auto,NavajoWhite,Minor vibration detected. Monitoring systems.,CXS-9008-VX
+Commander Yulo,Vega Spire,Helion Hub,commute,automated,auto,LightGray,Power levels nominal. Adjusting trajectory.,CXS-8429-SM
+Zara Strix,Orryx Haven,Helion Hub,commute,automated,auto,Navy,Clear path confirmed. Continuing cruise.,CXS-1945-DV
+Axel Orov,Thalos Crossing,Helion Hub,commute,automated,auto,Lavender,Power levels nominal. Adjusting trajectory.,CXS-7487-PA
+Dr. Calix Renner,Zenthar Relay,Thalos Crossing,commute,automated,auto,MediumOrchid,Fuel low. Navigating around debris.,CXS-2196-TH
+Captain Kael,Lunaris Port,Zenthar Relay,commute,automated,auto,Coral,Power levels nominal. Adjusting trajectory.,CXS-9866-UO
+Commander Yulo,Lunaris Port,Vega Spire,commute,automated,auto,LimeGreen,Power levels nominal. Adjusting trajectory.,CXS-5703-UN
+Marshal Keir,Cerebra Ring,Vega Spire,commute,automated,auto,DarkOrange,Clear path confirmed. Continuing cruise.,CXS-7135-EB
+Zara Strix,Cerebra Ring,Cryon Reach,commute,automated,auto,Blue,Clear path confirmed. Continuing cruise.,CXS-2314-JP
+Captain Kael,Orryx Haven,Cerebra Ring,commute,automated,auto,DarkOrange,Power levels nominal. Adjusting trajectory.,CXS-3924-DH
+Marshal Keir,Cerebra Ring,Zenthar Relay,commute,automated,auto,WhiteSmoke,Fuel low. Navigating around debris.,CXS-1056-EM
+Commander Yulo,Lunaris Port,Cryon Reach,commute,automated,auto,SaddleBrown,Minor vibration detected. Monitoring systems.,CXS-7948-LV
+Tamsin Ryx,Cerebra Ring,Thalos Crossing,commute,automated,auto,Yellow,Fuel low. Navigating around debris.,CXS-8546-NS
+Axel Orov,Helion Hub,Vega Spire,commute,automated,auto,DeepSkyBlue,Fuel low. Navigating around debris.,CXS-2848-NU
+Zara Strix,Lunaris Port,Thalos Crossing,commute,automated,auto,DarkGreen,Minor vibration detected. Monitoring systems.,CXS-1256-PT
+Elia Vorn,Cryon Reach,Vega Spire,commute,automated,auto,PaleTurquoise,Power levels nominal. Adjusting trajectory.,CXS-1550-IB
+Dr. Calix Renner,Thalos Crossing,Zenthar Relay,commute,automated,auto,NavajoWhite,Fuel low. Navigating around debris.,CXS-1724-GO
+Tamsin Ryx,Cerebra Ring,Cryon Reach,commute,automated,auto,Red,Minor vibration detected. Monitoring systems.,CXS-4559-HL
+Axel Orov,Lunaris Port,Orryx Haven,commute,automated,auto,DarkGreen,Fuel low. Navigating around debris.,CXS-6224-VL
+Axel Orov,Helion Hub,Vega Spire,commute,automated,auto,YellowGreen,Fuel low. Navigating around debris.,CXS-9540-UL
+Axel Orov,Cryon Reach,Zenthar Relay,commute,automated,auto,Chocolate,Re-routing due to unstable path.,CXS-1998-MI
+Zara Strix,Orryx Haven,Cerebra Ring,commute,automated,auto,Gold,Minor vibration detected. Monitoring systems.,CXS-9120-DO
+Zara Strix,Lunaris Port,Cryon Reach,commute,automated,auto,DarkGoldenRod,Minor vibration detected. Monitoring systems.,CXS-6222-VG
+Marshal Keir,Cerebra Ring,Cryon Reach,commute,automated,auto,Beige,Re-routing due to unstable path.,CXS-7167-BZ
+Commander Yulo,Orryx Haven,Thalos Crossing,commute,automated,auto,MediumSeaGreen,Fuel low. Navigating around debris.,CXS-4692-HE
+Marshal Keir,Zenthar Relay,Thalos Crossing,commute,automated,auto,GreenYellow,Clear path confirmed. Continuing cruise.,CXS-1944-CY
+Marshal Keir,Cerebra Ring,Cryon Reach,commute,automated,auto,HoneyDew,Clear path confirmed. Continuing cruise.,CXS-4978-SG
+Captain Kael,Zenthar Relay,Vega Spire,commute,automated,auto,Lavender,Power levels nominal. Adjusting trajectory.,CXS-8369-KY
+Tamsin Ryx,Helion Hub,Lunaris Port,commute,automated,auto,DarkViolet,Power levels nominal. Adjusting trajectory.,CXS-5398-ZT
+Dr. Calix Renner,Cerebra Ring,Helion Hub,commute,automated,auto,AliceBlue,Power levels nominal. Adjusting trajectory.,CXS-4082-IE
+Tamsin Ryx,Cryon Reach,Zenthar Relay,commute,automated,auto,DarkSeaGreen,Re-routing due to unstable path.,CXS-5967-RI
+Tamsin Ryx,Lunaris Port,Orryx Haven,commute,automated,auto,ForestGreen,Power levels nominal. Adjusting trajectory.,CXS-8846-DV
+Tamsin Ryx,Cryon Reach,Cerebra Ring,commute,automated,auto,Bisque,Clear path confirmed. Continuing cruise.,CXS-4921-EA
+Axel Orov,Helion Hub,Thalos Crossing,commute,automated,auto,MintCream,Clear path confirmed. Continuing cruise.,CXS-8639-ZZ
+Axel Orov,Helion Hub,Orryx Haven,commute,automated,auto,LavenderBlush,Re-routing due to unstable path.,CXS-9401-SK
+Elia Vorn,Thalos Crossing,Cryon Reach,commute,automated,auto,Azure,Clear path confirmed. Continuing cruise.,CXS-6246-FI
+Captain Kael,Cryon Reach,Orryx Haven,commute,automated,auto,CadetBlue,Clear path confirmed. Continuing cruise.,CXS-1749-EX
+Marshal Keir,Cryon Reach,Cerebra Ring,commute,automated,auto,PeachPuff,Power levels nominal. Adjusting trajectory.,CXS-5272-QD
+Marshal Keir,Cerebra Ring,Orryx Haven,commute,automated,auto,Coral,Fuel low. Navigating around debris.,CXS-6404-PO
+Tamsin Ryx,Cryon Reach,Zenthar Relay,commute,automated,auto,MistyRose,Clear path confirmed. Continuing cruise.,CXS-6530-QS
+Commander Yulo,Zenthar Relay,Thalos Crossing,commute,automated,auto,DarkMagenta,Clear path confirmed. Continuing cruise.,CXS-8550-OQ
+Captain Kael,Orryx Haven,Cerebra Ring,commute,automated,auto,Indigo,Fuel low. Navigating around debris.,CXS-3293-TB
+Dr. Calix Renner,Thalos Crossing,Vega Spire,commute,automated,auto,Turquoise,Minor vibration detected. Monitoring systems.,CXS-1554-JO
+Dr. Calix Renner,Vega Spire,Thalos Crossing,commute,automated,auto,Black,Power levels nominal. Adjusting trajectory.,CXS-7756-BP
+Tamsin Ryx,Orryx Haven,Thalos Crossing,commute,automated,auto,PaleGoldenRod,Power levels nominal. Adjusting trajectory.,CXS-3474-NV
+Commander Yulo,Lunaris Port,Orryx Haven,commute,automated,auto,DarkMagenta,Re-routing due to unstable path.,CXS-1990-PW
+Commander Yulo,Thalos Crossing,Helion Hub,commute,automated,auto,Red,Power levels nominal. Adjusting trajectory.,CXS-1108-CC
+Dr. Calix Renner,Cerebra Ring,Lunaris Port,commute,automated,auto,MediumBlue,Minor vibration detected. Monitoring systems.,CXS-5501-TE
+Zara Strix,Zenthar Relay,Lunaris Port,commute,automated,auto,Coral,Fuel low. Navigating around debris.,CXS-2753-EI
+Marshal Keir,Vega Spire,Helion Hub,commute,automated,auto,MediumOrchid,Fuel low. Navigating around debris.,CXS-4144-MT
+Captain Kael,Zenthar Relay,Thalos Crossing,commute,automated,auto,Wheat,Re-routing due to unstable path.,CXS-7502-JO
+Zara Strix,Vega Spire,Cryon Reach,commute,automated,auto,Tan,Clear path confirmed. Continuing cruise.,CXS-4984-TN
+Elia Vorn,Cryon Reach,Orryx Haven,commute,automated,auto,DarkGreen,Power levels nominal. Adjusting trajectory.,CXS-2531-ZW
+Zara Strix,Cerebra Ring,Cryon Reach,commute,automated,auto,DarkOrange,Minor vibration detected. Monitoring systems.,CXS-8798-UU
+Dr. Calix Renner,Lunaris Port,Cerebra Ring,commute,automated,auto,IndianRed,Fuel low. Navigating around debris.,CXS-2354-NO
+Zara Strix,Thalos Crossing,Cerebra Ring,commute,automated,auto,Khaki,Re-routing due to unstable path.,CXS-2562-NK
+Tamsin Ryx,Lunaris Port,Orryx Haven,commute,automated,auto,SaddleBrown,Minor vibration detected. Monitoring systems.,CXS-8790-MN
+Elia Vorn,Zenthar Relay,Lunaris Port,commute,automated,auto,DarkGray,Re-routing due to unstable path.,CXS-9897-KN
+Captain Kael,Lunaris Port,Orryx Haven,commute,automated,auto,Maroon,Power levels nominal. Adjusting trajectory.,CXS-4394-VI
+Zara Strix,Orryx Haven,Thalos Crossing,commute,automated,auto,Navy,Power levels nominal. Adjusting trajectory.,CXS-5903-EV
+Tamsin Ryx,Orryx Haven,Helion Hub,commute,automated,auto,Sienna,Minor vibration detected. Monitoring systems.,CXS-7375-CC
+Marshal Keir,Helion Hub,Cryon Reach,commute,automated,auto,DarkBlue,Power levels nominal. Adjusting trajectory.,CXS-9204-CN
+Elia Vorn,Helion Hub,Lunaris Port,commute,automated,auto,DarkGray,Clear path confirmed. Continuing cruise.,CXS-4803-XX
+Zara Strix,Vega Spire,Cryon Reach,commute,automated,auto,Navy,Re-routing due to unstable path.,CXS-1485-ZE
+Commander Yulo,Zenthar Relay,Thalos Crossing,commute,automated,auto,Chocolate,Clear path confirmed. Continuing cruise.,CXS-4737-SR
+Zara Strix,Helion Hub,Zenthar Relay,commute,automated,auto,MediumPurple,Clear path confirmed. Continuing cruise.,CXS-4043-VD
+Axel Orov,Cerebra Ring,Lunaris Port,commute,automated,auto,PaleVioletRed,Fuel low. Navigating around debris.,CXS-2204-LV
+Marshal Keir,Vega Spire,Cryon Reach,commute,automated,auto,Peru,Clear path confirmed. Continuing cruise.,CXS-3527-XB
+Captain Kael,Cerebra Ring,Orryx Haven,commute,automated,auto,LightSlateGray,Power levels nominal. Adjusting trajectory.,CXS-2499-TJ
+Commander Yulo,Lunaris Port,Cryon Reach,commute,automated,auto,MidnightBlue,Re-routing due to unstable path.,CXS-5419-DS
+Elia Vorn,Vega Spire,Orryx Haven,commute,automated,auto,Tan,Fuel low. Navigating around debris.,CXS-8061-GE
+Zara Strix,Thalos Crossing,Zenthar Relay,commute,automated,auto,SkyBlue,Power levels nominal. Adjusting trajectory.,CXS-1430-HD
+Elia Vorn,Vega Spire,Cryon Reach,commute,automated,auto,MediumVioletRed,Minor vibration detected. Monitoring systems.,CXS-6315-RL
+Axel Orov,Cerebra Ring,Lunaris Port,commute,automated,auto,DarkOrange,Clear path confirmed. Continuing cruise.,CXS-7353-YI
+Tamsin Ryx,Vega Spire,Cerebra Ring,commute,automated,auto,Ivory,Minor vibration detected. Monitoring systems.,CXS-9537-ZN
+Zara Strix,Orryx Haven,Cerebra Ring,commute,automated,auto,Bisque,Fuel low. Navigating around debris.,CXS-3274-TV
+Axel Orov,Zenthar Relay,Orryx Haven,commute,automated,auto,LightGreen,Clear path confirmed. Continuing cruise.,CXS-3390-AF
+Zara Strix,Vega Spire,Orryx Haven,commute,automated,auto,LightPink,Re-routing due to unstable path.,CXS-7899-WY
+Elia Vorn,Zenthar Relay,Cryon Reach,commute,automated,auto,Magenta,Re-routing due to unstable path.,CXS-5123-KL
+Commander Yulo,Cryon Reach,Cerebra Ring,commute,automated,auto,AntiqueWhite,Minor vibration detected. Monitoring systems.,CXS-4203-FE
+Marshal Keir,Thalos Crossing,Lunaris Port,commute,automated,auto,PaleGoldenRod,Re-routing due to unstable path.,CXS-1110-CE
+Zara Strix,Cerebra Ring,Orryx Haven,commute,automated,auto,Black,Re-routing due to unstable path.,CXS-8212-CX
+Marshal Keir,Helion Hub,Cryon Reach,commute,automated,auto,Wheat,Re-routing due to unstable path.,CXS-6253-GM
+Captain Kael,Cryon Reach,Zenthar Relay,commute,automated,auto,PeachPuff,Fuel low. Navigating around debris.,CXS-7524-OK
+Commander Yulo,Helion Hub,Orryx Haven,commute,automated,auto,DimGray,Minor vibration detected. Monitoring systems.,CXS-4971-LJ
+Axel Orov,Helion Hub,Cryon Reach,commute,automated,auto,MediumOrchid,Clear path confirmed. Continuing cruise.,CXS-6980-YS
+Tamsin Ryx,Vega Spire,Helion Hub,commute,automated,auto,DarkBlue,Minor vibration detected. Monitoring systems.,CXS-9939-BE
+Dr. Calix Renner,Orryx Haven,Cerebra Ring,commute,automated,auto,DimGray,Clear path confirmed. Continuing cruise.,CXS-4434-YT
+Axel Orov,Thalos Crossing,Cerebra Ring,commute,automated,auto,BurlyWood,Power levels nominal. Adjusting trajectory.,CXS-7703-VC
+Axel Orov,Thalos Crossing,Vega Spire,commute,automated,auto,LightPink,Fuel low. Navigating around debris.,CXS-5139-OV
+Zara Strix,Orryx Haven,Cerebra Ring,commute,automated,auto,Peru,Clear path confirmed. Continuing cruise.,CXS-2211-PT
+Commander Yulo,Thalos Crossing,Zenthar Relay,commute,automated,auto,Red,Minor vibration detected. Monitoring systems.,CXS-7566-NI
+Dr. Calix Renner,Cerebra Ring,Zenthar Relay,commute,automated,auto,IndianRed,Re-routing due to unstable path.,CXS-9796-YQ
+Tamsin Ryx,Vega Spire,Lunaris Port,commute,automated,auto,DarkOrange,Re-routing due to unstable path.,CXS-3725-LN
+Zara Strix,Lunaris Port,Helion Hub,commute,automated,auto,DarkOliveGreen,Re-routing due to unstable path.,CXS-8052-JV
+Elia Vorn,Vega Spire,Lunaris Port,commute,automated,auto,SlateBlue,Re-routing due to unstable path.,CXS-4637-QV
+Captain Kael,Cryon Reach,Zenthar Relay,commute,automated,auto,Linen,Clear path confirmed. Continuing cruise.,CXS-8586-BH
+Dr. Calix Renner,Orryx Haven,Cryon Reach,commute,automated,auto,Orchid,Clear path confirmed. Continuing cruise.,CXS-2712-TB
+Elia Vorn,Zenthar Relay,Cryon Reach,commute,automated,auto,AntiqueWhite,Power levels nominal. Adjusting trajectory.,CXS-3321-GJ
+Captain Kael,Helion Hub,Orryx Haven,commute,automated,auto,HotPink,Clear path confirmed. Continuing cruise.,CXS-4389-YE
+Commander Yulo,Thalos Crossing,Orryx Haven,commute,automated,auto,LightCyan,Power levels nominal. Adjusting trajectory.,CXS-8178-JK
+Elia Vorn,Thalos Crossing,Orryx Haven,commute,automated,auto,DarkOrchid,Re-routing due to unstable path.,CXS-1732-AP
+Captain Kael,Vega Spire,Lunaris Port,commute,automated,auto,Plum,Power levels nominal. Adjusting trajectory.,CXS-3692-FE
+Marshal Keir,Cryon Reach,Helion Hub,commute,automated,auto,Olive,Minor vibration detected. Monitoring systems.,CXS-3623-RW
+Zara Strix,Helion Hub,Zenthar Relay,commute,automated,auto,Khaki,Clear path confirmed. Continuing cruise.,CXS-4798-QR
+Marshal Keir,Cerebra Ring,Helion Hub,commute,automated,auto,MidnightBlue,Fuel low. Navigating around debris.,CXS-8080-CM
+Tamsin Ryx,Cerebra Ring,Lunaris Port,commute,automated,auto,BlueViolet,Clear path confirmed. Continuing cruise.,CXS-8037-NA
+Tamsin Ryx,Cerebra Ring,Lunaris Port,commute,automated,auto,Salmon,Fuel low. Navigating around debris.,CXS-5560-CK
+Elia Vorn,Vega Spire,Helion Hub,commute,automated,auto,Pink,Minor vibration detected. Monitoring systems.,CXS-4063-SM
+Tamsin Ryx,Helion Hub,Orryx Haven,commute,automated,auto,PapayaWhip,Clear path confirmed. Continuing cruise.,CXS-2867-JD
+Commander Yulo,Zenthar Relay,Cerebra Ring,commute,automated,auto,PaleGreen,Minor vibration detected. Monitoring systems.,CXS-6134-AK
+Zara Strix,Cerebra Ring,Zenthar Relay,commute,automated,auto,FloralWhite,Minor vibration detected. Monitoring systems.,CXS-2871-ZT
+Commander Yulo,Helion Hub,Orryx Haven,commute,automated,auto,Salmon,Minor vibration detected. Monitoring systems.,CXS-3826-WL
+Elia Vorn,Zenthar Relay,Helion Hub,commute,automated,auto,DarkCyan,Fuel low. Navigating around debris.,CXS-6131-ND
+Axel Orov,Vega Spire,Orryx Haven,commute,automated,auto,LemonChiffon,Power levels nominal. Adjusting trajectory.,CXS-3999-NS
+Marshal Keir,Helion Hub,Cerebra Ring,commute,automated,auto,PaleGoldenRod,Minor vibration detected. Monitoring systems.,CXS-7364-QC
+Marshal Keir,Cerebra Ring,Zenthar Relay,commute,automated,auto,Orchid,Minor vibration detected. Monitoring systems.,CXS-7286-JX
+Commander Yulo,Cerebra Ring,Vega Spire,commute,automated,auto,MediumSlateBlue,Minor vibration detected. Monitoring systems.,CXS-3838-HK
+Axel Orov,Orryx Haven,Zenthar Relay,commute,automated,auto,FloralWhite,Fuel low. Navigating around debris.,CXS-4065-CQ
+Commander Yulo,Helion Hub,Thalos Crossing,commute,automated,auto,DarkOrange,Minor vibration detected. Monitoring systems.,CXS-1878-QQ
+Commander Yulo,Helion Hub,Lunaris Port,commute,automated,auto,GoldenRod,Fuel low. Navigating around debris.,CXS-4196-YL
+Commander Yulo,Cerebra Ring,Zenthar Relay,commute,automated,auto,MediumVioletRed,Clear path confirmed. Continuing cruise.,CXS-9056-XU
+Commander Yulo,Cerebra Ring,Helion Hub,commute,automated,auto,DarkViolet,Clear path confirmed. Continuing cruise.,CXS-3740-HD
+Dr. Calix Renner,Vega Spire,Helion Hub,commute,automated,auto,DarkViolet,Fuel low. Navigating around debris.,CXS-5785-IG
+Tamsin Ryx,Lunaris Port,Cryon Reach,commute,automated,auto,ForestGreen,Minor vibration detected. Monitoring systems.,CXS-5729-TE
+Commander Yulo,Orryx Haven,Thalos Crossing,commute,automated,auto,Crimson,Minor vibration detected. Monitoring systems.,CXS-9115-FY
+Elia Vorn,Vega Spire,Helion Hub,commute,automated,auto,Snow,Re-routing due to unstable path.,CXS-9898-OY
+Dr. Calix Renner,Helion Hub,Zenthar Relay,commute,automated,auto,RosyBrown,Clear path confirmed. Continuing cruise.,CXS-9951-VS
+Elia Vorn,Cryon Reach,Zenthar Relay,commute,automated,auto,MediumBlue,Fuel low. Navigating around debris.,CXS-5877-UK
+Axel Orov,Lunaris Port,Zenthar Relay,commute,automated,auto,DeepPink,Re-routing due to unstable path.,CXS-2425-OC
+Elia Vorn,Thalos Crossing,Cerebra Ring,commute,automated,auto,SeaShell,Fuel low. Navigating around debris.,CXS-4438-OU
+Zara Strix,Helion Hub,Thalos Crossing,commute,automated,auto,LimeGreen,Fuel low. Navigating around debris.,CXS-3281-ZI
+Tamsin Ryx,Cryon Reach,Thalos Crossing,commute,automated,auto,Chartreuse,Power levels nominal. Adjusting trajectory.,CXS-6747-LQ
+Marshal Keir,Zenthar Relay,Helion Hub,commute,automated,auto,Cornsilk,Re-routing due to unstable path.,CXS-5794-JO
+Axel Orov,Zenthar Relay,Helion Hub,commute,automated,auto,RoyalBlue,Minor vibration detected. Monitoring systems.,CXS-2560-BB
+Zara Strix,Orryx Haven,Thalos Crossing,commute,automated,auto,NavajoWhite,Power levels nominal. Adjusting trajectory.,CXS-5543-JC
+Marshal Keir,Orryx Haven,Cerebra Ring,commute,automated,auto,DarkGoldenRod,Fuel low. Navigating around debris.,CXS-3396-TT
+Tamsin Ryx,Helion Hub,Thalos Crossing,commute,automated,auto,Tan,Clear path confirmed. Continuing cruise.,CXS-9019-MO
+Axel Orov,Orryx Haven,Helion Hub,commute,automated,auto,BlueViolet,Clear path confirmed. Continuing cruise.,CXS-7146-OZ
+Elia Vorn,Thalos Crossing,Lunaris Port,commute,automated,auto,Gold,Clear path confirmed. Continuing cruise.,CXS-9447-KT
+Captain Kael,Zenthar Relay,Cerebra Ring,commute,automated,auto,Sienna,Clear path confirmed. Continuing cruise.,CXS-8996-QE
+Dr. Calix Renner,Helion Hub,Zenthar Relay,commute,automated,auto,Chocolate,Power levels nominal. Adjusting trajectory.,CXS-8511-OD
+Elia Vorn,Helion Hub,Thalos Crossing,commute,automated,auto,MediumSpringGreen,Minor vibration detected. Monitoring systems.,CXS-7516-WC
+Tamsin Ryx,Cryon Reach,Zenthar Relay,commute,automated,auto,Tan,Clear path confirmed. Continuing cruise.,CXS-5399-UF
+Axel Orov,Helion Hub,Thalos Crossing,commute,automated,auto,BlueViolet,Re-routing due to unstable path.,CXS-9967-HW
+Commander Yulo,Orryx Haven,Helion Hub,commute,automated,auto,Purple,Re-routing due to unstable path.,CXS-1793-OQ
+Commander Yulo,Lunaris Port,Vega Spire,commute,automated,auto,Turquoise,Power levels nominal. Adjusting trajectory.,CXS-3035-TF
+Commander Yulo,Orryx Haven,Zenthar Relay,commute,automated,auto,Moccasin,Power levels nominal. Adjusting trajectory.,CXS-8009-LJ
+Marshal Keir,Cryon Reach,Cerebra Ring,commute,automated,auto,Orange,Re-routing due to unstable path.,CXS-3604-NY
+Captain Kael,Zenthar Relay,Lunaris Port,commute,automated,auto,MediumSlateBlue,Re-routing due to unstable path.,CXS-2350-VT
+Marshal Keir,Helion Hub,Cerebra Ring,commute,automated,auto,CadetBlue,Power levels nominal. Adjusting trajectory.,CXS-7493-ZU
+Tamsin Ryx,Zenthar Relay,Cerebra Ring,commute,automated,auto,MediumSeaGreen,Clear path confirmed. Continuing cruise.,CXS-2494-CK
+Tamsin Ryx,Vega Spire,Lunaris Port,commute,automated,auto,DarkGray,Clear path confirmed. Continuing cruise.,CXS-2276-RV
+Tamsin Ryx,Orryx Haven,Helion Hub,commute,automated,auto,OliveDrab,Minor vibration detected. Monitoring systems.,CXS-8291-JI
+Captain Kael,Lunaris Port,Vega Spire,commute,automated,auto,DeepPink,Power levels nominal. Adjusting trajectory.,CXS-7919-KC
+Elia Vorn,Orryx Haven,Zenthar Relay,commute,automated,auto,DarkTurquoise,Fuel low. Navigating around debris.,CXS-7276-LJ
+Elia Vorn,Vega Spire,Cerebra Ring,commute,automated,auto,OrangeRed,Power levels nominal. Adjusting trajectory.,CXS-6133-ET
+Marshal Keir,Helion Hub,Orryx Haven,commute,automated,auto,DarkBlue,Clear path confirmed. Continuing cruise.,CXS-3181-JR
+Dr. Calix Renner,Orryx Haven,Lunaris Port,commute,automated,auto,OldLace,Minor vibration detected. Monitoring systems.,CXS-3688-UZ
+Tamsin Ryx,Thalos Crossing,Orryx Haven,commute,automated,auto,MediumPurple,Fuel low. Navigating around debris.,CXS-7745-EV
+Tamsin Ryx,Thalos Crossing,Cerebra Ring,commute,automated,auto,Violet,Power levels nominal. Adjusting trajectory.,CXS-2646-CU
+Elia Vorn,Orryx Haven,Thalos Crossing,commute,automated,auto,Peru,Minor vibration detected. Monitoring systems.,CXS-7291-QL
+Captain Kael,Helion Hub,Cryon Reach,commute,automated,auto,Azure,Fuel low. Navigating around debris.,CXS-5059-LJ
+Elia Vorn,Zenthar Relay,Cerebra Ring,commute,automated,auto,Gainsboro,Fuel low. Navigating around debris.,CXS-5668-GK
+Axel Orov,Lunaris Port,Thalos Crossing,commute,automated,auto,SlateBlue,Fuel low. Navigating around debris.,CXS-9482-GH
+Zara Strix,Cryon Reach,Cerebra Ring,commute,automated,auto,DarkSlateGray,Re-routing due to unstable path.,CXS-1894-EC
+Zara Strix,Cryon Reach,Zenthar Relay,commute,automated,auto,LightYellow,Power levels nominal. Adjusting trajectory.,CXS-4949-ZD
+Elia Vorn,Thalos Crossing,Helion Hub,commute,automated,auto,Tan,Minor vibration detected. Monitoring systems.,CXS-1197-YR
+Marshal Keir,Helion Hub,Orryx Haven,commute,automated,auto,Violet,Clear path confirmed. Continuing cruise.,CXS-7895-BV
+Marshal Keir,Helion Hub,Zenthar Relay,commute,automated,auto,MediumSlateBlue,Clear path confirmed. Continuing cruise.,CXS-2195-YT
+Elia Vorn,Lunaris Port,Helion Hub,commute,automated,auto,DarkSeaGreen,Power levels nominal. Adjusting trajectory.,CXS-5295-TM
+Dr. Calix Renner,Cryon Reach,Lunaris Port,commute,automated,auto,DeepSkyBlue,Clear path confirmed. Continuing cruise.,CXS-9300-FF
+Zara Strix,Zenthar Relay,Cerebra Ring,commute,automated,auto,FireBrick,Clear path confirmed. Continuing cruise.,CXS-7590-XO
+Marshal Keir,Vega Spire,Cerebra Ring,commute,automated,auto,Brown,Re-routing due to unstable path.,CXS-2369-NL
+Tamsin Ryx,Zenthar Relay,Lunaris Port,commute,automated,auto,LavenderBlush,Fuel low. Navigating around debris.,CXS-9788-OT
+Elia Vorn,Helion Hub,Cryon Reach,commute,automated,auto,LightSkyBlue,Re-routing due to unstable path.,CXS-8167-YX
+Tamsin Ryx,Cryon Reach,Lunaris Port,commute,automated,auto,RosyBrown,Power levels nominal. Adjusting trajectory.,CXS-8118-HR
+Dr. Calix Renner,Vega Spire,Zenthar Relay,commute,automated,auto,LawnGreen,Re-routing due to unstable path.,CXS-3877-JZ
+Marshal Keir,Vega Spire,Lunaris Port,commute,automated,auto,SeaShell,Power levels nominal. Adjusting trajectory.,CXS-3684-GL
+Axel Orov,Thalos Crossing,Orryx Haven,commute,automated,auto,Purple,Fuel low. Navigating around debris.,CXS-7092-OY
+Axel Orov,Orryx Haven,Cerebra Ring,commute,automated,auto,LightSkyBlue,Power levels nominal. Adjusting trajectory.,CXS-1480-YM
+Zara Strix,Helion Hub,Thalos Crossing,commute,automated,auto,SteelBlue,Re-routing due to unstable path.,CXS-9582-QN
+Elia Vorn,Vega Spire,Cryon Reach,commute,automated,auto,DodgerBlue,Clear path confirmed. Continuing cruise.,CXS-8457-GZ
+Commander Yulo,Helion Hub,Lunaris Port,commute,automated,auto,DarkSlateGray,Minor vibration detected. Monitoring systems.,CXS-3734-IB
+Axel Orov,Helion Hub,Vega Spire,commute,automated,auto,SkyBlue,Power levels nominal. Adjusting trajectory.,CXS-2889-LR
+Dr. Calix Renner,Cryon Reach,Cerebra Ring,commute,automated,auto,DarkKhaki,Power levels nominal. Adjusting trajectory.,CXS-1201-WQ
+Commander Yulo,Cryon Reach,Lunaris Port,commute,automated,auto,DarkRed,Re-routing due to unstable path.,CXS-7274-JC
+Dr. Calix Renner,Orryx Haven,Vega Spire,commute,automated,auto,DodgerBlue,Minor vibration detected. Monitoring systems.,CXS-7870-IO
+Tamsin Ryx,Cryon Reach,Orryx Haven,commute,automated,auto,Thistle,Clear path confirmed. Continuing cruise.,CXS-6241-EN
+Elia Vorn,Zenthar Relay,Thalos Crossing,commute,automated,auto,DarkGoldenRod,Minor vibration detected. Monitoring systems.,CXS-7108-HO
+Dr. Calix Renner,Vega Spire,Helion Hub,commute,automated,auto,MediumVioletRed,Fuel low. Navigating around debris.,CXS-4656-AN
+Elia Vorn,Lunaris Port,Zenthar Relay,commute,automated,auto,CadetBlue,Clear path confirmed. Continuing cruise.,CXS-5625-MQ
+Elia Vorn,Zenthar Relay,Orryx Haven,commute,automated,auto,Navy,Minor vibration detected. Monitoring systems.,CXS-8483-HM
+Tamsin Ryx,Lunaris Port,Cryon Reach,commute,automated,auto,Cyan,Re-routing due to unstable path.,CXS-5979-LH
+Captain Kael,Cryon Reach,Zenthar Relay,commute,automated,auto,Black,Minor vibration detected. Monitoring systems.,CXS-9083-KD
+Tamsin Ryx,Cryon Reach,Cerebra Ring,commute,automated,auto,MediumSeaGreen,Fuel low. Navigating around debris.,CXS-1104-ZE
+Tamsin Ryx,Cerebra Ring,Lunaris Port,commute,automated,auto,DarkSlateGray,Minor vibration detected. Monitoring systems.,CXS-6675-BJ
+Dr. Calix Renner,Lunaris Port,Cryon Reach,commute,automated,auto,SeaShell,Clear path confirmed. Continuing cruise.,CXS-6038-WE
+Tamsin Ryx,Vega Spire,Orryx Haven,commute,automated,auto,SeaShell,Clear path confirmed. Continuing cruise.,CXS-9061-OT
+Axel Orov,Lunaris Port,Orryx Haven,commute,automated,auto,AntiqueWhite,Power levels nominal. Adjusting trajectory.,CXS-1719-CA
+Zara Strix,Cryon Reach,Thalos Crossing,commute,automated,auto,LightCyan,Re-routing due to unstable path.,CXS-8511-GE
+Elia Vorn,Vega Spire,Helion Hub,commute,automated,auto,Wheat,Minor vibration detected. Monitoring systems.,CXS-3187-ND
+Dr. Calix Renner,Cerebra Ring,Lunaris Port,commute,automated,auto,LightSlateGray,Clear path confirmed. Continuing cruise.,CXS-3141-HJ
+Axel Orov,Cryon Reach,Orryx Haven,commute,automated,auto,DarkRed,Re-routing due to unstable path.,CXS-7438-BH
+Commander Yulo,Helion Hub,Orryx Haven,commute,automated,auto,PeachPuff,Re-routing due to unstable path.,CXS-4827-UZ
+Marshal Keir,Vega Spire,Orryx Haven,commute,automated,auto,Salmon,Minor vibration detected. Monitoring systems.,CXS-2785-CD
+Marshal Keir,Orryx Haven,Lunaris Port,commute,automated,auto,SpringGreen,Clear path confirmed. Continuing cruise.,CXS-8635-TR
+Elia Vorn,Helion Hub,Cryon Reach,commute,automated,auto,Azure,Minor vibration detected. Monitoring systems.,CXS-6870-UQ
+Axel Orov,Cryon Reach,Zenthar Relay,commute,automated,auto,LawnGreen,Clear path confirmed. Continuing cruise.,CXS-5341-WE
+Marshal Keir,Vega Spire,Lunaris Port,commute,automated,auto,LightSteelBlue,Re-routing due to unstable path.,CXS-1660-NA
+Captain Kael,Cryon Reach,Thalos Crossing,commute,automated,auto,MidnightBlue,Fuel low. Navigating around debris.,CXS-2494-HS
+Zara Strix,Cryon Reach,Orryx Haven,commute,automated,auto,PapayaWhip,Minor vibration detected. Monitoring systems.,CXS-1802-FV
+Marshal Keir,Zenthar Relay,Orryx Haven,commute,automated,auto,DarkBlue,Power levels nominal. Adjusting trajectory.,CXS-7625-QL
+Tamsin Ryx,Thalos Crossing,Zenthar Relay,commute,automated,auto,CornflowerBlue,Power levels nominal. Adjusting trajectory.,CXS-8570-QR
+Marshal Keir,Vega Spire,Thalos Crossing,commute,automated,auto,Tan,Power levels nominal. Adjusting trajectory.,CXS-1195-ZQ
+Tamsin Ryx,Lunaris Port,Thalos Crossing,commute,automated,auto,Beige,Fuel low. Navigating around debris.,CXS-4246-MP
+Elia Vorn,Cerebra Ring,Orryx Haven,commute,automated,auto,Brown,Minor vibration detected. Monitoring systems.,CXS-5240-UM
+Elia Vorn,Vega Spire,Lunaris Port,commute,automated,auto,Navy,Fuel low. Navigating around debris.,CXS-8265-IX
+Captain Kael,Orryx Haven,Lunaris Port,commute,automated,auto,Azure,Power levels nominal. Adjusting trajectory.,CXS-1699-LZ
+Marshal Keir,Thalos Crossing,Lunaris Port,commute,automated,auto,CornflowerBlue,Minor vibration detected. Monitoring systems.,CXS-8096-LH
+Dr. Calix Renner,Cerebra Ring,Cryon Reach,commute,automated,auto,DarkKhaki,Clear path confirmed. Continuing cruise.,CXS-7990-YS
+Tamsin Ryx,Orryx Haven,Cryon Reach,commute,automated,auto,MediumSeaGreen,Fuel low. Navigating around debris.,CXS-5505-EB
+Marshal Keir,Zenthar Relay,Cryon Reach,commute,automated,auto,MidnightBlue,Power levels nominal. Adjusting trajectory.,CXS-5026-RK
+Zara Strix,Zenthar Relay,Cryon Reach,commute,automated,auto,ForestGreen,Minor vibration detected. Monitoring systems.,CXS-8848-YV
+Axel Orov,Lunaris Port,Vega Spire,commute,automated,auto,SandyBrown,Clear path confirmed. Continuing cruise.,CXS-3248-WP
+Tamsin Ryx,Cerebra Ring,Vega Spire,commute,automated,auto,Gainsboro,Minor vibration detected. Monitoring systems.,CXS-1319-ZE
+Captain Kael,Cerebra Ring,Thalos Crossing,commute,automated,auto,Coral,Clear path confirmed. Continuing cruise.,CXS-9921-WY
+Captain Kael,Thalos Crossing,Orryx Haven,commute,automated,auto,Salmon,Clear path confirmed. Continuing cruise.,CXS-5430-BJ
+Captain Kael,Orryx Haven,Lunaris Port,commute,automated,auto,Green,Minor vibration detected. Monitoring systems.,CXS-4588-BZ
+Axel Orov,Lunaris Port,Thalos Crossing,commute,automated,auto,Green,Power levels nominal. Adjusting trajectory.,CXS-8728-BK
+Tamsin Ryx,Helion Hub,Thalos Crossing,commute,automated,auto,Magenta,Fuel low. Navigating around debris.,CXS-2640-QM
+Tamsin Ryx,Cryon Reach,Cerebra Ring,commute,automated,auto,YellowGreen,Re-routing due to unstable path.,CXS-9743-PI
+Tamsin Ryx,Lunaris Port,Thalos Crossing,commute,automated,auto,Blue,Minor vibration detected. Monitoring systems.,CXS-7363-YU
+Marshal Keir,Helion Hub,Thalos Crossing,commute,automated,auto,Gold,Fuel low. Navigating around debris.,CXS-4875-JL
+Captain Kael,Helion Hub,Thalos Crossing,commute,automated,auto,BurlyWood,Minor vibration detected. Monitoring systems.,CXS-1462-UK
+Marshal Keir,Helion Hub,Zenthar Relay,commute,automated,auto,LightPink,Minor vibration detected. Monitoring systems.,CXS-4084-DZ
+Axel Orov,Thalos Crossing,Zenthar Relay,commute,automated,auto,NavajoWhite,Fuel low. Navigating around debris.,CXS-9035-NM
+Dr. Calix Renner,Lunaris Port,Vega Spire,commute,automated,auto,Purple,Fuel low. Navigating around debris.,CXS-4584-MK
+Commander Yulo,Lunaris Port,Helion Hub,commute,automated,auto,GhostWhite,Power levels nominal. Adjusting trajectory.,CXS-6435-PW
+Marshal Keir,Cryon Reach,Thalos Crossing,commute,automated,auto,SpringGreen,Re-routing due to unstable path.,CXS-3907-LZ
+Dr. Calix Renner,Helion Hub,Lunaris Port,commute,automated,auto,Tomato,Fuel low. Navigating around debris.,CXS-3320-IZ
+Captain Kael,Vega Spire,Thalos Crossing,commute,automated,auto,DarkBlue,Power levels nominal. Adjusting trajectory.,CXS-7120-XN
+Elia Vorn,Cerebra Ring,Zenthar Relay,commute,automated,auto,Cyan,Re-routing due to unstable path.,CXS-5944-NT
+Marshal Keir,Helion Hub,Vega Spire,commute,automated,auto,Gainsboro,Clear path confirmed. Continuing cruise.,CXS-8982-RJ
+Captain Kael,Helion Hub,Vega Spire,commute,automated,auto,MediumBlue,Fuel low. Navigating around debris.,CXS-3872-DC
+Axel Orov,Cerebra Ring,Orryx Haven,commute,automated,auto,MediumOrchid,Fuel low. Navigating around debris.,CXS-3911-VJ
+Zara Strix,Lunaris Port,Cerebra Ring,commute,automated,auto,Linen,Minor vibration detected. Monitoring systems.,CXS-1530-OT
+Captain Kael,Orryx Haven,Helion Hub,commute,automated,auto,Pink,Minor vibration detected. Monitoring systems.,CXS-4619-FW
+Marshal Keir,Vega Spire,Zenthar Relay,commute,automated,auto,Red,Re-routing due to unstable path.,CXS-2274-LO
+Captain Kael,Cryon Reach,Orryx Haven,commute,automated,auto,BlueViolet,Fuel low. Navigating around debris.,CXS-2453-XL
+Dr. Calix Renner,Helion Hub,Cryon Reach,commute,automated,auto,PowderBlue,Re-routing due to unstable path.,CXS-4435-IU
+Elia Vorn,Cryon Reach,Cerebra Ring,commute,automated,auto,Chartreuse,Re-routing due to unstable path.,CXS-5205-CV
+Dr. Calix Renner,Vega Spire,Cerebra Ring,commute,automated,auto,PaleGreen,Power levels nominal. Adjusting trajectory.,CXS-7323-LQ
+Zara Strix,Thalos Crossing,Helion Hub,commute,automated,auto,DimGray,Fuel low. Navigating around debris.,CXS-7783-AE
+Captain Kael,Thalos Crossing,Cryon Reach,commute,automated,auto,Purple,Minor vibration detected. Monitoring systems.,CXS-7149-BE
+Commander Yulo,Vega Spire,Thalos Crossing,commute,automated,auto,CornflowerBlue,Minor vibration detected. Monitoring systems.,CXS-4695-HY
+Elia Vorn,Orryx Haven,Zenthar Relay,commute,automated,auto,Moccasin,Power levels nominal. Adjusting trajectory.,CXS-5831-LM
+Axel Orov,Lunaris Port,Cryon Reach,commute,automated,auto,BlanchedAlmond,Power levels nominal. Adjusting trajectory.,CXS-2215-TE
+Zara Strix,Helion Hub,Vega Spire,commute,automated,auto,RoyalBlue,Fuel low. Navigating around debris.,CXS-2228-LL
+Commander Yulo,Vega Spire,Cryon Reach,commute,automated,auto,Red,Power levels nominal. Adjusting trajectory.,CXS-8066-YC
+Zara Strix,Orryx Haven,Helion Hub,commute,automated,auto,DarkSlateGray,Fuel low. Navigating around debris.,CXS-1877-QL
+Tamsin Ryx,Vega Spire,Cryon Reach,commute,automated,auto,Orchid,Fuel low. Navigating around debris.,CXS-7705-KU
+Axel Orov,Zenthar Relay,Cerebra Ring,commute,automated,auto,LightSeaGreen,Re-routing due to unstable path.,CXS-4891-HD
+Zara Strix,Vega Spire,Lunaris Port,commute,automated,auto,Bisque,Minor vibration detected. Monitoring systems.,CXS-9043-XF
+Captain Kael,Orryx Haven,Lunaris Port,commute,automated,auto,SpringGreen,Power levels nominal. Adjusting trajectory.,CXS-8005-QM
+Commander Yulo,Vega Spire,Cryon Reach,commute,automated,auto,DarkOrchid,Fuel low. Navigating around debris.,CXS-2589-IY
+Marshal Keir,Lunaris Port,Orryx Haven,commute,automated,auto,LightGoldenRodYellow,Re-routing due to unstable path.,CXS-2342-WO
+Elia Vorn,Thalos Crossing,Cerebra Ring,commute,automated,auto,HotPink,Re-routing due to unstable path.,CXS-7512-TJ
+Axel Orov,Thalos Crossing,Cryon Reach,commute,automated,auto,SlateGray,Power levels nominal. Adjusting trajectory.,CXS-9914-GD
+Captain Kael,Cerebra Ring,Vega Spire,commute,automated,auto,DarkSlateBlue,Clear path confirmed. Continuing cruise.,CXS-7052-CO
+Dr. Calix Renner,Orryx Haven,Zenthar Relay,commute,automated,auto,ForestGreen,Re-routing due to unstable path.,CXS-8204-WO
+Tamsin Ryx,Thalos Crossing,Orryx Haven,commute,automated,auto,DarkCyan,Re-routing due to unstable path.,CXS-2009-ZV
+Elia Vorn,Orryx Haven,Thalos Crossing,commute,automated,auto,MediumAquaMarine,Power levels nominal. Adjusting trajectory.,CXS-6632-VL
+Tamsin Ryx,Cerebra Ring,Thalos Crossing,commute,automated,auto,Coral,Minor vibration detected. Monitoring systems.,CXS-1999-RR
+Zara Strix,Cerebra Ring,Thalos Crossing,commute,automated,auto,LightSteelBlue,Minor vibration detected. Monitoring systems.,CXS-8779-JF
+Axel Orov,Cryon Reach,Zenthar Relay,commute,automated,auto,ForestGreen,Power levels nominal. Adjusting trajectory.,CXS-7468-ZL
+Marshal Keir,Lunaris Port,Helion Hub,commute,automated,auto,Teal,Power levels nominal. Adjusting trajectory.,CXS-8357-HD
+Tamsin Ryx,Orryx Haven,Vega Spire,commute,automated,auto,Green,Fuel low. Navigating around debris.,CXS-3067-ZE
+Elia Vorn,Lunaris Port,Zenthar Relay,commute,automated,auto,LavenderBlush,Clear path confirmed. Continuing cruise.,CXS-4308-ZP
+Axel Orov,Orryx Haven,Thalos Crossing,commute,automated,auto,Bisque,Re-routing due to unstable path.,CXS-2097-LR
+Zara Strix,Vega Spire,Zenthar Relay,commute,automated,auto,NavajoWhite,Minor vibration detected. Monitoring systems.,CXS-6343-OZ
+Commander Yulo,Zenthar Relay,Helion Hub,commute,automated,auto,DarkSeaGreen,Power levels nominal. Adjusting trajectory.,CXS-9561-TC
+Zara Strix,Cerebra Ring,Lunaris Port,commute,automated,auto,Coral,Fuel low. Navigating around debris.,CXS-3428-JM
+Elia Vorn,Vega Spire,Lunaris Port,commute,automated,auto,Silver,Re-routing due to unstable path.,CXS-9775-QN
+Axel Orov,Helion Hub,Cryon Reach,commute,automated,auto,PaleTurquoise,Clear path confirmed. Continuing cruise.,CXS-8955-SC
+Marshal Keir,Thalos Crossing,Lunaris Port,commute,automated,auto,DarkSalmon,Re-routing due to unstable path.,CXS-7602-KU
+Zara Strix,Orryx Haven,Helion Hub,commute,automated,auto,Cornsilk,Power levels nominal. Adjusting trajectory.,CXS-7484-OO
+Tamsin Ryx,Helion Hub,Cerebra Ring,commute,automated,auto,Tomato,Power levels nominal. Adjusting trajectory.,CXS-8785-LE
+Dr. Calix Renner,Zenthar Relay,Orryx Haven,commute,automated,auto,Gainsboro,Re-routing due to unstable path.,CXS-5965-YE
+Commander Yulo,Zenthar Relay,Orryx Haven,commute,automated,auto,Plum,Power levels nominal. Adjusting trajectory.,CXS-4734-QB
+Commander Yulo,Orryx Haven,Cryon Reach,commute,automated,auto,DarkRed,Re-routing due to unstable path.,CXS-5414-QE
+Elia Vorn,Cerebra Ring,Zenthar Relay,commute,automated,auto,LimeGreen,Fuel low. Navigating around debris.,CXS-8237-FF
+Zara Strix,Cryon Reach,Thalos Crossing,commute,automated,auto,MediumBlue,Clear path confirmed. Continuing cruise.,CXS-9462-WH
+Dr. Calix Renner,Helion Hub,Thalos Crossing,commute,automated,auto,MediumTurquoise,Minor vibration detected. Monitoring systems.,CXS-3604-QJ
+Zara Strix,Vega Spire,Cryon Reach,commute,automated,auto,Cyan,Fuel low. Navigating around debris.,CXS-9589-IG
+Tamsin Ryx,Lunaris Port,Orryx Haven,commute,automated,auto,LightSalmon,Fuel low. Navigating around debris.,CXS-1944-EU
+Commander Yulo,Cryon Reach,Lunaris Port,commute,automated,auto,LimeGreen,Power levels nominal. Adjusting trajectory.,CXS-6904-TR
+Captain Kael,Cryon Reach,Orryx Haven,commute,automated,auto,DarkGoldenRod,Clear path confirmed. Continuing cruise.,CXS-9275-QU
+Elia Vorn,Cerebra Ring,Helion Hub,commute,automated,auto,FloralWhite,Power levels nominal. Adjusting trajectory.,CXS-4963-SS
+Commander Yulo,Helion Hub,Cryon Reach,commute,automated,auto,DeepSkyBlue,Fuel low. Navigating around debris.,CXS-8775-FV
+Marshal Keir,Helion Hub,Orryx Haven,commute,automated,auto,MediumSlateBlue,Re-routing due to unstable path.,CXS-2480-SB
+Zara Strix,Zenthar Relay,Lunaris Port,commute,automated,auto,Black,Power levels nominal. Adjusting trajectory.,CXS-3669-CB
+Tamsin Ryx,Cryon Reach,Thalos Crossing,commute,automated,auto,LightGray,Fuel low. Navigating around debris.,CXS-4387-UG
+Zara Strix,Zenthar Relay,Cerebra Ring,commute,automated,auto,PapayaWhip,Minor vibration detected. Monitoring systems.,CXS-1328-TU
+Marshal Keir,Lunaris Port,Zenthar Relay,commute,automated,auto,Black,Fuel low. Navigating around debris.,CXS-1138-PU
+Axel Orov,Cryon Reach,Orryx Haven,commute,automated,auto,YellowGreen,Re-routing due to unstable path.,CXS-7943-JU
+Captain Kael,Cerebra Ring,Thalos Crossing,commute,automated,auto,LimeGreen,Clear path confirmed. Continuing cruise.,CXS-5128-PH
+Axel Orov,Cryon Reach,Zenthar Relay,commute,automated,auto,PaleGreen,Minor vibration detected. Monitoring systems.,CXS-7506-JO
+Captain Kael,Vega Spire,Lunaris Port,commute,automated,auto,Cornsilk,Minor vibration detected. Monitoring systems.,CXS-5631-WB
+Elia Vorn,Zenthar Relay,Cerebra Ring,commute,automated,auto,DimGray,Clear path confirmed. Continuing cruise.,CXS-2045-ON
+Captain Kael,Helion Hub,Orryx Haven,commute,automated,auto,SkyBlue,Re-routing due to unstable path.,CXS-5278-OG
+Marshal Keir,Zenthar Relay,Vega Spire,commute,automated,auto,MediumSpringGreen,Minor vibration detected. Monitoring systems.,CXS-4937-TE
+Zara Strix,Lunaris Port,Thalos Crossing,commute,automated,auto,Maroon,Re-routing due to unstable path.,CXS-3292-WK
+Commander Yulo,Lunaris Port,Cerebra Ring,commute,automated,auto,MediumTurquoise,Re-routing due to unstable path.,CXS-5250-ME
+Zara Strix,Cerebra Ring,Cryon Reach,commute,automated,auto,NavajoWhite,Power levels nominal. Adjusting trajectory.,CXS-4111-QR
+Tamsin Ryx,Helion Hub,Cerebra Ring,commute,automated,auto,DarkMagenta,Minor vibration detected. Monitoring systems.,CXS-8794-KH
+Axel Orov,Helion Hub,Zenthar Relay,commute,automated,auto,SeaGreen,Fuel low. Navigating around debris.,CXS-3967-DI
+Commander Yulo,Zenthar Relay,Lunaris Port,commute,automated,auto,RoyalBlue,Fuel low. Navigating around debris.,CXS-5237-HE
+Captain Kael,Orryx Haven,Cerebra Ring,commute,automated,auto,DarkGray,Power levels nominal. Adjusting trajectory.,CXS-4641-BJ
+Axel Orov,Helion Hub,Vega Spire,commute,automated,auto,OliveDrab,Clear path confirmed. Continuing cruise.,CXS-6428-TN
+Axel Orov,Helion Hub,Orryx Haven,commute,automated,auto,LightBlue,Clear path confirmed. Continuing cruise.,CXS-2929-FK
+Elia Vorn,Thalos Crossing,Lunaris Port,commute,automated,auto,Maroon,Clear path confirmed. Continuing cruise.,CXS-4187-GY
+Zara Strix,Vega Spire,Thalos Crossing,commute,automated,auto,DimGray,Minor vibration detected. Monitoring systems.,CXS-5888-PQ
+Marshal Keir,Cerebra Ring,Lunaris Port,commute,automated,auto,SeaGreen,Fuel low. Navigating around debris.,CXS-4281-PJ
+Commander Yulo,Helion Hub,Cryon Reach,commute,automated,auto,SpringGreen,Fuel low. Navigating around debris.,CXS-6183-AC
+Elia Vorn,Orryx Haven,Thalos Crossing,commute,automated,auto,OrangeRed,Clear path confirmed. Continuing cruise.,CXS-6449-QO
+Dr. Calix Renner,Orryx Haven,Cryon Reach,commute,automated,auto,LawnGreen,Power levels nominal. Adjusting trajectory.,CXS-8406-GS
+Marshal Keir,Zenthar Relay,Vega Spire,commute,automated,auto,MidnightBlue,Minor vibration detected. Monitoring systems.,CXS-3595-BB
+Elia Vorn,Thalos Crossing,Cerebra Ring,commute,automated,auto,LightSkyBlue,Fuel low. Navigating around debris.,CXS-8105-PT
+Zara Strix,Cerebra Ring,Cryon Reach,commute,automated,auto,SeaShell,Clear path confirmed. Continuing cruise.,CXS-7280-JR
+Tamsin Ryx,Lunaris Port,Vega Spire,commute,automated,auto,Aqua,Re-routing due to unstable path.,CXS-1230-DN
+Tamsin Ryx,Helion Hub,Thalos Crossing,commute,automated,auto,DarkSlateBlue,Power levels nominal. Adjusting trajectory.,CXS-1067-IX
+Captain Kael,Cryon Reach,Vega Spire,commute,automated,auto,Moccasin,Re-routing due to unstable path.,CXS-3112-YM
+Axel Orov,Vega Spire,Zenthar Relay,commute,automated,auto,Moccasin,Fuel low. Navigating around debris.,CXS-2069-BM
+Axel Orov,Lunaris Port,Cryon Reach,commute,automated,auto,CadetBlue,Clear path confirmed. Continuing cruise.,CXS-9524-SR
+Marshal Keir,Helion Hub,Cryon Reach,commute,automated,auto,GoldenRod,Re-routing due to unstable path.,CXS-9031-LR
+Tamsin Ryx,Helion Hub,Thalos Crossing,commute,automated,auto,LightSlateGray,Fuel low. Navigating around debris.,CXS-7609-CM
+Tamsin Ryx,Lunaris Port,Orryx Haven,commute,automated,auto,Tan,Fuel low. Navigating around debris.,CXS-4460-OY
+Marshal Keir,Lunaris Port,Helion Hub,commute,automated,auto,LightSeaGreen,Power levels nominal. Adjusting trajectory.,CXS-7006-TV
+Axel Orov,Lunaris Port,Zenthar Relay,commute,automated,auto,DarkOrchid,Minor vibration detected. Monitoring systems.,CXS-1796-ED
+Elia Vorn,Lunaris Port,Cerebra Ring,commute,automated,auto,OrangeRed,Power levels nominal. Adjusting trajectory.,CXS-1790-LZ
+Commander Yulo,Vega Spire,Zenthar Relay,commute,automated,auto,MediumSlateBlue,Clear path confirmed. Continuing cruise.,CXS-3024-RL
+Marshal Keir,Zenthar Relay,Cryon Reach,commute,automated,auto,DarkTurquoise,Fuel low. Navigating around debris.,CXS-1152-GT
+Elia Vorn,Zenthar Relay,Cryon Reach,commute,automated,auto,Teal,Minor vibration detected. Monitoring systems.,CXS-5423-MQ
+Elia Vorn,Orryx Haven,Zenthar Relay,commute,automated,auto,BlueViolet,Minor vibration detected. Monitoring systems.,CXS-2928-BB
+Elia Vorn,Zenthar Relay,Lunaris Port,commute,automated,auto,DarkSlateGray,Clear path confirmed. Continuing cruise.,CXS-4254-WK
+Axel Orov,Cryon Reach,Thalos Crossing,commute,automated,auto,Sienna,Minor vibration detected. Monitoring systems.,CXS-4304-QO
+Zara Strix,Helion Hub,Cerebra Ring,commute,automated,auto,DeepPink,Re-routing due to unstable path.,CXS-3627-TQ
+Commander Yulo,Lunaris Port,Helion Hub,commute,automated,auto,DarkSlateGray,Fuel low. Navigating around debris.,CXS-8875-KT
+Dr. Calix Renner,Helion Hub,Vega Spire,commute,automated,auto,MediumAquaMarine,Power levels nominal. Adjusting trajectory.,CXS-2458-FM
+Commander Yulo,Vega Spire,Thalos Crossing,commute,automated,auto,Lime,Fuel low. Navigating around debris.,CXS-2475-SK
+Elia Vorn,Vega Spire,Cerebra Ring,commute,automated,auto,Tan,Re-routing due to unstable path.,CXS-4787-QR
+Axel Orov,Thalos Crossing,Orryx Haven,commute,automated,auto,SlateGray,Clear path confirmed. Continuing cruise.,CXS-1820-WS
+Marshal Keir,Vega Spire,Thalos Crossing,commute,automated,auto,Lime,Power levels nominal. Adjusting trajectory.,CXS-5760-PA
+Captain Kael,Helion Hub,Thalos Crossing,commute,automated,auto,NavajoWhite,Clear path confirmed. Continuing cruise.,CXS-2898-KV
+Dr. Calix Renner,Vega Spire,Thalos Crossing,commute,automated,auto,DarkOliveGreen,Power levels nominal. Adjusting trajectory.,CXS-3267-NS
+Captain Kael,Orryx Haven,Cryon Reach,commute,automated,auto,Linen,Clear path confirmed. Continuing cruise.,CXS-5395-ZX
+Captain Kael,Vega Spire,Cryon Reach,commute,automated,auto,Bisque,Fuel low. Navigating around debris.,CXS-2865-TP
+Commander Yulo,Cerebra Ring,Cryon Reach,commute,automated,auto,LightGray,Re-routing due to unstable path.,CXS-7319-UZ
+Zara Strix,Thalos Crossing,Cerebra Ring,commute,automated,auto,Khaki,Fuel low. Navigating around debris.,CXS-2852-XB
+Dr. Calix Renner,Orryx Haven,Cerebra Ring,commute,automated,auto,Silver,Fuel low. Navigating around debris.,CXS-2699-FQ
+Commander Yulo,Cerebra Ring,Zenthar Relay,commute,automated,auto,Olive,Minor vibration detected. Monitoring systems.,CXS-8178-EV
+Zara Strix,Orryx Haven,Helion Hub,commute,automated,auto,LemonChiffon,Re-routing due to unstable path.,CXS-1472-BS
+Commander Yulo,Orryx Haven,Zenthar Relay,commute,automated,auto,DarkOliveGreen,Power levels nominal. Adjusting trajectory.,CXS-7738-GA
+Elia Vorn,Thalos Crossing,Lunaris Port,commute,automated,auto,Purple,Re-routing due to unstable path.,CXS-6148-KN
+Tamsin Ryx,Lunaris Port,Cerebra Ring,commute,automated,auto,DeepPink,Re-routing due to unstable path.,CXS-9504-NW
+Tamsin Ryx,Vega Spire,Zenthar Relay,commute,automated,auto,GreenYellow,Clear path confirmed. Continuing cruise.,CXS-6664-NQ
+Dr. Calix Renner,Cerebra Ring,Vega Spire,commute,automated,auto,SeaShell,Power levels nominal. Adjusting trajectory.,CXS-3571-XX
+Commander Yulo,Thalos Crossing,Cerebra Ring,commute,automated,auto,Chocolate,Fuel low. Navigating around debris.,CXS-2226-WE
+Tamsin Ryx,Thalos Crossing,Orryx Haven,commute,automated,auto,Tomato,Re-routing due to unstable path.,CXS-5557-GR
+Tamsin Ryx,Lunaris Port,Helion Hub,commute,automated,auto,MediumOrchid,Minor vibration detected. Monitoring systems.,CXS-7203-VP
+Tamsin Ryx,Cerebra Ring,Thalos Crossing,commute,automated,auto,Violet,Power levels nominal. Adjusting trajectory.,CXS-8521-MK
+Commander Yulo,Thalos Crossing,Cerebra Ring,commute,automated,auto,ForestGreen,Power levels nominal. Adjusting trajectory.,CXS-9166-OR
+Elia Vorn,Thalos Crossing,Orryx Haven,commute,automated,auto,MediumSpringGreen,Clear path confirmed. Continuing cruise.,CXS-1291-RL
+Zara Strix,Vega Spire,Zenthar Relay,commute,automated,auto,LightGray,Power levels nominal. Adjusting trajectory.,CXS-9996-TP
+Elia Vorn,Lunaris Port,Thalos Crossing,commute,automated,auto,GoldenRod,Minor vibration detected. Monitoring systems.,CXS-5990-HI
+Commander Yulo,Cryon Reach,Cerebra Ring,commute,automated,auto,Lime,Re-routing due to unstable path.,CXS-6953-HJ
+Tamsin Ryx,Lunaris Port,Thalos Crossing,commute,automated,auto,LightSlateGray,Clear path confirmed. Continuing cruise.,CXS-6439-WG
+Captain Kael,Thalos Crossing,Helion Hub,commute,automated,auto,SlateGray,Clear path confirmed. Continuing cruise.,CXS-2868-KP
+Tamsin Ryx,Vega Spire,Thalos Crossing,commute,automated,auto,MediumVioletRed,Power levels nominal. Adjusting trajectory.,CXS-6592-RZ
+Axel Orov,Helion Hub,Thalos Crossing,commute,automated,auto,LightSalmon,Minor vibration detected. Monitoring systems.,CXS-9552-JD
+Elia Vorn,Helion Hub,Cerebra Ring,commute,automated,auto,YellowGreen,Power levels nominal. Adjusting trajectory.,CXS-3689-MM
+Zara Strix,Thalos Crossing,Vega Spire,commute,automated,auto,MediumTurquoise,Power levels nominal. Adjusting trajectory.,CXS-5166-YZ
+Elia Vorn,Cryon Reach,Vega Spire,commute,automated,auto,DarkViolet,Clear path confirmed. Continuing cruise.,CXS-4532-JB
+Tamsin Ryx,Thalos Crossing,Cerebra Ring,commute,automated,auto,LightSlateGray,Re-routing due to unstable path.,CXS-2765-WC
+Elia Vorn,Cerebra Ring,Lunaris Port,commute,automated,auto,MediumTurquoise,Clear path confirmed. Continuing cruise.,CXS-8493-OU
+Dr. Calix Renner,Orryx Haven,Zenthar Relay,commute,automated,auto,LightCyan,Minor vibration detected. Monitoring systems.,CXS-1795-XP
+Commander Yulo,Cerebra Ring,Thalos Crossing,commute,automated,auto,HotPink,Minor vibration detected. Monitoring systems.,CXS-3903-GR
+Marshal Keir,Orryx Haven,Cerebra Ring,commute,automated,auto,LightPink,Power levels nominal. Adjusting trajectory.,CXS-7347-RW
+Zara Strix,Helion Hub,Zenthar Relay,commute,automated,auto,LightPink,Clear path confirmed. Continuing cruise.,CXS-5067-ED
+Captain Kael,Zenthar Relay,Cryon Reach,commute,automated,auto,LawnGreen,Re-routing due to unstable path.,CXS-8419-HB
+Zara Strix,Orryx Haven,Vega Spire,commute,automated,auto,Wheat,Minor vibration detected. Monitoring systems.,CXS-9393-HU
+Captain Kael,Zenthar Relay,Thalos Crossing,commute,automated,auto,Lavender,Minor vibration detected. Monitoring systems.,CXS-4560-BD
+Axel Orov,Cryon Reach,Vega Spire,commute,automated,auto,PaleVioletRed,Re-routing due to unstable path.,CXS-3173-KW
+Captain Kael,Orryx Haven,Helion Hub,commute,automated,auto,SeaShell,Power levels nominal. Adjusting trajectory.,CXS-6771-DV
+Zara Strix,Thalos Crossing,Zenthar Relay,commute,automated,auto,DarkSlateGray,Minor vibration detected. Monitoring systems.,CXS-5684-AR
+Dr. Calix Renner,Cerebra Ring,Thalos Crossing,commute,automated,auto,DimGray,Minor vibration detected. Monitoring systems.,CXS-2744-NU
+Marshal Keir,Lunaris Port,Zenthar Relay,commute,automated,auto,Sienna,Power levels nominal. Adjusting trajectory.,CXS-1927-PU
+Marshal Keir,Cryon Reach,Orryx Haven,commute,automated,auto,Green,Re-routing due to unstable path.,CXS-5105-YJ
+Dr. Calix Renner,Orryx Haven,Thalos Crossing,commute,automated,auto,MediumBlue,Re-routing due to unstable path.,CXS-4342-JU
+Commander Yulo,Lunaris Port,Cryon Reach,commute,automated,auto,Chocolate,Power levels nominal. Adjusting trajectory.,CXS-4675-YC
+Axel Orov,Cerebra Ring,Vega Spire,commute,automated,auto,Lavender,Power levels nominal. Adjusting trajectory.,CXS-7251-RX
+Captain Kael,Cerebra Ring,Cryon Reach,commute,automated,auto,Blue,Minor vibration detected. Monitoring systems.,CXS-1881-FN
+Axel Orov,Lunaris Port,Cerebra Ring,commute,automated,auto,Fuchsia,Fuel low. Navigating around debris.,CXS-8259-BM
+Captain Kael,Cryon Reach,Cerebra Ring,commute,automated,auto,Snow,Minor vibration detected. Monitoring systems.,CXS-9955-FX
+Tamsin Ryx,Cryon Reach,Thalos Crossing,commute,automated,auto,LightSteelBlue,Re-routing due to unstable path.,CXS-8353-BA
+Elia Vorn,Orryx Haven,Cerebra Ring,commute,automated,auto,Lime,Fuel low. Navigating around debris.,CXS-3847-ST
+Dr. Calix Renner,Vega Spire,Zenthar Relay,commute,automated,auto,DarkMagenta,Clear path confirmed. Continuing cruise.,CXS-5572-KJ
+Marshal Keir,Zenthar Relay,Vega Spire,commute,automated,auto,SaddleBrown,Minor vibration detected. Monitoring systems.,CXS-5178-UR
+Commander Yulo,Lunaris Port,Cryon Reach,commute,automated,auto,Violet,Fuel low. Navigating around debris.,CXS-1654-PE
+Dr. Calix Renner,Orryx Haven,Cryon Reach,commute,automated,auto,Tan,Minor vibration detected. Monitoring systems.,CXS-5934-OI
+Captain Kael,Thalos Crossing,Cerebra Ring,commute,automated,auto,GoldenRod,Power levels nominal. Adjusting trajectory.,CXS-6207-ZD
+Elia Vorn,Cryon Reach,Vega Spire,commute,automated,auto,MediumPurple,Minor vibration detected. Monitoring systems.,CXS-3611-FX
+Zara Strix,Cerebra Ring,Zenthar Relay,commute,automated,auto,Salmon,Power levels nominal. Adjusting trajectory.,CXS-6724-UI
+Captain Kael,Cryon Reach,Vega Spire,commute,automated,auto,GhostWhite,Re-routing due to unstable path.,CXS-6911-AX
+Commander Yulo,Zenthar Relay,Vega Spire,commute,automated,auto,MediumSlateBlue,Minor vibration detected. Monitoring systems.,CXS-1144-ZJ
+Captain Kael,Vega Spire,Cerebra Ring,commute,automated,auto,GoldenRod,Clear path confirmed. Continuing cruise.,CXS-4937-FT
+Captain Kael,Cryon Reach,Lunaris Port,commute,automated,auto,PaleGreen,Clear path confirmed. Continuing cruise.,CXS-2857-NQ
+Axel Orov,Cerebra Ring,Orryx Haven,commute,automated,auto,MediumOrchid,Power levels nominal. Adjusting trajectory.,CXS-9468-CM
+Commander Yulo,Helion Hub,Zenthar Relay,commute,automated,auto,DarkGray,Clear path confirmed. Continuing cruise.,CXS-1718-FE
+Tamsin Ryx,Zenthar Relay,Cerebra Ring,commute,automated,auto,Silver,Re-routing due to unstable path.,CXS-9419-KH
+Marshal Keir,Vega Spire,Lunaris Port,commute,automated,auto,AntiqueWhite,Minor vibration detected. Monitoring systems.,CXS-9736-IM
+Elia Vorn,Lunaris Port,Cerebra Ring,commute,automated,auto,LavenderBlush,Fuel low. Navigating around debris.,CXS-4492-OY
+Elia Vorn,Cerebra Ring,Thalos Crossing,commute,automated,auto,LightGreen,Fuel low. Navigating around debris.,CXS-9810-KJ
+Elia Vorn,Cerebra Ring,Helion Hub,commute,automated,auto,Aqua,Fuel low. Navigating around debris.,CXS-1389-IU
+Captain Kael,Thalos Crossing,Helion Hub,commute,automated,auto,MistyRose,Power levels nominal. Adjusting trajectory.,CXS-2433-WH
+Marshal Keir,Vega Spire,Lunaris Port,commute,automated,auto,Chocolate,Re-routing due to unstable path.,CXS-2154-VD
+Zara Strix,Cryon Reach,Orryx Haven,commute,automated,auto,SeaGreen,Clear path confirmed. Continuing cruise.,CXS-8391-JF
+Captain Kael,Cerebra Ring,Cryon Reach,commute,automated,auto,PaleGreen,Power levels nominal. Adjusting trajectory.,CXS-7381-VQ
+Dr. Calix Renner,Vega Spire,Helion Hub,commute,automated,auto,Magenta,Minor vibration detected. Monitoring systems.,CXS-2036-WD
+Elia Vorn,Lunaris Port,Cerebra Ring,commute,automated,auto,LightYellow,Re-routing due to unstable path.,CXS-9238-LT
+Axel Orov,Vega Spire,Cryon Reach,commute,automated,auto,Indigo,Minor vibration detected. Monitoring systems.,CXS-2417-HE
+Commander Yulo,Zenthar Relay,Thalos Crossing,commute,automated,auto,Silver,Clear path confirmed. Continuing cruise.,CXS-7473-EO
+Marshal Keir,Lunaris Port,Zenthar Relay,commute,automated,auto,Navy,Minor vibration detected. Monitoring systems.,CXS-4602-NW
+Zara Strix,Orryx Haven,Cerebra Ring,commute,automated,auto,SeaShell,Minor vibration detected. Monitoring systems.,CXS-5832-YR
+Captain Kael,Orryx Haven,Cryon Reach,commute,automated,auto,IndianRed,Power levels nominal. Adjusting trajectory.,CXS-3316-YH
+Dr. Calix Renner,Vega Spire,Lunaris Port,commute,automated,auto,Cyan,Minor vibration detected. Monitoring systems.,CXS-7456-QO
+Tamsin Ryx,Vega Spire,Cryon Reach,commute,automated,auto,Wheat,Re-routing due to unstable path.,CXS-4469-WL
+Marshal Keir,Cerebra Ring,Helion Hub,commute,automated,auto,Crimson,Fuel low. Navigating around debris.,CXS-4014-SD
+Axel Orov,Cryon Reach,Helion Hub,commute,automated,auto,Chocolate,Fuel low. Navigating around debris.,CXS-2877-RQ
+Dr. Calix Renner,Orryx Haven,Cerebra Ring,commute,automated,auto,Green,Minor vibration detected. Monitoring systems.,CXS-8557-SR
+Elia Vorn,Vega Spire,Cryon Reach,commute,automated,auto,DeepPink,Re-routing due to unstable path.,CXS-2608-FK
+Commander Yulo,Cryon Reach,Cerebra Ring,commute,automated,auto,Turquoise,Re-routing due to unstable path.,CXS-6851-OD
+Tamsin Ryx,Orryx Haven,Cerebra Ring,commute,automated,auto,GreenYellow,Power levels nominal. Adjusting trajectory.,CXS-5671-WS
+Captain Kael,Vega Spire,Orryx Haven,commute,automated,auto,SlateGray,Clear path confirmed. Continuing cruise.,CXS-8383-CQ
+Axel Orov,Helion Hub,Zenthar Relay,commute,automated,auto,RosyBrown,Minor vibration detected. Monitoring systems.,CXS-3496-ZB
+Captain Kael,Helion Hub,Thalos Crossing,commute,automated,auto,SaddleBrown,Clear path confirmed. Continuing cruise.,CXS-3762-EQ
+Tamsin Ryx,Lunaris Port,Cryon Reach,commute,automated,auto,PapayaWhip,Fuel low. Navigating around debris.,CXS-8145-OS
+Captain Kael,Zenthar Relay,Thalos Crossing,commute,automated,auto,Chartreuse,Fuel low. Navigating around debris.,CXS-6432-RO
+Commander Yulo,Thalos Crossing,Cryon Reach,commute,automated,auto,Linen,Re-routing due to unstable path.,CXS-6004-XA
+Elia Vorn,Thalos Crossing,Zenthar Relay,commute,automated,auto,Orchid,Fuel low. Navigating around debris.,CXS-2343-IA
+Marshal Keir,Zenthar Relay,Thalos Crossing,commute,automated,auto,IndianRed,Minor vibration detected. Monitoring systems.,CXS-4218-SC
+Elia Vorn,Zenthar Relay,Cerebra Ring,commute,automated,auto,Brown,Power levels nominal. Adjusting trajectory.,CXS-1305-NL
+Zara Strix,Lunaris Port,Thalos Crossing,commute,automated,auto,Coral,Minor vibration detected. Monitoring systems.,CXS-4485-RB
+Axel Orov,Lunaris Port,Helion Hub,commute,automated,auto,CornflowerBlue,Minor vibration detected. Monitoring systems.,CXS-9842-PB
+Marshal Keir,Thalos Crossing,Helion Hub,commute,automated,auto,LightSlateGray,Re-routing due to unstable path.,CXS-7430-NF
+Axel Orov,Cryon Reach,Thalos Crossing,commute,automated,auto,DarkSlateBlue,Fuel low. Navigating around debris.,CXS-8613-YU
+Captain Kael,Vega Spire,Zenthar Relay,commute,automated,auto,PeachPuff,Minor vibration detected. Monitoring systems.,CXS-1173-LM
+Marshal Keir,Cryon Reach,Thalos Crossing,commute,automated,auto,RosyBrown,Minor vibration detected. Monitoring systems.,CXS-3299-MM
+Marshal Keir,Thalos Crossing,Vega Spire,commute,automated,auto,Cyan,Minor vibration detected. Monitoring systems.,CXS-3395-VV
+Dr. Calix Renner,Thalos Crossing,Orryx Haven,commute,automated,auto,Yellow,Fuel low. Navigating around debris.,CXS-8989-EU
+Axel Orov,Cryon Reach,Lunaris Port,commute,automated,auto,MediumVioletRed,Re-routing due to unstable path.,CXS-4834-DF
+Tamsin Ryx,Lunaris Port,Cerebra Ring,commute,automated,auto,WhiteSmoke,Minor vibration detected. Monitoring systems.,CXS-6918-MQ
+Commander Yulo,Cerebra Ring,Cryon Reach,commute,automated,auto,DarkSalmon,Power levels nominal. Adjusting trajectory.,CXS-1653-XH
+Axel Orov,Helion Hub,Lunaris Port,commute,automated,auto,AliceBlue,Re-routing due to unstable path.,CXS-9918-YA
+Zara Strix,Orryx Haven,Zenthar Relay,commute,automated,auto,Lime,Re-routing due to unstable path.,CXS-2275-OV
+Tamsin Ryx,Zenthar Relay,Cryon Reach,commute,automated,auto,YellowGreen,Minor vibration detected. Monitoring systems.,CXS-7649-NR
+Captain Kael,Helion Hub,Thalos Crossing,commute,automated,auto,Olive,Clear path confirmed. Continuing cruise.,CXS-8898-HH
+Marshal Keir,Lunaris Port,Helion Hub,commute,automated,auto,Salmon,Clear path confirmed. Continuing cruise.,CXS-3713-LE
+Axel Orov,Cryon Reach,Lunaris Port,commute,automated,auto,LightSalmon,Fuel low. Navigating around debris.,CXS-3461-GX
+Captain Kael,Orryx Haven,Vega Spire,commute,automated,auto,DarkOliveGreen,Minor vibration detected. Monitoring systems.,CXS-2938-BZ
+Captain Kael,Cryon Reach,Zenthar Relay,commute,automated,auto,PeachPuff,Power levels nominal. Adjusting trajectory.,CXS-8889-TY
+Tamsin Ryx,Thalos Crossing,Cryon Reach,commute,automated,auto,Azure,Minor vibration detected. Monitoring systems.,CXS-3641-HG
+Tamsin Ryx,Cerebra Ring,Lunaris Port,commute,automated,auto,CornflowerBlue,Power levels nominal. Adjusting trajectory.,CXS-3095-DT
+Dr. Calix Renner,Orryx Haven,Vega Spire,commute,automated,auto,BlanchedAlmond,Minor vibration detected. Monitoring systems.,CXS-3406-OT
+Axel Orov,Lunaris Port,Orryx Haven,commute,automated,auto,BurlyWood,Fuel low. Navigating around debris.,CXS-9464-HX
+Dr. Calix Renner,Cerebra Ring,Zenthar Relay,commute,automated,auto,Brown,Re-routing due to unstable path.,CXS-2404-MO
+Commander Yulo,Cryon Reach,Zenthar Relay,commute,automated,auto,Lavender,Clear path confirmed. Continuing cruise.,CXS-3794-RG
+Zara Strix,Cryon Reach,Thalos Crossing,commute,automated,auto,Chartreuse,Minor vibration detected. Monitoring systems.,CXS-3338-EQ
+Axel Orov,Orryx Haven,Helion Hub,commute,automated,auto,LightSteelBlue,Fuel low. Navigating around debris.,CXS-6614-HX
+Elia Vorn,Thalos Crossing,Zenthar Relay,commute,automated,auto,MediumAquaMarine,Fuel low. Navigating around debris.,CXS-7196-ST
+Elia Vorn,Cerebra Ring,Vega Spire,commute,automated,auto,MediumBlue,Power levels nominal. Adjusting trajectory.,CXS-4315-HJ
+Marshal Keir,Cerebra Ring,Thalos Crossing,commute,automated,auto,DarkTurquoise,Minor vibration detected. Monitoring systems.,CXS-2577-VQ
+Dr. Calix Renner,Orryx Haven,Zenthar Relay,commute,automated,auto,Indigo,Minor vibration detected. Monitoring systems.,CXS-9246-NJ
+Commander Yulo,Vega Spire,Lunaris Port,commute,automated,auto,LightSalmon,Fuel low. Navigating around debris.,CXS-9835-BR
+Zara Strix,Lunaris Port,Thalos Crossing,commute,automated,auto,ForestGreen,Minor vibration detected. Monitoring systems.,CXS-7892-UV
+Dr. Calix Renner,Helion Hub,Thalos Crossing,commute,automated,auto,Pink,Minor vibration detected. Monitoring systems.,CXS-8028-RP
+Commander Yulo,Cryon Reach,Thalos Crossing,commute,automated,auto,BurlyWood,Clear path confirmed. Continuing cruise.,CXS-6742-LU
+Marshal Keir,Vega Spire,Zenthar Relay,commute,automated,auto,Olive,Re-routing due to unstable path.,CXS-8817-ZQ
+Elia Vorn,Cryon Reach,Thalos Crossing,commute,automated,auto,MediumAquaMarine,Re-routing due to unstable path.,CXS-9908-WN
+Tamsin Ryx,Cerebra Ring,Orryx Haven,commute,automated,auto,PaleTurquoise,Power levels nominal. Adjusting trajectory.,CXS-1116-EJ
+Dr. Calix Renner,Vega Spire,Helion Hub,commute,automated,auto,OldLace,Clear path confirmed. Continuing cruise.,CXS-4365-FY
+Captain Kael,Helion Hub,Cryon Reach,commute,automated,auto,WhiteSmoke,Power levels nominal. Adjusting trajectory.,CXS-3535-PH
+Axel Orov,Cerebra Ring,Helion Hub,commute,automated,auto,Ivory,Re-routing due to unstable path.,CXS-9783-JW
+Captain Kael,Cerebra Ring,Zenthar Relay,commute,automated,auto,DarkTurquoise,Minor vibration detected. Monitoring systems.,CXS-5514-ZO
+Tamsin Ryx,Cerebra Ring,Thalos Crossing,commute,automated,auto,Chartreuse,Clear path confirmed. Continuing cruise.,CXS-8904-RN
+Commander Yulo,Orryx Haven,Cryon Reach,commute,automated,auto,PapayaWhip,Re-routing due to unstable path.,CXS-6024-RQ
+Zara Strix,Helion Hub,Thalos Crossing,commute,automated,auto,DarkSlateBlue,Fuel low. Navigating around debris.,CXS-2951-MH
+Marshal Keir,Cryon Reach,Zenthar Relay,commute,automated,auto,LightCyan,Power levels nominal. Adjusting trajectory.,CXS-4513-GK
+Captain Kael,Cerebra Ring,Thalos Crossing,commute,automated,auto,Cyan,Minor vibration detected. Monitoring systems.,CXS-1852-OL
+Dr. Calix Renner,Orryx Haven,Zenthar Relay,commute,automated,auto,DarkGoldenRod,Power levels nominal. Adjusting trajectory.,CXS-3381-RX
+Zara Strix,Thalos Crossing,Zenthar Relay,commute,automated,auto,Gold,Power levels nominal. Adjusting trajectory.,CXS-2049-BI
+Captain Kael,Zenthar Relay,Vega Spire,commute,automated,auto,OldLace,Power levels nominal. Adjusting trajectory.,CXS-1618-VT
+Axel Orov,Cerebra Ring,Cryon Reach,commute,automated,auto,BlueViolet,Minor vibration detected. Monitoring systems.,CXS-1941-CG
+Commander Yulo,Orryx Haven,Cerebra Ring,commute,automated,auto,IndianRed,Clear path confirmed. Continuing cruise.,CXS-1175-PG
+Axel Orov,Cryon Reach,Thalos Crossing,commute,automated,auto,MediumSeaGreen,Fuel low. Navigating around debris.,CXS-1550-JA
+Marshal Keir,Cryon Reach,Helion Hub,commute,automated,auto,HotPink,Power levels nominal. Adjusting trajectory.,CXS-6893-GX
+Dr. Calix Renner,Cryon Reach,Cerebra Ring,commute,automated,auto,DarkOrchid,Fuel low. Navigating around debris.,CXS-2422-XY
+Zara Strix,Zenthar Relay,Thalos Crossing,commute,automated,auto,Silver,Re-routing due to unstable path.,CXS-7474-HW
+Tamsin Ryx,Cerebra Ring,Zenthar Relay,commute,automated,auto,GreenYellow,Minor vibration detected. Monitoring systems.,CXS-1251-MH
+Axel Orov,Vega Spire,Lunaris Port,commute,automated,auto,MediumBlue,Minor vibration detected. Monitoring systems.,CXS-6703-YJ
+Axel Orov,Helion Hub,Thalos Crossing,commute,automated,auto,Olive,Fuel low. Navigating around debris.,CXS-4187-OR
+Dr. Calix Renner,Thalos Crossing,Cryon Reach,commute,automated,auto,MintCream,Re-routing due to unstable path.,CXS-3867-JI
+Elia Vorn,Cerebra Ring,Zenthar Relay,commute,automated,auto,MistyRose,Minor vibration detected. Monitoring systems.,CXS-2185-QP
+Elia Vorn,Zenthar Relay,Orryx Haven,commute,automated,auto,SeaGreen,Minor vibration detected. Monitoring systems.,CXS-5222-DZ
+Commander Yulo,Zenthar Relay,Cerebra Ring,commute,automated,auto,SeaShell,Clear path confirmed. Continuing cruise.,CXS-8923-YK
+Captain Kael,Cryon Reach,Thalos Crossing,commute,automated,auto,GreenYellow,Clear path confirmed. Continuing cruise.,CXS-8548-LK
+Elia Vorn,Lunaris Port,Zenthar Relay,commute,automated,auto,PaleVioletRed,Re-routing due to unstable path.,CXS-2106-BS
+Tamsin Ryx,Cerebra Ring,Helion Hub,commute,automated,auto,Indigo,Fuel low. Navigating around debris.,CXS-6172-XE
+Dr. Calix Renner,Cerebra Ring,Orryx Haven,commute,automated,auto,Azure,Re-routing due to unstable path.,CXS-5067-IR
+Zara Strix,Zenthar Relay,Lunaris Port,commute,automated,auto,PapayaWhip,Re-routing due to unstable path.,CXS-2245-JE
+Captain Kael,Orryx Haven,Zenthar Relay,commute,automated,auto,Gray,Re-routing due to unstable path.,CXS-4580-KH
+Tamsin Ryx,Zenthar Relay,Vega Spire,commute,automated,auto,Olive,Clear path confirmed. Continuing cruise.,CXS-4271-SH
+Tamsin Ryx,Cryon Reach,Cerebra Ring,commute,automated,auto,SpringGreen,Re-routing due to unstable path.,CXS-4387-RU
+Tamsin Ryx,Cryon Reach,Vega Spire,commute,automated,auto,MediumSlateBlue,Minor vibration detected. Monitoring systems.,CXS-6833-IY
+Elia Vorn,Orryx Haven,Thalos Crossing,commute,automated,auto,SlateGray,Power levels nominal. Adjusting trajectory.,CXS-2285-XU
+Dr. Calix Renner,Thalos Crossing,Zenthar Relay,commute,automated,auto,SlateGray,Minor vibration detected. Monitoring systems.,CXS-1692-OF
+Captain Kael,Thalos Crossing,Orryx Haven,commute,automated,auto,MidnightBlue,Clear path confirmed. Continuing cruise.,CXS-5501-FE
+Axel Orov,Thalos Crossing,Vega Spire,commute,automated,auto,YellowGreen,Clear path confirmed. Continuing cruise.,CXS-4638-PF
+Zara Strix,Orryx Haven,Lunaris Port,commute,automated,auto,Yellow,Clear path confirmed. Continuing cruise.,CXS-9859-UB
+Captain Kael,Lunaris Port,Helion Hub,commute,automated,auto,Violet,Clear path confirmed. Continuing cruise.,CXS-3863-BC
+Commander Yulo,Thalos Crossing,Lunaris Port,commute,automated,auto,BurlyWood,Re-routing due to unstable path.,CXS-1137-YA
+Tamsin Ryx,Lunaris Port,Cerebra Ring,commute,automated,auto,PaleVioletRed,Clear path confirmed. Continuing cruise.,CXS-2650-EU
+Axel Orov,Helion Hub,Orryx Haven,commute,automated,auto,Lavender,Fuel low. Navigating around debris.,CXS-9987-CW
+Axel Orov,Zenthar Relay,Vega Spire,commute,automated,auto,DeepPink,Clear path confirmed. Continuing cruise.,CXS-6621-AG
+Commander Yulo,Helion Hub,Vega Spire,commute,automated,auto,Tan,Clear path confirmed. Continuing cruise.,CXS-4449-OL
+Captain Kael,Cerebra Ring,Helion Hub,commute,automated,auto,Chocolate,Re-routing due to unstable path.,CXS-7563-TU
+Marshal Keir,Zenthar Relay,Cryon Reach,commute,automated,auto,SkyBlue,Minor vibration detected. Monitoring systems.,CXS-3148-VP
+Elia Vorn,Cryon Reach,Thalos Crossing,commute,automated,auto,Azure,Re-routing due to unstable path.,CXS-4863-AR
+Zara Strix,Cerebra Ring,Thalos Crossing,commute,automated,auto,PaleVioletRed,Fuel low. Navigating around debris.,CXS-3389-AA
+Dr. Calix Renner,Orryx Haven,Zenthar Relay,commute,automated,auto,Wheat,Fuel low. Navigating around debris.,CXS-7906-XI
+Captain Kael,Thalos Crossing,Vega Spire,commute,automated,auto,WhiteSmoke,Clear path confirmed. Continuing cruise.,CXS-5915-JA
+Dr. Calix Renner,Zenthar Relay,Helion Hub,commute,automated,auto,SteelBlue,Clear path confirmed. Continuing cruise.,CXS-2621-WV
+Tamsin Ryx,Orryx Haven,Lunaris Port,commute,automated,auto,Plum,Re-routing due to unstable path.,CXS-8807-ZF
+Captain Kael,Vega Spire,Zenthar Relay,commute,automated,auto,DarkMagenta,Re-routing due to unstable path.,CXS-6914-DQ
+Axel Orov,Helion Hub,Zenthar Relay,commute,automated,auto,DeepPink,Re-routing due to unstable path.,CXS-1324-HG
+Captain Kael,Cerebra Ring,Lunaris Port,commute,automated,auto,Violet,Minor vibration detected. Monitoring systems.,CXS-4259-IL
+Axel Orov,Orryx Haven,Thalos Crossing,commute,automated,auto,LightGreen,Re-routing due to unstable path.,CXS-6326-ZM
+Commander Yulo,Thalos Crossing,Cerebra Ring,commute,automated,auto,Cyan,Power levels nominal. Adjusting trajectory.,CXS-7243-LM
+Marshal Keir,Zenthar Relay,Cryon Reach,commute,automated,auto,Salmon,Fuel low. Navigating around debris.,CXS-6527-SH
+Zara Strix,Cerebra Ring,Helion Hub,commute,automated,auto,Ivory,Power levels nominal. Adjusting trajectory.,CXS-2296-JV
+Tamsin Ryx,Orryx Haven,Cryon Reach,commute,automated,auto,Cyan,Re-routing due to unstable path.,CXS-6191-UU
+Axel Orov,Zenthar Relay,Cerebra Ring,commute,automated,auto,BlanchedAlmond,Minor vibration detected. Monitoring systems.,CXS-7479-CM
+Captain Kael,Zenthar Relay,Cryon Reach,commute,automated,auto,Olive,Minor vibration detected. Monitoring systems.,CXS-9535-MR
+Marshal Keir,Thalos Crossing,Cryon Reach,commute,automated,auto,Sienna,Fuel low. Navigating around debris.,CXS-1378-BU
+Tamsin Ryx,Orryx Haven,Cerebra Ring,commute,automated,auto,Aqua,Re-routing due to unstable path.,CXS-2311-WF

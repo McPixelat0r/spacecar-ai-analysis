@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="Major reworks, cleaning, and better documentation">
+    <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="Addition to fuel model and blocked path detection">
+      <change afterPath="$PROJECT_DIR$/tests_clean_polished/crash_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models_clean_polished/fuel_usage_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models_clean_polished/fuel_usage_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generation_clean_polished/raw_feature_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generation_clean_polished/raw_feature_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models_clean_polished/simulated_trip_evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/models_clean_polished/simulated_trip_evaluator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,31 +48,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.cleaned_data_simulation_runner.executor&quot;: &quot;Run&quot;,
-    &quot;Python.export_raw_data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_simulation_runner.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_simulation_simple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.perception_filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_physics_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tests_run_all.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/juanc/PycharmProjects/4050_Final_Project&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.cleaned_data_simulation_runner.executor": "Run",
+    "Python.crash_test.executor": "Run",
+    "Python.export_raw_data.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_simulation_runner.executor": "Run",
+    "Python.main_simulation_simple.executor": "Run",
+    "Python.perception_filter.executor": "Run",
+    "Python.test_physics_model.executor": "Run",
+    "Python.test_trip_evaluator_noescape.executor": "Run",
+    "Python.tests_run_all.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/juanc/PycharmProjects/4050_Final_Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project" />
@@ -103,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745326106641</updated>
       <workItem from="1745534618586" duration="18403000" />
-      <workItem from="1745669091363" duration="8116000" />
+      <workItem from="1745669091363" duration="12486000" />
     </task>
     <task id="LOCAL-00001" summary="Current project structure and first commit">
       <option name="closed" value="true" />
@@ -169,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745684013171</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Addition to fuel model and blocked path detection">
+      <option name="closed" value="true" />
+      <created>1745685378249</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745685378249</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,11 +191,14 @@
     <MESSAGE value="Big changes and updates" />
     <MESSAGE value="Added tests and some documentation" />
     <MESSAGE value="Major reworks, cleaning, and better documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Major reworks, cleaning, and better documentation" />
+    <MESSAGE value="Addition to fuel model and blocked path detection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addition to fuel model and blocked path detection" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/4050_Final_Project$main_simulation_runner.coverage" NAME="main_simulation_runner Coverage Results" MODIFIED="1745684668517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simulation_clean_polished" />
-    <SUITE FILE_PATH="coverage/4050_Final_Project$tests_run_all.coverage" NAME="tests_run_all Coverage Results" MODIFIED="1745604055460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/4050_Final_Project$main_simulation_runner.coverage" NAME="main_simulation_runner Coverage Results" MODIFIED="1745712038057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simulation_clean_polished" />
+    <SUITE FILE_PATH="coverage/4050_Final_Project$tests_run_all.coverage" NAME="tests_run_all Coverage Results" MODIFIED="1745685263475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests_clean_polished" />
     <SUITE FILE_PATH="coverage/4050_Final_Project$test_physics_model.coverage" NAME="test_physics_model Coverage Results" MODIFIED="1745603668668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4050_Final_Project$crash_test.coverage" NAME="crash_test Coverage Results" MODIFIED="1745686456904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests_clean_polished" />
+    <SUITE FILE_PATH="coverage/4050_Final_Project$test_trip_evaluator_noescape.coverage" NAME="test_trip_evaluator_noescape Coverage Results" MODIFIED="1745685174381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests_clean_polished" />
   </component>
 </project>
