@@ -23,9 +23,6 @@ def main() -> None:
     print("🚀 Generating raw data...")
     raw_gen = RawFeatureGenerator(seed=42)
     raw_gen.export_to_csv("../data/raw_features.csv", n=1000)
-    # print("📖 Generating narrative records...")
-    # narrative_gen = CarpernicusNarrativeGen(seed=42)
-    # narrative_gen.export_to_csv("../data/narrative_data.csv", n=1000)
 
     # Step 2: Clean raw data
     print("🧼 Cleaning raw data...")
