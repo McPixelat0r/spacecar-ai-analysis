@@ -12,19 +12,19 @@ from datetime import date
 from typing import List, Dict, Any
 
 
-def add_sensor_noise(value: float, noise_percent: float = 0.03) -> float:
-    """
-    Adds small random noise to a numerical sensor reading.
-
-    Args:
-        value (float): Original sensor value.
-        noise_percent (float): Maximum noise deviation as a fraction (default 3%).
-
-    Returns:
-        float: Noisy sensor value.
-    """
-    noise = random.uniform(-noise_percent, noise_percent) * value
-    return round(value + noise, 3)
+# def add_sensor_noise(value: float, noise_percent: float = 0.03) -> float:
+#     """
+#     Adds small random noise to a numerical sensor reading.
+#
+#     Args:
+#         value (float): Original sensor value.
+#         noise_percent (float): Maximum noise deviation as a fraction (default 3%).
+#
+#     Returns:
+#         float: Noisy sensor value.
+#     """
+#     noise = random.uniform(-noise_percent, noise_percent) * value
+#     return round(value + noise, 3)
 
 
 class RawFeatureGenerator:
@@ -147,11 +147,11 @@ class RawFeatureGenerator:
             "thrust_rear_kN": thrust_rear,
             "thrust_front_kN": thrust_front,
             "thrust_side_kN": thrust_side,
-            "FOV_Threat_Count": max(0, int(add_sensor_noise(random.randint(0, 8), noise_percent=0.05))),
-            "Min_Distance_In_FOV": add_sensor_noise(round(random.uniform(1.0, 10.0), 2)),
-            "FOV_Density": add_sensor_noise(round(random.uniform(0.1, 1.0), 2)),
-            "FOV_Front_Cone_Threat_Count": max(0, int(add_sensor_noise(random.randint(0, 5), noise_percent=0.05))),
-            "Angle_Weighted_Density": add_sensor_noise(round(random.uniform(0.0, 1.0), 2)),
+            "FOV_Threat_Count": max(0, int(random.randint(0, 8))),
+            "Min_Distance_In_FOV": round(random.uniform(1.0, 10.0), 2),
+            "FOV_Density": round(random.uniform(0.1, 1.0)),
+            "FOV_Front_Cone_Threat_Count": max(0, int((random.randint(0, 5)))),
+            "Angle_Weighted_Density": round(random.uniform(0.0, 1.0), 2),
             "Threats_Left_Sector": random.randint(0, 5),
             "Threats_Right_Sector": random.randint(0, 5),
             "Average_Threat_Angle_Offset": round(random.uniform(0.0, 90.0), 1),

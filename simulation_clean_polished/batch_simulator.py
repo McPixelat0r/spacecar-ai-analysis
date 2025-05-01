@@ -1,3 +1,4 @@
+# batch_simulator.py
 """
 Batch Simulator
 
@@ -15,7 +16,7 @@ from models_clean_polished.trajectory_prediction_model_smarter import Trajectory
 from models_clean_polished.simulated_trip_evaluator import SimulatedTripEvaluator
 from models_clean_polished.danger_rating_model_with_angle_weighting import DangerRatingModel
 from models_clean_polished.fuel_usage_model import FuelUsageModelEnhanced
-
+from simulation_clean_polished.load_crash_model import predict_crash
 
 class BatchSimulator:
     """
@@ -87,7 +88,7 @@ class BatchSimulator:
                 turn_angle=trajectory.get("TurnAngle", 0.0)
             )
 
-            result = {
+            enriched_row = {
                 **car,
                 "car_model": car.get("car_model", "Unknown"),
                 "car_type": car.get("car_type", "Unknown"),
@@ -101,4 +102,21 @@ class BatchSimulator:
                 **trip
             }
 
-            self.results.append(result)
+            # Predict crash using trained HGB model
+            crash_pred = predict_crash(pd.DataFrame([enriched_row]))[0]
+            crash_prob = predict_crash(pd.DataFrame([enriched_row]), return_proba=True)[0]
+            enriched_row["CrashPredicted"] = crash_pred
+            enriched_row["CrashProbability"] = round(crash_prob, 3)
+
+            self.results.append(enriched_row)
+
+    def save_results(self, filename: str = "./data/simulation_results.csv") -> None:
+        """
+        Save simulation results to a CSV file.
+
+        Args:
+            filename (str): Output file path. Defaults to './data/simulation_results.csv'.
+        """
+        df = pd.DataFrame(self.results)
+        df.to_csv(filename, index=False)
+        print(f"✅ Results saved to {filename}")

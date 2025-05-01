@@ -5,3 +5,5 @@ Faker~=37.1.0
 seaborn~=0.13.2
 statsmodels~=0.14.4
 scikit-learn~=1.6.1
+imbalanced-learn~=0.13.0
+joblib~=1.4.2

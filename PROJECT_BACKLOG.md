@@ -48,3 +48,51 @@ This file lists features that are either deferred (backlog) or considered option
 - [ ] Add derived variables to cleaned dataset
 - [ ] Enhanced correlation + VIF matrix with plot support
 
+## 🔧 Backlog Task: Build a 2D Simulation Environment for Crash Risk Evaluation
+
+### 🟡 Status: Planned
+
+### **Objective**
+Create a basic 2D simulation environment to generate `CrashOccurred` labels based on projected movement and obstacle collisions. This replaces synthetic `DangerScore` targets with supervised labels derived from spatial risk.
+
+### **Core Components**
+- **2D Grid/Space Representation**
+  - Coordinate system (e.g., 100×100 units)
+  - Car has a heading and position
+- **Obstacle Placement**
+  - Random asteroids within a perception radius
+- **Motion Projection**
+  - Simple heading vector without physics
+  - Collision check using bounding distance logic
+- **Label Generation**
+  - Assign `CrashOccurred = 1` if any collision is predicted
+  - `0` otherwise
+- **Feature Output**
+  - Keep same features (`Min_Distance`, `FOV_Density`, etc.)
+  - Add new `CrashOccurred` column
+
+### **Why It Matters**
+- Enables real, data-driven training of danger prediction models
+- Replaces fixed-rule logic with supervised learning
+- Forms the basis for realistic ML testing and generalization
+
+
+## 🔄 Backlog Task: Replace `random` with `numpy.random` in Simulation Logic
+
+### 🟡 Status: Planned
+
+### **Objective**
+Update simulation modules to use NumPy's `np.random` instead of Python's built-in `random` module for better reproducibility, consistency, and vectorized capability.
+
+### **Why It Matters**
+- Improves compatibility with the NumPy-based ML workflow
+- Enables cleaner seed management
+- Allows for future optimizations using NumPy arrays
+
+### **Suggested Changes**
+- In `simulated_environment.py`:
+  - Replace `random.uniform(...)` with `np.random.uniform(...)`
+  - Replace `random.randint(...)` with `np.random.randint(...)`
+  - Use `np.random.seed(seed)` in place of `random.seed(seed)`
+- In `generate_crash_labels.py` and any batch logic that uses random angles or distances:
+  - Convert to `np.random` equivalents to ensure consistency across all randomness sources

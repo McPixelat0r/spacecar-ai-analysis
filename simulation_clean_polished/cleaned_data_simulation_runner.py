@@ -16,7 +16,7 @@ from models_clean_polished.trajectory_prediction_model_smarter import Trajectory
 from models_clean_polished.simulated_trip_evaluator import SimulatedTripEvaluator
 
 
-def run_simulation_from_cleaned_data(filename: str = "cleaned_features.csv", limit: int = 10) -> List[Dict[str, Any]]:
+def run_simulation_from_cleaned_data(filename: str = "../data/cleaned_features.csv", limit: int = 10) -> List[Dict[str, Any]]:
     """
     Run a limited number of simulations from a cleaned dataset.
 
