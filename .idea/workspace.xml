@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="Touches to files, tests, etc.">
-      <change afterPath="$PROJECT_DIR$/ml_training/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml_training/danger_model_training.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newest_background_file.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/crash_classifier_training.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/generate_crash_labels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/load_crash_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/simulated_environment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROJECT_BACKLOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT_BACKLOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/narrative_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generation_clean_polished/raw_feature_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generation_clean_polished/raw_feature_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulation_clean_polished/batch_simulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulation_clean_polished/batch_simulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulation_clean_polished/cleaned_data_simulation_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulation_clean_polished/cleaned_data_simulation_runner.py" afterDir="false" />
-    </list>
+    <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="Touches to files, tests, etc." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

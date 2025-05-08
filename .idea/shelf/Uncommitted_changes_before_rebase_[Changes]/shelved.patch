@@ -1,0 +1,183 @@
+Index: .idea/csv-editor.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"CsvFileAttributes\">\n    <option name=\"attributeMap\">\n      <map>\n        <entry key=\"/data/narrative_data.csv\">\n          <value>\n            <Attribute>\n              <option name=\"separator\" value=\",\" />\n            </Attribute>\n          </value>\n        </entry>\n        <entry key=\"\\data\\cleaned_features.csv\">\n          <value>\n            <Attribute>\n              <option name=\"separator\" value=\",\" />\n            </Attribute>\n          </value>\n        </entry>\n        <entry key=\"\\data\\raw_features.csv\">\n          <value>\n            <Attribute>\n              <option name=\"separator\" value=\",\" />\n            </Attribute>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/csv-editor.xml b/.idea/csv-editor.xml
+--- a/.idea/csv-editor.xml	(revision 321486a27fd183007b7f6a10da2db60584b7d8e8)
++++ b/.idea/csv-editor.xml	(date 1746658206093)
+@@ -3,6 +3,13 @@
+   <component name="CsvFileAttributes">
+     <option name="attributeMap">
+       <map>
++        <entry key="/data/cleaned_features_with_crash.csv">
++          <value>
++            <Attribute>
++              <option name="separator" value="," />
++            </Attribute>
++          </value>
++        </entry>
+         <entry key="/data/narrative_data.csv">
+           <value>
+             <Attribute>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"6e8eb8de-a33b-4ab6-98d1-379b6352c981\" name=\"Changes\" comment=\"Update after migrating OS\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/4050_Final_Project.iml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/csv-editor.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/Developer_README.txt\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/PROJECT_BACKLOG.md\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/Quickstart_Commands.txt\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/SpaceCar_Project_Documents_FIXED.zip\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/SpaceCar_Project_Documents_FIXED/FUTURE_DEEP_DIVE_TOPICS.md\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/SpaceCar_Project_Documents_FIXED/PROJECT_SUMMARY_LOG.md\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/analysis_clean_polished/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/analysis_clean_polished/data_cleaning.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/analysis_clean_polished/feature_analysis.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/analysis_clean_polished/perception_filter.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/backups.zip\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/data/cleaned_features.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/data/raw_features.csv\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/generation_clean_polished/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/generation_clean_polished/raw_feature_generator.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/generation_clean_polished_v2.zip\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/generation_clean_polished_v3.zip\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ml_training/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ml_training/danger_model_training.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/models_clean_polished/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/models_clean_polished/cost_optimization_model_simple.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/models_clean_polished/danger_rating_model_with_angle_weighting.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/models_clean_polished/fuel_usage_model.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/models_clean_polished/simulated_trip_evaluator.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/models_clean_polished/trajectory_prediction_model_physics.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/models_clean_polished/trajectory_prediction_model_smarter.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/newest_background_file.md\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/pre_clean_backup.zip\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/requirements.txt\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/simulation_clean_polished/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/simulation_clean_polished/batch_simulator.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/simulation_clean_polished/cleaned_data_simulation_runner.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/simulation_clean_polished/crash_classifier_training.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/simulation_clean_polished/crash_prediction_evaluation.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/simulation_clean_polished/generate_crash_labels.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/simulation_clean_polished/load_crash_model.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/simulation_clean_polished/main_simulation_runner.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/simulation_clean_polished/simulated_environment.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/tests_clean_polished/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/tests_clean_polished/crash_test.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/tests_clean_polished/test_counter_torque.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/tests_clean_polished/test_high_momentum.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/tests_clean_polished/test_no_threats.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/tests_clean_polished/test_physics_model.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/tests_clean_polished/test_threat_flip.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/tests_clean_polished/test_trip_evaluator_noescape.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/tests_clean_polished/tests_run_all.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <branch-grouping />\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;McPixelat0r&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/McPixelat0r/spacecar-ai-analysis.git&quot;,\n    &quot;accountId&quot;: &quot;8f9c9cbd-f37f-45b8-b018-4c6a20f78f1b&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 6\n}</component>\n  <component name=\"ProjectId\" id=\"2w5KgaJkxSCIlNEPqaddxfaTp2r\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Python.batch_simulator.executor\": \"Run\",\n    \"Python.cleaned_data_simulation_runner.executor\": \"Run\",\n    \"Python.crash_classifier_training.executor\": \"Run\",\n    \"Python.crash_test.executor\": \"Run\",\n    \"Python.danger_model_training.executor\": \"Run\",\n    \"Python.danger_rating_model_with_angle_weighting.executor\": \"Run\",\n    \"Python.export_raw_data.executor\": \"Run\",\n    \"Python.generate_crash_labels.executor\": \"Run\",\n    \"Python.main.executor\": \"Run\",\n    \"Python.main_simulation_runner.executor\": \"Run\",\n    \"Python.main_simulation_simple.executor\": \"Run\",\n    \"Python.perception_filter.executor\": \"Run\",\n    \"Python.raw_feature_generator.executor\": \"Run\",\n    \"Python.simulated_environment.executor\": \"Run\",\n    \"Python.test_physics_model.executor\": \"Run\",\n    \"Python.test_trip_evaluator_noescape.executor\": \"Run\",\n    \"Python.tests_run_all.executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"ignore.virus.scanning.warn.message\": \"true\",\n    \"last_opened_file_path\": \"/home/pix/Documents/PycharmProjects/4050_Final_Project/.venv/pyvenv.cfg\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable\",\n    \"settings.editor.splitter.proportion\": \"0.25543994\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\juanc\\PycharmProjects\\4050_Final_Project\" />\n      <recent name=\"C:\\Users\\juanc\\PycharmProjects\\4050_Final_Project\\simulation\" />\n      <recent name=\"C:\\Users\\juanc\\PycharmProjects\\4050_Final_Project\\models\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\juanc\\PycharmProjects\\4050_Final_Project\" />\n      <recent name=\"C:\\Users\\juanc\\PycharmProjects\\4050_Final_Project\\tests\" />\n      <recent name=\"C:\\Users\\juanc\\PycharmProjects\\4050_Final_Project\\simulation\" />\n      <recent name=\"C:\\Users\\juanc\\PycharmProjects\\4050_Final_Project\\data\" />\n      <recent name=\"C:\\Users\\juanc\\PycharmProjects\\4050_Final_Project\\analysis\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444\" />\n        <option value=\"bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"6e8eb8de-a33b-4ab6-98d1-379b6352c981\" name=\"Changes\" comment=\"\" />\n      <created>1745326106641</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1745326106641</updated>\n      <workItem from=\"1745534618586\" duration=\"18403000\" />\n      <workItem from=\"1745669091363\" duration=\"14196000\" />\n      <workItem from=\"1745760659270\" duration=\"629000\" />\n      <workItem from=\"1745761301745\" duration=\"306000\" />\n      <workItem from=\"1745761619306\" duration=\"2114000\" />\n      <workItem from=\"1745805598370\" duration=\"617000\" />\n      <workItem from=\"1745854332009\" duration=\"12000\" />\n      <workItem from=\"1745862088544\" duration=\"29696000\" />\n      <workItem from=\"1746070110939\" duration=\"2943000\" />\n      <workItem from=\"1746073084751\" duration=\"2348000\" />\n      <workItem from=\"1746386393525\" duration=\"2329000\" />\n      <workItem from=\"1746646096609\" duration=\"1296000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Current project structure and first commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745527932587</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745527932587</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Current project structure and first commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745527986588</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745527986588</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Current project structure and first commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745528068485</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745528068485</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Current project structure and first commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745528775940</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745528775940</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Big changes and updates\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745602604241</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745602604241</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Added tests and some documentation\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745604187992</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745604187992</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Major reworks, cleaning, and better documentation\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745683966980</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745683966980</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Major reworks, cleaning, and better documentation\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745684013171</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745684013171</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Addition to fuel model and blocked path detection\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745685378249</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745685378249</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Touches to files, tests, etc.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1745716194806</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1745716194806</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"Touches to files, tests, etc.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1746029465000</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1746029465000</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"Started working with training data and created new directory\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1746075431161</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1746075431161</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"13\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"main\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Current project structure and first commit\" />\n    <MESSAGE value=\"Big changes and updates\" />\n    <MESSAGE value=\"Added tests and some documentation\" />\n    <MESSAGE value=\"Major reworks, cleaning, and better documentation\" />\n    <MESSAGE value=\"Addition to fuel model and blocked path detection\" />\n    <MESSAGE value=\"Touches to files, tests, etc.\" />\n    <MESSAGE value=\"Started working with training data and created new directory\" />\n    <MESSAGE value=\"Update after migrating OS\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Update after migrating OS\" />\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$crash_classifier_training.coverage\" NAME=\"crash_classifier_training Coverage Results\" MODIFIED=\"1746073974236\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/simulation_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$main_simulation_runner.coverage\" NAME=\"main_simulation_runner Coverage Results\" MODIFIED=\"1746029627110\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/simulation_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$danger_model_training.coverage\" NAME=\"danger_model_training Coverage Results\" MODIFIED=\"1746072510415\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/ml_training\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$simulated_environment.coverage\" NAME=\"simulated_environment Coverage Results\" MODIFIED=\"1746072418948\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/simulation_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$crash_test.coverage\" NAME=\"crash_test Coverage Results\" MODIFIED=\"1745686456904\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/tests_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$generate_crash_labels.coverage\" NAME=\"generate_crash_labels Coverage Results\" MODIFIED=\"1746072576380\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/simulation_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$test_trip_evaluator_noescape.coverage\" NAME=\"test_trip_evaluator_noescape Coverage Results\" MODIFIED=\"1745685174381\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/tests_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$batch_simulator.coverage\" NAME=\"batch_simulator Coverage Results\" MODIFIED=\"1746075280604\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/simulation_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$cleaned_data_simulation_runner.coverage\" NAME=\"cleaned_data_simulation_runner Coverage Results\" MODIFIED=\"1746072481386\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/simulation_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$tests_run_all.coverage\" NAME=\"tests_run_all Coverage Results\" MODIFIED=\"1745685263475\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/tests_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$test_physics_model.coverage\" NAME=\"test_physics_model Coverage Results\" MODIFIED=\"1745603668668\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$raw_feature_generator.coverage\" NAME=\"raw_feature_generator Coverage Results\" MODIFIED=\"1745862099788\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/generation_clean_polished\" />\n    <SUITE FILE_PATH=\"coverage/4050_Final_Project$danger_rating_model_with_angle_weighting.coverage\" NAME=\"danger_rating_model_with_angle_weighting Coverage Results\" MODIFIED=\"1746072505553\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/models_clean_polished\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 321486a27fd183007b7f6a10da2db60584b7d8e8)
++++ b/.idea/workspace.xml	(date 1746658164228)
+@@ -5,60 +5,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="6e8eb8de-a33b-4ab6-98d1-379b6352c981" name="Changes" comment="Update after migrating OS">
+-      <change afterPath="$PROJECT_DIR$/.idea/4050_Final_Project.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Developer_README.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/PROJECT_BACKLOG.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Quickstart_Commands.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/SpaceCar_Project_Documents_FIXED.zip" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/SpaceCar_Project_Documents_FIXED/FUTURE_DEEP_DIVE_TOPICS.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/SpaceCar_Project_Documents_FIXED/PROJECT_SUMMARY_LOG.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/analysis_clean_polished/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/analysis_clean_polished/data_cleaning.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/analysis_clean_polished/feature_analysis.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/analysis_clean_polished/perception_filter.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/backups.zip" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/data/cleaned_features.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/data/raw_features.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/generation_clean_polished/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/generation_clean_polished/raw_feature_generator.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/generation_clean_polished_v2.zip" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/generation_clean_polished_v3.zip" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ml_training/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ml_training/danger_model_training.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/models_clean_polished/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/models_clean_polished/cost_optimization_model_simple.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/models_clean_polished/danger_rating_model_with_angle_weighting.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/models_clean_polished/fuel_usage_model.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/models_clean_polished/simulated_trip_evaluator.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/models_clean_polished/trajectory_prediction_model_physics.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/models_clean_polished/trajectory_prediction_model_smarter.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/newest_background_file.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pre_clean_backup.zip" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/batch_simulator.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/cleaned_data_simulation_runner.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/crash_classifier_training.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/crash_prediction_evaluation.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/generate_crash_labels.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/load_crash_model.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/main_simulation_runner.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/simulation_clean_polished/simulated_environment.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests_clean_polished/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests_clean_polished/crash_test.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests_clean_polished/test_counter_torque.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests_clean_polished/test_high_momentum.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests_clean_polished/test_no_threats.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests_clean_polished/test_physics_model.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests_clean_polished/test_threat_flip.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests_clean_polished/test_trip_evaluator_noescape.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests_clean_polished/tests_run_all.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -99,41 +46,41 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.batch_simulator.executor": "Run",
+-    "Python.cleaned_data_simulation_runner.executor": "Run",
+-    "Python.crash_classifier_training.executor": "Run",
+-    "Python.crash_test.executor": "Run",
+-    "Python.danger_model_training.executor": "Run",
+-    "Python.danger_rating_model_with_angle_weighting.executor": "Run",
+-    "Python.export_raw_data.executor": "Run",
+-    "Python.generate_crash_labels.executor": "Run",
+-    "Python.main.executor": "Run",
+-    "Python.main_simulation_runner.executor": "Run",
+-    "Python.main_simulation_simple.executor": "Run",
+-    "Python.perception_filter.executor": "Run",
+-    "Python.raw_feature_generator.executor": "Run",
+-    "Python.simulated_environment.executor": "Run",
+-    "Python.test_physics_model.executor": "Run",
+-    "Python.test_trip_evaluator_noescape.executor": "Run",
+-    "Python.tests_run_all.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "main",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "last_opened_file_path": "/home/pix/Documents/PycharmProjects/4050_Final_Project/.venv/pyvenv.cfg",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
+-    "settings.editor.splitter.proportion": "0.25543994",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.batch_simulator.executor&quot;: &quot;Run&quot;,
++    &quot;Python.cleaned_data_simulation_runner.executor&quot;: &quot;Run&quot;,
++    &quot;Python.crash_classifier_training.executor&quot;: &quot;Run&quot;,
++    &quot;Python.crash_test.executor&quot;: &quot;Run&quot;,
++    &quot;Python.danger_model_training.executor&quot;: &quot;Run&quot;,
++    &quot;Python.danger_rating_model_with_angle_weighting.executor&quot;: &quot;Run&quot;,
++    &quot;Python.export_raw_data.executor&quot;: &quot;Run&quot;,
++    &quot;Python.generate_crash_labels.executor&quot;: &quot;Run&quot;,
++    &quot;Python.main.executor&quot;: &quot;Run&quot;,
++    &quot;Python.main_simulation_runner.executor&quot;: &quot;Run&quot;,
++    &quot;Python.main_simulation_simple.executor&quot;: &quot;Run&quot;,
++    &quot;Python.perception_filter.executor&quot;: &quot;Run&quot;,
++    &quot;Python.raw_feature_generator.executor&quot;: &quot;Run&quot;,
++    &quot;Python.simulated_environment.executor&quot;: &quot;Run&quot;,
++    &quot;Python.test_physics_model.executor&quot;: &quot;Run&quot;,
++    &quot;Python.test_trip_evaluator_noescape.executor&quot;: &quot;Run&quot;,
++    &quot;Python.tests_run_all.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/home/pix/Documents/PycharmProjects/4050_Final_Project/.venv/pyvenv.cfg&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
++    &quot;settings.editor.splitter.proportion&quot;: &quot;0.25543994&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\juanc\PycharmProjects\4050_Final_Project" />
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	(date 1746658163915)
++++ b/.gitignore	(date 1746658163915)
+@@ -0,0 +1,1 @@
++/current.zip
